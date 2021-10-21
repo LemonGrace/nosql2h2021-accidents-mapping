@@ -103,4 +103,5 @@
 
 
 ## Макет пользовательского интерфейса:
-![maket](https://user-images.githubusercontent.com/42918083/138031330-cfa9b673-a64b-4904-8c73-c49c03ea28f1.png)
+
+![maket 2](https://user-images.githubusercontent.com/42918083/138223956-aea44069-1688-41a6-b513-5bf24df307a9.png)
