@@ -1,10 +1,12 @@
+from typing import Set
+
 import motor.motor_asyncio
 from bson.objectid import ObjectId
 from decouple import config
 
-# MONGO_DETAILS = config('MONGO_DETAILS') # read environment variable.
-MONGO_DETAILS = "mongodb://localhost:27017"
-# MONGO_DETAILS = MONGO_DETAILS
+MONGO_DETAILS = config('MONGO_DETAILS') # read environment variable.
+# MONGO_DETAILS = "mongodb://localhost:27017"
+MONGO_DETAILS = MONGO_DETAILS
 
 client = motor.motor_asyncio.AsyncIOMotorClient(MONGO_DETAILS)
 
@@ -18,9 +20,7 @@ def car_helper(car) -> dict:
     return {
         "id": str(car["_id"]),
         "brand": car["brand"],
-        "series": car["series"],
-        "color": car["color"],
-        "year_of_release": car["year_of_release"]
+        "models": car['models']
     }
 
 

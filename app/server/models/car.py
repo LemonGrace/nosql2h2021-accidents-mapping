@@ -1,38 +1,121 @@
-from typing import Optional
+from typing import Optional, List
 
 from pydantic import BaseModel, Field
 
 
+class MyBaseModel(BaseModel):
+    def __hash__(self):  # make hashable BaseModel subclass
+        return hash((type(self),) + tuple(self.__dict__.values()))
+
+
+class GenerationSchema(MyBaseModel):
+    fullName: str = Field(...)
+    firstYearProduction: int = Field(...)
+    lastYearProduction: int = Field(...)
+    topSpeed: Optional[int]
+    acceleration: Optional[int]
+    lenght: Optional[int]
+    width: Optional[int]
+    height: Optional[int]
+    wheelBase: Optional[int]
+    wheelTrack: Optional[int]
+    cargoVolume: Optional[int]
+    aerodynamics: Optional[int]
+    driveType: Optional[str]
+    gearBox: Optional[str]
+    fuel: Optional[str]
+
+
+class ModelSchema(MyBaseModel):
+    modelName: str = Field(...)
+    firstYearProduction: int = Field(...)
+    engineType: str = Field(...)
+    style: str = Field(...)
+    generations: Optional[List[GenerationSchema]]
+
+
 class CarSchema(BaseModel):
     brand: str = Field(...)
-    series: str = Field(...)
-    color: str = Field(...)
-    year_of_release: int = Field(...)
+    models: Optional[List[ModelSchema]]
 
     class Config:
         schema_extra = {
             "example": {
-                "brand": "BMW",
-                "series": "M3",
-                "color": "Blue",
-                "year_of_release": "2016",
+                "brand": "AUDI",
+                "models": [
+                    {
+                        "modelName": "AUDI S8",
+                        "firstYearProduction": 1996,
+                        "engineType": "Gasoline",
+                        "style": "",
+                        "generations": [
+                            {
+                                "fullName": "AUDI S8",
+                                "firstYearProduction": 2019,
+                                "lastYearProduction": 2021,
+                                "topSpeed": 249,
+                                "acceleration": 3.8,
+                                "lenght": 5179,
+                                "width": 1946,
+                                "height": 1473,
+                                "wheelBase": 2997,
+                                "wheelTrack": 1.628,
+                                "cargoVolume": 504,
+                                "aerodynamics": 0.27,
+                                "driveType": "All Wheel Drive",
+                                "gearBox": "8-speed automatic Tiptronic",
+                                "fuel": "Gasoline"
+                            }
+                        ]
+                    }
+                ]
             }
         }
 
 
+class UpdateModelModel(MyBaseModel):
+    modelName: Optional[str]
+    firstYearProduction: Optional[int]
+    engineType: Optional[str]
+    style: Optional[str]
+    generations: Optional[List[GenerationSchema]]
+
+
 class UpdateCarModel(BaseModel):
     brand: Optional[str]
-    series: Optional[str]
-    color: Optional[str]
-    year_of_release: Optional[int]
+    models: List[ModelSchema]
 
     class Config:
         schema_extra = {
             "example": {
-                "brand": "BMW",
-                "series": "M5",
-                "color": "Yellow",
-                "year_of_release": "2020",
+                "brand": "AUDI",
+                "models": [
+                    {
+                        "modelName": "AUDI S8",
+                        "firstYearProduction": 1996,
+                        "engineType": "Gasoline",
+                        "style": "",
+                        "generations": [
+                            {
+                                "fullName": "AUDI S8",
+                                "firstYearProduction": 2019,
+                                "lastYearProduction": 2021,
+                                "topSpeed": 249,
+                                "acceleration": 3.8,
+                                "lenght": 5179,
+                                "width": 1946,
+                                "height": 1473,
+                                "wheelBase": 2997,
+                                "wheelTrack": 1.628,
+                                "cargoVolume": 504,
+                                "aerodynamics": 0.27,
+                                "driveType": "All Wheel Drive",
+                                "gearBox": "8-speed automatic Tiptronic",
+                                "fuel": "Gasoline"
+                            }
+                        ]
+                    }
+                ]
             }
         }
 
