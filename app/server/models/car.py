@@ -10,17 +10,17 @@ class MyBaseModel(BaseModel):
 
 class GenerationSchema(MyBaseModel):
     fullName: str = Field(...)
-    firstYearProduction: int = Field(...)
-    lastYearProduction: int = Field(...)
-    topSpeed: Optional[int]
-    acceleration: Optional[int]
-    lenght: Optional[int]
-    width: Optional[int]
-    height: Optional[int]
-    wheelBase: Optional[int]
-    wheelTrack: Optional[int]
-    cargoVolume: Optional[int]
-    aerodynamics: Optional[int]
+    firstYearProduction: str = Field(...)
+    lastYearProduction: str = Field(...)
+    topSpeed: Optional[str]
+    acceleration: Optional[str]
+    lenght: Optional[str]
+    width: Optional[str]
+    height: Optional[str]
+    wheelBase: Optional[str]
+    wheelTrack: Optional[str]
+    cargoVolume: Optional[str]
+    aerodynamics: Optional[str]
     driveType: Optional[str]
     gearBox: Optional[str]
     fuel: Optional[str]
@@ -28,9 +28,9 @@ class GenerationSchema(MyBaseModel):
 
 class ModelSchema(MyBaseModel):
     modelName: str = Field(...)
-    firstYearProduction: int = Field(...)
+    firstYearProduction: str = Field(...)
     engineType: str = Field(...)
-    style: str = Field(...)
+    style: Optional[str] = Field(...)
     generations: Optional[List[GenerationSchema]]
 
 
@@ -45,23 +45,23 @@ class CarSchema(BaseModel):
                 "models": [
                     {
                         "modelName": "AUDI S8",
-                        "firstYearProduction": 1996,
+                        "firstYearProduction": "1996",
                         "engineType": "Gasoline",
                         "style": "",
                         "generations": [
                             {
                                 "fullName": "AUDI S8",
-                                "firstYearProduction": 2019,
-                                "lastYearProduction": 2021,
-                                "topSpeed": 249,
-                                "acceleration": 3.8,
-                                "lenght": 5179,
-                                "width": 1946,
-                                "height": 1473,
-                                "wheelBase": 2997,
-                                "wheelTrack": 1.628,
-                                "cargoVolume": 504,
-                                "aerodynamics": 0.27,
+                                "firstYearProduction": "2019",
+                                "lastYearProduction": "2021",
+                                "topSpeed": "249",
+                                "acceleration": "3.8",
+                                "lenght": "5179",
+                                "width": "1946",
+                                "height": "1473",
+                                "wheelBase": "2997",
+                                "wheelTrack": "1.628",
+                                "cargoVolume": "504",
+                                "aerodynamics": "0.27",
                                 "driveType": "All Wheel Drive",
                                 "gearBox": "8-speed automatic Tiptronic",
                                 "fuel": "Gasoline"
@@ -92,23 +92,23 @@ class UpdateCarModel(BaseModel):
                 "models": [
                     {
                         "modelName": "AUDI S8",
-                        "firstYearProduction": 1996,
+                        "firstYearProduction": "1996",
                         "engineType": "Gasoline",
                         "style": "",
                         "generations": [
                             {
                                 "fullName": "AUDI S8",
-                                "firstYearProduction": 2019,
-                                "lastYearProduction": 2021,
-                                "topSpeed": 249,
-                                "acceleration": 3.8,
-                                "lenght": 5179,
-                                "width": 1946,
-                                "height": 1473,
-                                "wheelBase": 2997,
-                                "wheelTrack": 1.628,
-                                "cargoVolume": 504,
-                                "aerodynamics": 0.27,
+                                "firstYearProduction": "2019",
+                                "lastYearProduction": "2021",
+                                "topSpeed": "249",
+                                "acceleration": "3.8",
+                                "lenght": "5179",
+                                "width": "1946",
+                                "height": "1473",
+                                "wheelBase": "2997",
+                                "wheelTrack": "1.628",
+                                "cargoVolume": "504",
+                                "aerodynamics": "0.27",
                                 "driveType": "All Wheel Drive",
                                 "gearBox": "8-speed automatic Tiptronic",
                                 "fuel": "Gasoline"
