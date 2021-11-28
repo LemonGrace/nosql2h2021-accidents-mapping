@@ -29,7 +29,7 @@ class GenerationSchema(MyBaseModel):
 class ModelSchema(MyBaseModel):
     modelName: str = Field(...)
     firstYearProduction: str = Field(...)
-    engineType: str = Field(...)
+    engineType: Optional[str] = Field(...)
     style: Optional[str] = Field(...)
     generations: Optional[List[GenerationSchema]]
 

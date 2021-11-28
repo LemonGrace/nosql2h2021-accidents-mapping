@@ -1,12 +1,12 @@
-from typing import Set
+from pathlib import Path, PurePosixPath
 
 import motor.motor_asyncio
 from bson.objectid import ObjectId
 from decouple import config
 
-MONGO_DETAILS = config('MONGO_DETAILS') # read environment variable.
-# MONGO_DETAILS = "mongodb://localhost:27017"
-MONGO_DETAILS = MONGO_DETAILS
+# MONGO_DETAILS = config('MONGO_DETAILS') # read environment variable.
+MONGO_DETAILS = "mongodb://localhost:27017"
+# MONGO_DETAILS = MONGO_DETAILS
 
 client = motor.motor_asyncio.AsyncIOMotorClient(MONGO_DETAILS)
 
@@ -43,8 +43,9 @@ async def add_car(car_data: dict) -> dict:
 async def retrieve_cars_brands():
     cars = []
     async for car in car_collection.find():
-        cars.append(car["brand"])
-    return list(set(cars))
+        data = {'brand': car["brand"], 'logo': PurePosixPath("source", "image", "brands", str(car["brand"]).upper() + ".jpg")}
+        cars.append(data)
+    return list(cars)
 
 # Получить автомобили соответствующей марки
 async def retrieve_car_on_brand(brand: str) -> list:
@@ -54,10 +55,16 @@ async def retrieve_car_on_brand(brand: str) -> list:
         for item in car['models']:
             model = {'modelName': item['modelName'],
                      'firstYearProduction': item['firstYearProduction'],
-                     'engineType': item['engineType'],
-                     'style': item['style'],
                      'generations_count': len(item['generations']),
                      }
+            if 'engineType' in item:
+                model['engineType'] = item['engineType']
+            if 'style' in item:
+                model['style'] = item['style']
+            if 'generations' in item:
+                model['generations_count'] = len(item['generations'])
+            else:
+                model['generations_count'] = 0
             arr.append(model)
         return arr
 
@@ -66,9 +73,14 @@ async def retrieve_car_on_brand(brand: str) -> list:
 async def retrieve_generations_car(brand: str, model_name: str) -> list:
     data = await car_collection.find_one({'brand': brand, 'models': {'$elemMatch': {'modelName': model_name}}},
                                          {'models.$': 1})
+    model_name = model_name.replace(' ', '_')
     if data:
         model_data = data['models'][0]
         if'generations' in model_data:
+            for i, gen in enumerate(model_data['generations']):
+                model_data['generations'][i]['image'] = PurePosixPath("source", "image", "generations",
+                                                                      brand.upper(), model_name,
+                                                                      str(gen['fullName']).replace(' ', '_') + '.jpg')
             return model_data['generations']
 
 # Получить автомобиль с соответствующим ID

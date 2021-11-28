@@ -38,9 +38,7 @@ async def get_cars_on_brand(brand: str):
 
 
 # Информация о поколениях модели
-@router.get("/{brand}/{model}", response_description="Возвращает список поколений машин определенной модели и марки. \n"
-                                                     "(Если lastYearProduction = 0, значит машина выпускается "
-                                                     "по настоящее время)")
+@router.get("/{brand}/{model}", response_description="Возвращает список поколений машин определенной модели и марки.")
 async def get_generations_car(brand: str, model: str):
     car = await retrieve_generations_car(brand, model)
     if car:
