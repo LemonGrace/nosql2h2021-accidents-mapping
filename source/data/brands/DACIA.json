@@ -1,0 +1,534 @@
+{
+   "brand": "DACIA",
+   "models": [
+      {
+         "modelName": "DACIA Duster",
+         "firstYearProduction": "2010",
+         "engineType": "Diesel, Liquefied petroleum gas (lpg), Gasoline, Natural gas",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "DACIA Duster",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Prese",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6-speed manual",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "DACIA Duster",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "2021",
+               "topSpeed": "177",
+               "acceleration": "10.4",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "4341",
+               "width": "1803",
+               "height": "1687",
+               "wheelBase": "2672",
+               "wheelTrack": "1.562",
+               "cargoVolume": "445",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "DACIA Duster",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "2017",
+               "topSpeed": "163",
+               "acceleration": "11.7",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "4315",
+               "width": "1821",
+               "height": "1626",
+               "wheelBase": "2672",
+               "wheelTrack": "1.560",
+               "cargoVolume": "473",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "DACIA Duster",
+               "firstYearProduction": "2010",
+               "lastYearProduction": "2013",
+               "topSpeed": "175",
+               "acceleration": "10.4",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "4315",
+               "width": "1821",
+               "height": "1626",
+               "wheelBase": "2672",
+               "wheelTrack": "1.560",
+               "cargoVolume": "473",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "DACIA Sandero Stepway",
+         "firstYearProduction": "2009",
+         "engineType": "Liquefied petroleum gas (lpg), Gasoline, Diesel",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "DACIA Sandero Stepway",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "4100",
+               "width": "1849",
+               "height": "1534",
+               "wheelBase": "2604",
+               "wheelTrack": "1.519",
+               "cargoVolume": "328",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "DACIA Sandero Stepway",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "2020",
+               "topSpeed": "167",
+               "acceleration": "12.3",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-speed automatic",
+               "length": "4089",
+               "width": "1758",
+               "height": "1618",
+               "wheelBase": "2588",
+               "wheelTrack": "1.488",
+               "cargoVolume": "320",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "DACIA Sandero Stepway 2",
+               "firstYearProduction": "2012",
+               "lastYearProduction": "2016",
+               "topSpeed": "167",
+               "acceleration": "11.1",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-speed manual",
+               "length": "4079",
+               "width": "1758",
+               "height": "1618",
+               "wheelBase": "2588",
+               "wheelTrack": "1.496",
+               "cargoVolume": "320",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "DACIA Sandero Stepway",
+               "firstYearProduction": "2009",
+               "lastYearProduction": "2012",
+               "topSpeed": "167",
+               "acceleration": "12.2",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-speed manual",
+               "length": "4023",
+               "width": "1753",
+               "height": "1549",
+               "wheelBase": "2588",
+               "wheelTrack": "1.494",
+               "cargoVolume": "320",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "DACIA Sandero",
+         "firstYearProduction": "2008",
+         "engineType": "Gasoline, Liquefied petroleum gas (lpg), Diesel, Natural gas, Ethanol",
+         "style": "Hatchback",
+         "generations": [
+            {
+               "fullName": "DACIA Sandero",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-speed manual",
+               "length": "4087",
+               "width": "1849",
+               "height": "1499",
+               "wheelBase": "2604",
+               "wheelTrack": "1.532",
+               "cargoVolume": "328",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "DACIA Sandero",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "2020",
+               "topSpeed": "169",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-speed automatic",
+               "length": "4056",
+               "width": "1732",
+               "height": "1524",
+               "wheelBase": "2588",
+               "wheelTrack": "1.496",
+               "cargoVolume": "351",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "DACIA Sandero 2",
+               "firstYearProduction": "2012",
+               "lastYearProduction": "2016",
+               "topSpeed": "175",
+               "acceleration": "11.1",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-speed manual",
+               "length": "4056",
+               "width": "1732",
+               "height": "1524",
+               "wheelBase": "2588",
+               "wheelTrack": "1.496",
+               "cargoVolume": "320",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "DACIA Sandero",
+               "firstYearProduction": "2008",
+               "lastYearProduction": "2012",
+               "topSpeed": "161",
+               "acceleration": "13.6",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "4021",
+               "width": "1745",
+               "height": "1534",
+               "wheelBase": "2588",
+               "wheelTrack": "1.481",
+               "cargoVolume": "320",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "DACIA Logan",
+         "firstYearProduction": "2004",
+         "engineType": "Gasoline, , Natural gas, Diesel",
+         "generations": [
+            {
+               "fullName": "DACIA Logan",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "4397",
+               "width": "1849",
+               "height": "1501",
+               "wheelBase": "2649",
+               "wheelTrack": "1.532",
+               "cargoVolume": "527",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "DACIA Logan",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "2020",
+               "topSpeed": "169",
+               "acceleration": "11.3",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-speed automatic",
+               "length": "4346",
+               "width": "1732",
+               "height": "1516",
+               "wheelBase": "2634",
+               "wheelTrack": "1.496",
+               "cargoVolume": "510",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "DACIA Logan 2",
+               "firstYearProduction": "2012",
+               "lastYearProduction": "2016",
+               "topSpeed": "169",
+               "acceleration": "11.1",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-speed manual",
+               "length": "4346",
+               "width": "1732",
+               "height": "1516",
+               "wheelBase": "2634",
+               "wheelTrack": "1.496",
+               "cargoVolume": "510",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "DACIA Logan",
+               "firstYearProduction": "2008",
+               "lastYearProduction": "2012",
+               "topSpeed": "162",
+               "acceleration": "13",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "4290",
+               "width": "1740",
+               "height": "1524",
+               "wheelBase": "2629",
+               "wheelTrack": "1.483",
+               "cargoVolume": "510",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "DACIA Logan",
+               "firstYearProduction": "2004",
+               "lastYearProduction": "2008",
+               "topSpeed": "162",
+               "acceleration": "13",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "4249",
+               "width": "1740",
+               "height": "1529",
+               "wheelBase": "2629",
+               "wheelTrack": "1.481",
+               "cargoVolume": "510",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "DACIA Logan MCV",
+         "firstYearProduction": "2006",
+         "engineType": "Gasoline, Natural gas, Diesel",
+         "style": "Wagon (station wagon, estate, combi, touring)",
+         "generations": [
+            {
+               "fullName": "DACIA Logan MCV",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "Prese",
+               "topSpeed": "169",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-speed automatic",
+               "length": "4493",
+               "width": "1732",
+               "height": "1519",
+               "wheelBase": "2634",
+               "wheelTrack": "1.496",
+               "cargoVolume": "572",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "DACIA Logan MCV",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "2016",
+               "topSpeed": "175",
+               "acceleration": "11.1",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "4493",
+               "width": "1732",
+               "height": "1549",
+               "wheelBase": "2634",
+               "wheelTrack": "1.494",
+               "cargoVolume": "572",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "DACIA Logan MCV",
+               "firstYearProduction": "2008",
+               "lastYearProduction": "2012",
+               "topSpeed": "154",
+               "acceleration": "15.6",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-speed manual",
+               "length": "4473",
+               "width": "1740",
+               "height": "1674",
+               "wheelBase": "2903",
+               "wheelTrack": "1.468",
+               "cargoVolume": "699",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "DACIA Logan MCV",
+               "firstYearProduction": "2006",
+               "lastYearProduction": "2008",
+               "topSpeed": "155",
+               "acceleration": "15.6",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-speed manual",
+               "length": "4450",
+               "width": "1994",
+               "height": "1641",
+               "wheelBase": "2906",
+               "wheelTrack": "1.481",
+               "cargoVolume": "694",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "DACIA Dokker Van",
+         "firstYearProduction": "2012",
+         "engineType": "Gasoline, Diesel, Natural gas",
+         "style": "Van",
+         "generations": [
+            {
+               "fullName": "DACIA Dokker Van",
+               "firstYearProduction": "2012",
+               "lastYearProduction": "Prese",
+               "topSpeed": "175",
+               "acceleration": "10.4",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-speed manual",
+               "length": "4364",
+               "width": "1095",
+               "height": "1814",
+               "wheelBase": "2809",
+               "wheelTrack": "1.491",
+               "cargoVolume": "3299",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "DACIA Duster Pick-Up",
+         "firstYearProduction": "2020",
+         "engineType": "Diesel",
+         "style": "Truck",
+         "generations": [
+            {
+               "fullName": "DACIA Duster Pick-Up",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "drive type": "All Wheel Drive",
+               "length": "4341",
+               "width": "1821",
+               "height": "1679",
+               "wheelBase": "2672",
+               "wheelTrack": "1.562",
+               "cargoVolume": "1000",
+               "fuel": "Diesel"
+            }
+         ]
+      },
+      {
+         "modelName": "DACIA Dokker",
+         "firstYearProduction": "2012",
+         "engineType": "Gasoline, Diesel, Natural gas",
+         "style": "Van",
+         "generations": [
+            {
+               "fullName": "DACIA Dokker",
+               "firstYearProduction": "2012",
+               "lastYearProduction": "Prese",
+               "topSpeed": "175",
+               "acceleration": "10.7",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-speed manual",
+               "length": "4364",
+               "width": "1095",
+               "height": "1814",
+               "wheelBase": "2809",
+               "wheelTrack": "1.491",
+               "cargoVolume": "801",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "DACIA Logan MCV Stepway",
+         "firstYearProduction": "2017",
+         "engineType": "Gasoline, Natural gas, Diesel",
+         "style": "Wagon (station wagon, estate, combi, touring)",
+         "generations": [
+            {
+               "fullName": "DACIA Logan MCV Stepway",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Prese",
+               "topSpeed": "171",
+               "acceleration": "11.1",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-speed automatic",
+               "length": "4529",
+               "width": "1763",
+               "height": "1590",
+               "wheelBase": "2634",
+               "wheelTrack": "1.496",
+               "cargoVolume": "572",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "DACIA JOGGER",
+         "firstYearProduction": "2021",
+         "engineType": "Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "DACIA Jogger",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Prese",
+               "gearBox": "6-speed manual",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "DACIA Lodgy",
+         "firstYearProduction": "2012",
+         "engineType": "Gasoline, Diesel",
+         "style": "Van",
+         "generations": [
+            {
+               "fullName": "DACIA Lodgy",
+               "firstYearProduction": "2012",
+               "lastYearProduction": "Prese",
+               "topSpeed": "179",
+               "acceleration": "10.6",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-speed manual",
+               "length": "4498",
+               "width": "1750",
+               "height": "1684",
+               "wheelBase": "2809",
+               "wheelTrack": "1.491",
+               "cargoVolume": "827",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "DACIA Spring",
+         "firstYearProduction": "2021",
+         "engineType": "Electric",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "DACIA Spring Electric",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Prese",
+               "topSpeed": "126",
+               "drive type": "Front Wheel Drive",
+               "length": "3734",
+               "width": "1623",
+               "height": "1516",
+               "wheelBase": "2423",
+               "wheelTrack": "1.384",
+               "cargoVolume": "300",
+               "fuel": "Electric"
+            },
+            {
+               "fullName": "DACIA Spring Electric Cargo",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Prese",
+               "topSpeed": "126",
+               "acceleration": "19.1",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "single gear",
+               "length": "3734",
+               "width": "1623",
+               "height": "1516",
+               "wheelBase": "2423",
+               "wheelTrack": "1.384",
+               "cargoVolume": "289",
+               "fuel": "Electric"
+            }
+         ]
+      }
+   ]
+}

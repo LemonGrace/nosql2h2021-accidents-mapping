@@ -1,0 +1,86 @@
+{
+   "brand": "ALPINE",
+   "models": [
+      {
+         "modelName": "ALPINE A110S",
+         "firstYearProduction": "2019",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "ALPINE A110S",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Prese",
+               "topSpeed": "249",
+               "acceleration": "4.2",
+               "gearBox": "7-speed automatic ",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ALPINE A110S",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "2021",
+               "topSpeed": "261",
+               "acceleration": "4.4",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-automatic speed dual clutch",
+               "length": "4181",
+               "width": "1798",
+               "height": "1247",
+               "wheelBase": "2418",
+               "wheelTrack": "1.557",
+               "cargoVolume": "195",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ALPINE A110",
+         "firstYearProduction": "1962",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "ALPINE A110",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Prese",
+               "topSpeed": "249",
+               "acceleration": "4.5",
+               "gearBox": "7-speed automatic ",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ALPINE A110",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Prese",
+               "topSpeed": "249",
+               "acceleration": "4.5",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic DCT",
+               "length": "4178",
+               "width": "1798",
+               "height": "1252",
+               "wheelBase": "2418",
+               "wheelTrack": "1.557",
+               "cargoVolume": "99",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ALPINE A110 Berlinette",
+               "firstYearProduction": "1962",
+               "lastYearProduction": "1977",
+               "topSpeed": "175",
+               "acceleration": "14.5",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "4-speed manual",
+               "length": "3851",
+               "width": "1461",
+               "height": "1120",
+               "wheelBase": "2101",
+               "wheelTrack": "1.250",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

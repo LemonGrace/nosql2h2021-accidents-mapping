@@ -1,0 +1,298 @@
+{
+   "brand": "ALFA ROMEO",
+   "models": [
+      {
+         "modelName": "ALFA ROMEO Giulietta",
+         "firstYearProduction": "1954",
+         "engineType": "Gasoline, Diesel, Natural gas",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "ALFA ROMEO Giulietta",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "Prese",
+               "topSpeed": "195",
+               "acceleration": "9.4",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "4351",
+               "width": "1798",
+               "height": "1466",
+               "wheelBase": "2634",
+               "wheelTrack": "1.554",
+               "cargoVolume": "351",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ALFA ROMEO Giulietta",
+               "firstYearProduction": "2010",
+               "lastYearProduction": "2016",
+               "topSpeed": "185",
+               "acceleration": "10.6",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "4351",
+               "width": "1798",
+               "height": "1466",
+               "wheelBase": "2634",
+               "wheelTrack": "1.554",
+               "cargoVolume": "348",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ALFA ROMEO Giulietta Berlina",
+               "firstYearProduction": "1955",
+               "lastYearProduction": "1964",
+               "topSpeed": "163",
+               "acceleration": "13.4",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "4-Speed manual",
+               "length": "3990",
+               "width": "1549",
+               "height": "1486",
+               "wheelBase": "2390",
+               "wheelTrack": "1.290",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ALFA ROMEO Giulietta Spider",
+               "firstYearProduction": "1955",
+               "lastYearProduction": "1965",
+               "topSpeed": "163",
+               "acceleration": "13.3",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "Manual, 4 Speed",
+               "length": "3401",
+               "width": "1539",
+               "height": "1181",
+               "wheelBase": "2250",
+               "wheelTrack": "1.293",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ALFA ROMEO Giulietta Sprint",
+               "firstYearProduction": "1954",
+               "lastYearProduction": "1965",
+               "topSpeed": "164",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "Manual, 4 Speed",
+               "length": "3919",
+               "width": "1542",
+               "height": "1321",
+               "wheelBase": "2380",
+               "wheelTrack": "1.288",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ALFA ROMEO Giulia",
+         "firstYearProduction": "1962",
+         "engineType": "Gasoline, Diesel",
+         "generations": [
+            {
+               "fullName": "ALFA ROMEO Giulia",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "Prese",
+               "topSpeed": "235",
+               "acceleration": "6.6",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4643",
+               "width": "1859",
+               "height": "1435",
+               "wheelBase": "2819",
+               "cargoVolume": "481",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ALFA ROMEO Giulia Coupe 1300 GTA Junior",
+               "firstYearProduction": "1965",
+               "lastYearProduction": "1972",
+               "topSpeed": "210",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "4079",
+               "width": "1580",
+               "height": "1311",
+               "wheelBase": "2350",
+               "wheelTrack": "1.321",
+               "cargoVolume": "680",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ALFA ROMEO Giulia Berlina",
+               "firstYearProduction": "1962",
+               "lastYearProduction": "1978",
+               "topSpeed": "166",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "4-speed automatic",
+               "length": "4204",
+               "width": "1552",
+               "height": "1430",
+               "wheelBase": "2515",
+               "wheelTrack": "1.323",
+               "cargoVolume": "680",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ALFA ROMEO 4C",
+         "firstYearProduction": "2013",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "ALFA ROMEO 4C",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "Prese",
+               "topSpeed": "257",
+               "acceleration": "4.5",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "Alfa TCT (Dual Dry Clutch) 6 speed",
+               "length": "3988",
+               "width": "1864",
+               "height": "1184",
+               "wheelBase": "2380",
+               "wheelTrack": "1.621",
+               "cargoVolume": "110",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ALFA ROMEO 4C Spider",
+         "firstYearProduction": "2015",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "ALFA ROMEO 4C Spider",
+               "firstYearProduction": "2015",
+               "lastYearProduction": "Prese",
+               "topSpeed": "257",
+               "acceleration": "4.5",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "3988",
+               "width": "1864",
+               "height": "1184",
+               "wheelBase": "2380",
+               "wheelTrack": "1.638",
+               "cargoVolume": "105",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ALFA ROMEO Stelvio",
+         "firstYearProduction": "2017",
+         "engineType": "Gasoline, Diesel",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "ALFA ROMEO Stelvio",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Prese",
+               "topSpeed": "216",
+               "acceleration": "7.2",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4686",
+               "width": "1902",
+               "height": "1671",
+               "wheelBase": "2817",
+               "cargoVolume": "524",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ALFA ROMEO Giulia Veloce",
+         "firstYearProduction": "2016",
+         "engineType": "Gasoline, Diesel",
+         "generations": [
+            {
+               "fullName": "ALFA ROMEO Giulia Veloce",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "Prese",
+               "topSpeed": "240",
+               "acceleration": "4.9",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4643",
+               "width": "2024",
+               "height": "1450",
+               "wheelBase": "2819",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ALFA ROMEO Giulia GTA",
+         "firstYearProduction": "2020",
+         "engineType": "Gasoline",
+         "style": "Hatchback",
+         "generations": [
+            {
+               "fullName": "ALFA ROMEO Giulia GTA",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "wheelTrack": "1.600",
+               "cargoVolume": "481",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ALFA ROMEO Giulia Quadrifoglio",
+         "firstYearProduction": "2016",
+         "engineType": "Gasoline",
+         "generations": [
+            {
+               "fullName": "ALFA ROMEO Giulia Quadrifoglio",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "Prese",
+               "topSpeed": "307",
+               "acceleration": "3.9",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "4638",
+               "width": "1872",
+               "height": "1425",
+               "wheelBase": "2819",
+               "wheelTrack": "1.549",
+               "cargoVolume": "481",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ALFA ROMEO Stelvio Quadrifoglio",
+         "firstYearProduction": "2017",
+         "engineType": "Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "ALFA ROMEO Stelvio Quadrifoglio",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Prese",
+               "topSpeed": "285",
+               "acceleration": "3.8",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4702",
+               "width": "1956",
+               "height": "1681",
+               "wheelBase": "2817",
+               "wheelTrack": "1.623",
+               "cargoVolume": "524",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,27 @@
+{
+   "brand": "BRISTOL",
+   "models": [
+      {
+         "modelName": "BRISTOL Bullet",
+         "firstYearProduction": "2017",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "BRISTOL Bullet",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Prese",
+               "topSpeed": "249",
+               "acceleration": "3.8",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "4201",
+               "width": "1859",
+               "height": "1199",
+               "wheelBase": "2553",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

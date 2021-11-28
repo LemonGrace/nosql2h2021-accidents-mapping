@@ -1,0 +1,111 @@
+{
+   "brand": "CHRYSLER",
+   "models": [
+      {
+         "modelName": "CHRYSLER Pacifica",
+         "firstYearProduction": "2003",
+         "engineType": "Gasoline",
+         "style": "Van",
+         "generations": [
+            {
+               "fullName": "CHRYSLER Pacifica",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "drive type": "All Wheel Drive",
+               "gearBox": "9-speed automatic ",
+               "length": "5177",
+               "width": "2022",
+               "height": "1775",
+               "wheelBase": "3089",
+               "wheelTrack": "1.735",
+               "cargoVolume": "915",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "CHRYSLER Pacifica",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "2020",
+               "topSpeed": "229",
+               "acceleration": "7.5",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "9-speed automatic",
+               "length": "5177",
+               "width": "2022",
+               "height": "1775",
+               "wheelBase": "3089",
+               "wheelTrack": "1.735",
+               "cargoVolume": "915",
+               "aerodynamics": "2.98",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "CHRYSLER Pacifica",
+               "firstYearProduction": "2003",
+               "lastYearProduction": "2006",
+               "topSpeed": "190",
+               "acceleration": "10",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "4-Speed automatic",
+               "length": "5052",
+               "width": "2014",
+               "height": "1689",
+               "wheelBase": "2954",
+               "wheelTrack": "1.676",
+               "cargoVolume": "2597",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "CHRYSLER 300",
+         "firstYearProduction": "2011",
+         "engineType": "Gasoline, Diesel",
+         "generations": [
+            {
+               "fullName": "CHRYSLER 300",
+               "firstYearProduction": "2015",
+               "lastYearProduction": "Prese",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "5044",
+               "width": "1902",
+               "height": "1483",
+               "wheelBase": "3053",
+               "wheelTrack": "1.610",
+               "cargoVolume": "462",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "CHRYSLER 300",
+               "firstYearProduction": "2011",
+               "lastYearProduction": "2015",
+               "topSpeed": "232",
+               "acceleration": "7.4",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8 speed automatic ZF",
+               "length": "5044",
+               "width": "1902",
+               "height": "1486",
+               "wheelBase": "3053",
+               "wheelTrack": "1.610",
+               "cargoVolume": "462",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "CHRYSLER 300 SRT8",
+               "firstYearProduction": "2011",
+               "lastYearProduction": "Prese",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "5 speed automatic",
+               "length": "5088",
+               "width": "1885",
+               "height": "1481",
+               "wheelBase": "3053",
+               "wheelTrack": "1.610",
+               "cargoVolume": "462",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

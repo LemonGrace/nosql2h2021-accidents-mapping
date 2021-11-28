@@ -1,0 +1,329 @@
+{
+   "brand": "FERRARI",
+   "models": [
+      {
+         "modelName": "FERRARI Portofino",
+         "firstYearProduction": "2017",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "FERRARI Portofino M",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "acceleration": "3.45",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "FERRARI Portofino",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "2020",
+               "topSpeed": "320",
+               "acceleration": "3.5",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4587",
+               "width": "1938",
+               "height": "1318",
+               "wheelBase": "2670",
+               "wheelTrack": "1.633",
+               "cargoVolume": "292",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "FERRARI Roma",
+         "firstYearProduction": "2019",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "FERRARI Roma",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Prese",
+               "topSpeed": "320",
+               "acceleration": "3.4",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4656",
+               "width": "1974",
+               "height": "1300",
+               "wheelBase": "2670",
+               "wheelTrack": "1.562",
+               "cargoVolume": "272",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "FERRARI GTC4Lusso T",
+         "firstYearProduction": "2016",
+         "engineType": "Gasoline",
+         "style": "Hatchback",
+         "generations": [
+            {
+               "fullName": "FERRARI GTC4Lusso T",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "Prese",
+               "topSpeed": "320",
+               "acceleration": "3.5",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4923",
+               "width": "1981",
+               "height": "1384",
+               "wheelBase": "2990",
+               "cargoVolume": "450",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "FERRARI 812 ",
+         "firstYearProduction": "2017",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "FERRARI 812 GTS",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Prese",
+               "topSpeed": "340",
+               "acceleration": "3",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-automatic speed dual clutch",
+               "length": "4694",
+               "width": "1971",
+               "height": "1275",
+               "wheelBase": "2720",
+               "wheelTrack": "1.671",
+               "cargoVolume": "210",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "FERRARI 812 Superfast",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Prese",
+               "topSpeed": "340",
+               "acceleration": "2.9",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4656",
+               "width": "1971",
+               "height": "1275",
+               "wheelBase": "2720",
+               "wheelTrack": "1.671",
+               "cargoVolume": "210",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "FERRARI Daytona",
+         "firstYearProduction": "2021",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "FERRARI Daytona SP3",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Prese",
+               "topSpeed": "340",
+               "acceleration": "2.85",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic F1 DCT",
+               "length": "4686",
+               "width": "2050",
+               "height": "1143",
+               "wheelBase": "2652",
+               "wheelTrack": "1.692",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "FERRARI 488 Pista",
+         "firstYearProduction": "2018",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "FERRARI 488 Pista",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Prese",
+               "topSpeed": "340",
+               "acceleration": "2.85",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4605",
+               "width": "1976",
+               "height": "1207",
+               "wheelBase": "2649",
+               "wheelTrack": "1679",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "FERRARI F60 America",
+         "firstYearProduction": "2014",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "FERRARI F60 America",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "Prese",
+               "topSpeed": "330",
+               "acceleration": "3.2",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic ",
+               "wheelBase": "2718",
+               "wheelTrack": "1.659",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "FERRARI Monza",
+         "firstYearProduction": "2018",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "FERRARI SP1",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Prese",
+               "topSpeed": "299",
+               "acceleration": "2.9",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-Speed automatic ",
+               "length": "4656",
+               "width": "1996",
+               "height": "1156",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "FERRARI SP2",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Prese",
+               "topSpeed": "299",
+               "acceleration": "2.9",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic ",
+               "length": "4656",
+               "width": "1996",
+               "height": "1156",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "FERRARI F8 ",
+         "firstYearProduction": "2019",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "FERRARI F8 Spider",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Prese",
+               "topSpeed": "340",
+               "acceleration": "2.9",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic DCT",
+               "length": "4610",
+               "width": "1979",
+               "height": "1207",
+               "wheelBase": "2649",
+               "wheelTrack": "1.676",
+               "cargoVolume": "201",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "FERRARI F8 Tributo",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Prese",
+               "topSpeed": "340",
+               "acceleration": "2.9",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic DCT",
+               "length": "4610",
+               "width": "1979",
+               "height": "1207",
+               "wheelBase": "2649",
+               "wheelTrack": "1.676",
+               "cargoVolume": "201",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "FERRARI GTC4Lusso ",
+         "firstYearProduction": "2016",
+         "engineType": "Gasoline",
+         "style": "Hatchback",
+         "generations": [
+            {
+               "fullName": "FERRARI GTC4Lusso",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "Prese",
+               "topSpeed": "335",
+               "acceleration": "3.4",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4991",
+               "width": "1981",
+               "height": "1382",
+               "wheelBase": "2990",
+               "wheelTrack": "1.674",
+               "cargoVolume": "450",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "FERRARI SF90",
+         "firstYearProduction": "2019",
+         "engineType": "Hybrid gasoline, Hybrid",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "FERRARI SF90 Spider (F173A)",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "topSpeed": "340",
+               "acceleration": "2.5",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4704",
+               "width": "1974",
+               "height": "1191",
+               "wheelBase": "2649",
+               "wheelTrack": "1.679",
+               "cargoVolume": "74",
+               "fuel": "Hybrid Gasoline"
+            },
+            {
+               "fullName": "FERRARI SF90 Stradale",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Prese",
+               "topSpeed": "340",
+               "acceleration": "2.5",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic F1 dual-clutch transmission",
+               "length": "4709",
+               "width": "1971",
+               "height": "1186",
+               "wheelBase": "2649",
+               "wheelTrack": "1.679",
+               "cargoVolume": "74",
+               "fuel": "Hybrid"
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,112 @@
+{
+   "brand": "DATSUN",
+   "models": [
+      {
+         "modelName": "DATSUN GO",
+         "firstYearProduction": "2013",
+         "engineType": "Gasoline",
+         "style": "Hatchback",
+         "generations": [
+            {
+               "fullName": "DATSUN GO",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Prese",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "3787",
+               "width": "1636",
+               "height": "1506",
+               "wheelBase": "2451",
+               "cargoVolume": "266",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "DATSUN GO",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "2018",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "3785",
+               "width": "1613",
+               "height": "1486",
+               "wheelBase": "2451",
+               "wheelTrack": "1.440",
+               "cargoVolume": "266",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "DATSUN GO+",
+         "firstYearProduction": "2013",
+         "engineType": ", Gasoline",
+         "style": "Hatchback",
+         "generations": [
+            {
+               "fullName": "DATSUN GO+",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Prese"
+            },
+            {
+               "fullName": "DATSUN GO+",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "2018",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5 speed manual",
+               "length": "3995",
+               "width": "1636",
+               "height": "1486",
+               "wheelBase": "2451",
+               "wheelTrack": "1.440",
+               "cargoVolume": "266",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "DATSUN Mi-Do",
+         "firstYearProduction": "2014",
+         "engineType": "Gasoline",
+         "style": "Hatchback",
+         "generations": [
+            {
+               "fullName": "DATSUN Mi-Do",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "Prese",
+               "topSpeed": "166",
+               "acceleration": "14.3",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-speed manual",
+               "length": "3950",
+               "width": "1699",
+               "height": "1501",
+               "wheelBase": "2477",
+               "cargoVolume": "241",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "DATSUN on-Do",
+         "firstYearProduction": "2014",
+         "engineType": "Gasoline",
+         "generations": [
+            {
+               "fullName": "DATSUN on-Do",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "Prese",
+               "topSpeed": "166",
+               "acceleration": "14.4",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "4-Speed automatic",
+               "length": "4336",
+               "width": "1699",
+               "height": "1501",
+               "wheelBase": "2477",
+               "cargoVolume": "530",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

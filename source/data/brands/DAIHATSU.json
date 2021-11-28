@@ -1,0 +1,104 @@
+{
+   "brand": "DAIHATSU",
+   "models": [
+      {
+         "modelName": "DAIHATSU Sirion",
+         "firstYearProduction": "1998",
+         "engineType": "Gasoline",
+         "style": "Hatchback",
+         "generations": [
+            {
+               "fullName": "DAIHATSU Sirion",
+               "firstYearProduction": "2010",
+               "lastYearProduction": "Prese",
+               "topSpeed": "159",
+               "acceleration": "13.9",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-Speed, Manual",
+               "length": "3604",
+               "width": "1666",
+               "height": "1549",
+               "wheelBase": "2431",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "DAIHATSU Sirion",
+               "firstYearProduction": "2001",
+               "lastYearProduction": "2004",
+               "topSpeed": "145",
+               "acceleration": "15.4",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "3680",
+               "width": "1600",
+               "height": "1450",
+               "wheelBase": "2339",
+               "wheelTrack": "1.400",
+               "cargoVolume": "235",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "DAIHATSU Sirion",
+               "firstYearProduction": "1998",
+               "lastYearProduction": "2002",
+               "topSpeed": "145",
+               "acceleration": "15.4",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "3680",
+               "width": "1600",
+               "height": "1450",
+               "wheelBase": "2339",
+               "wheelTrack": "1.400",
+               "cargoVolume": "235",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "DAIHATSU Ayla",
+         "firstYearProduction": "2013",
+         "engineType": "Gasoline",
+         "style": "Hatchback",
+         "generations": [
+            {
+               "fullName": "DAIHATSU Ayla",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "Prese",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "4 speed automatic",
+               "length": "3599",
+               "width": "1600",
+               "height": "1519",
+               "wheelBase": "2451",
+               "wheelTrack": "1.430",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "DAIHATSU Cuore",
+         "firstYearProduction": "2007",
+         "engineType": "Gasoline",
+         "style": "Hatchback",
+         "generations": [
+            {
+               "fullName": "DAIHATSU Cuore",
+               "firstYearProduction": "2007",
+               "lastYearProduction": "Prese",
+               "topSpeed": "150",
+               "acceleration": "14.1",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "4-speed automatic",
+               "length": "3470",
+               "width": "1473",
+               "height": "1529",
+               "wheelBase": "2489",
+               "wheelTrack": "1.311",
+               "cargoVolume": "210",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

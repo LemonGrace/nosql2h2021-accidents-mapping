@@ -1,0 +1,169 @@
+{
+   "brand": "CATERHAM",
+   "models": [
+      {
+         "modelName": "CATERHAM Supersport",
+         "firstYearProduction": "2012",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "CATERHAM Supersport",
+               "firstYearProduction": "2012",
+               "lastYearProduction": "Prese",
+               "topSpeed": "193",
+               "acceleration": "5.1",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed manual",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "CATERHAM Seven 620",
+         "firstYearProduction": "2013",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "CATERHAM Seven 620 R",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "Prese",
+               "topSpeed": "249",
+               "acceleration": "2.9",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed manual",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "CATERHAM CSR",
+         "firstYearProduction": "2005",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "CATERHAM CSR",
+               "firstYearProduction": "2005",
+               "lastYearProduction": "Prese",
+               "topSpeed": "225",
+               "acceleration": "3.7",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "5-speed manual",
+               "length": "3302",
+               "width": "1684",
+               "height": "1138",
+               "wheelBase": "2314",
+               "wheelTrack": "1.504",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "CATERHAM Classic",
+         "firstYearProduction": "2000",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "CATERHAM Classic",
+               "firstYearProduction": "2000",
+               "lastYearProduction": "Prese",
+               "topSpeed": "177",
+               "acceleration": "6.5",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "5-speed manual",
+               "length": "3381",
+               "width": "1575",
+               "height": "1115",
+               "wheelBase": "2225",
+               "wheelTrack": "1.270",
+               "cargoVolume": "74",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "CATERHAM Roadsport",
+         "firstYearProduction": "2007",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "CATERHAM Roadsport",
+               "firstYearProduction": "2007",
+               "lastYearProduction": "Prese",
+               "topSpeed": "180",
+               "acceleration": "5.9",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "5-speed manual",
+               "length": "3381",
+               "width": "1575",
+               "height": "1115",
+               "wheelBase": "2225",
+               "wheelTrack": "1.270",
+               "cargoVolume": "74",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "CATERHAM Superlight",
+         "firstYearProduction": "2013",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "CATERHAM Superlight",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "Prese",
+               "topSpeed": "219",
+               "acceleration": "3.9",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed manual",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "CATERHAM Seven 160",
+         "firstYearProduction": "2013",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "CATERHAM Seven 160",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "Prese",
+               "topSpeed": "161",
+               "acceleration": "6.7",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "5-speed, manual",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "CATERHAM The Super Seven 1600",
+         "firstYearProduction": "2020",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "CATERHAM Super Seven 1600",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "topSpeed": "196",
+               "acceleration": "5.2",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-speed automatic",
+               "length": "3180",
+               "width": "1575",
+               "height": "1090",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

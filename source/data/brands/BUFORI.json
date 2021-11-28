@@ -1,0 +1,50 @@
+{
+   "brand": "BUFORI",
+   "models": [
+      {
+         "modelName": "BUFORI Geneva",
+         "firstYearProduction": "2010",
+         "engineType": "Gasoline",
+         "generations": [
+            {
+               "fullName": "BUFORI Geneva (MKIV)",
+               "firstYearProduction": "2010",
+               "lastYearProduction": "Prese",
+               "topSpeed": "280",
+               "acceleration": "5.4",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "5 speed automatic Sequential Shift Transmission",
+               "length": "5471",
+               "width": "1910",
+               "height": "1519",
+               "wheelBase": "3571",
+               "wheelTrack": "1.615",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "BUFORI La Joya",
+         "firstYearProduction": "2004",
+         "engineType": "Gasoline",
+         "style": "Hatchback",
+         "generations": [
+            {
+               "fullName": "BUFORI La Joya (MKIII)",
+               "firstYearProduction": "2004",
+               "lastYearProduction": "Prese",
+               "topSpeed": "200",
+               "acceleration": "7.8",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "4 speed automatic Sequential Shift Transmission",
+               "length": "4331",
+               "width": "1806",
+               "height": "1364",
+               "wheelTrack": "1.534",
+               "cargoVolume": "249",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

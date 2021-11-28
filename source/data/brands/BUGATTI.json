@@ -1,0 +1,127 @@
+{
+   "brand": "BUGATTI",
+   "models": [
+      {
+         "modelName": "BUGATTI Divo",
+         "firstYearProduction": "2018",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "BUGATTI Divo",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Prese",
+               "topSpeed": "380",
+               "acceleration": "2.3",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic (DSG)",
+               "length": "4544",
+               "width": "2037",
+               "height": "1212",
+               "wheelBase": "2710",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "BUGATTI Centodieci",
+         "firstYearProduction": "2019",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "BUGATTI Centodieci",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Prese",
+               "topSpeed": "380",
+               "acceleration": "2.4",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-automatic speed dual clutch",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "BUGATTI Chiron",
+         "firstYearProduction": "2016",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "BUGATTI Chiron Super Sport 300+",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "topSpeed": "420",
+               "acceleration": "2.3",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic (DSG)",
+               "length": "4544",
+               "width": "2037",
+               "height": "1212",
+               "wheelBase": "2710",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "BUGATTI Chiron Pur Sport",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "topSpeed": "349",
+               "acceleration": "2.4",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic ",
+               "length": "4544",
+               "width": "2037",
+               "height": "1212",
+               "wheelBase": "2710",
+               "wheelTrack": "1.750",
+               "cargoVolume": "45",
+               "aerodynamics": "0.25",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "BUGATTI Chiron Sport",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Prese",
+               "topSpeed": "420",
+               "acceleration": "2.3",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic (DSG)",
+               "length": "4544",
+               "width": "2037",
+               "height": "1212",
+               "wheelBase": "2710",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "BUGATTI Chiron",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "Prese",
+               "topSpeed": "420",
+               "acceleration": "2.3",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic (DSG)",
+               "length": "4544",
+               "width": "2037",
+               "height": "1212",
+               "wheelBase": "2710",
+               "cargoVolume": "57",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "BUGATTI La Voiture Noire",
+         "firstYearProduction": "2019",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "BUGATTI La Voiture Noire",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Prese",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}
