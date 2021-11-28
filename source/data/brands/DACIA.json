@@ -10,7 +10,7 @@
             {
                "fullName": "DACIA Duster",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "6-speed manual",
                "fuel": "Gasoline"
@@ -74,7 +74,7 @@
             {
                "fullName": "DACIA Sandero Stepway",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "6-speed manual",
                "length": "4100",
@@ -144,7 +144,7 @@
             {
                "fullName": "DACIA Sandero",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "5-speed manual",
                "length": "4087",
@@ -212,7 +212,7 @@
             {
                "fullName": "DACIA Logan",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "5-Speed manual",
                "length": "4397",
@@ -298,7 +298,7 @@
             {
                "fullName": "DACIA Logan MCV",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "169",
                "drive type": "Front Wheel Drive",
                "gearBox": "5-speed automatic",
@@ -369,7 +369,7 @@
             {
                "fullName": "DACIA Dokker Van",
                "firstYearProduction": "2012",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "175",
                "acceleration": "10.4",
                "drive type": "Front Wheel Drive",
@@ -393,7 +393,7 @@
             {
                "fullName": "DACIA Duster Pick-Up",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "All Wheel Drive",
                "length": "4341",
                "width": "1821",
@@ -414,7 +414,7 @@
             {
                "fullName": "DACIA Dokker",
                "firstYearProduction": "2012",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "175",
                "acceleration": "10.7",
                "drive type": "Front Wheel Drive",
@@ -438,7 +438,7 @@
             {
                "fullName": "DACIA Logan MCV Stepway",
                "firstYearProduction": "2017",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "171",
                "acceleration": "11.1",
                "drive type": "Front Wheel Drive",
@@ -462,7 +462,7 @@
             {
                "fullName": "DACIA Jogger",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "gearBox": "6-speed manual",
                "fuel": "Gasoline"
             }
@@ -477,7 +477,7 @@
             {
                "fullName": "DACIA Lodgy",
                "firstYearProduction": "2012",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "179",
                "acceleration": "10.6",
                "drive type": "Front Wheel Drive",
@@ -501,7 +501,7 @@
             {
                "fullName": "DACIA Spring Electric",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "126",
                "drive type": "Front Wheel Drive",
                "length": "3734",
@@ -515,7 +515,7 @@
             {
                "fullName": "DACIA Spring Electric Cargo",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "126",
                "acceleration": "19.1",
                "drive type": "Front Wheel Drive",

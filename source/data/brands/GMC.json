@@ -1,0 +1,646 @@
+{
+   "brand": "GMC",
+   "models": [
+      {
+         "modelName": "GMC Sierra",
+         "firstYearProduction": "2007",
+         "engineType": "Gasoline, Ethanol, Hybrid",
+         "style": "Truck",
+         "generations": [
+            {
+               "fullName": "GMC Sierra AT4",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Present",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "5895",
+               "width": "2062",
+               "height": "1920",
+               "wheelBase": "3744",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Sierra Denali",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "2021",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "5824",
+               "width": "2032",
+               "height": "1885",
+               "wheelBase": "3645",
+               "cargoVolume": "1784",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Sierra Regular Cab",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "2018",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "5221",
+               "width": "2032",
+               "height": "1879",
+               "wheelBase": "3023",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Sierra Crew Cab",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "2018",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "5829",
+               "width": "2032",
+               "height": "1877",
+               "wheelBase": "3645",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Sierra Double Cab",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "2018",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "6071",
+               "width": "2032",
+               "height": "1872",
+               "wheelBase": "3886",
+               "cargoVolume": "1727",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Sierra 1500 Regular Cab",
+               "firstYearProduction": "2008",
+               "lastYearProduction": "2013",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "4-speed automatic",
+               "length": "5222",
+               "width": "2029",
+               "height": "1869",
+               "wheelBase": "3023",
+               "wheelTrack": "1.730",
+               "cargoVolume": "1719",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Sierra 1500 Crew Cab",
+               "firstYearProduction": "2008",
+               "lastYearProduction": "2013",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "4-speed automatic",
+               "length": "5842",
+               "width": "2029",
+               "height": "1875",
+               "wheelBase": "3645",
+               "wheelTrack": "1.730",
+               "cargoVolume": "1506",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Sierra 1500 Extended Cab",
+               "firstYearProduction": "2007",
+               "lastYearProduction": "2013",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "4-speed automatic",
+               "length": "5847",
+               "width": "2029",
+               "height": "1877",
+               "wheelBase": "3645",
+               "wheelTrack": "1.730",
+               "cargoVolume": "1719",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "GMC Terrain",
+         "firstYearProduction": "2009",
+         "engineType": "Gasoline, Diesel",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "GMC Terrain",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Present",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Terrain",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "2021",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "9-speed automatic",
+               "length": "4651",
+               "width": "1844",
+               "height": "1661",
+               "wheelBase": "2725",
+               "wheelTrack": "1.580",
+               "cargoVolume": "847",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Terrain",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "2017",
+               "acceleration": "6.9",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "4712",
+               "width": "1849",
+               "height": "1608",
+               "wheelBase": "2858",
+               "cargoVolume": "895",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Terrain",
+               "firstYearProduction": "2009",
+               "lastYearProduction": "2016",
+               "drive type": "All Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "4707",
+               "width": "1849",
+               "height": "1684",
+               "wheelBase": "2858",
+               "wheelTrack": "1.598",
+               "cargoVolume": "895",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "GMC Yukon",
+         "firstYearProduction": "1999",
+         "engineType": "Gasoline, Hybrid gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "GMC Yukon AT4",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "10-speed automatic",
+               "length": "5334",
+               "width": "2057",
+               "height": "1943",
+               "wheelBase": "3071",
+               "wheelTrack": "1.737",
+               "cargoVolume": "722",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Yukon Denali",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "2020",
+               "topSpeed": "182",
+               "drive type": "All Wheel Drive",
+               "gearBox": "Hydra-Matic 6L80 6-speed auto",
+               "length": "5179",
+               "width": "2045",
+               "height": "1890",
+               "wheelBase": "2946",
+               "wheelTrack": "1.745",
+               "cargoVolume": "1464",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Yukon",
+               "firstYearProduction": "2008",
+               "lastYearProduction": "2014",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "4-speed automatic",
+               "length": "5131",
+               "width": "2007",
+               "height": "1953",
+               "wheelBase": "2946",
+               "wheelTrack": "1.732",
+               "cargoVolume": "479",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Yukon",
+               "firstYearProduction": "1999",
+               "lastYearProduction": "2006",
+               "topSpeed": "156",
+               "acceleration": "806",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "4-Speed automatic",
+               "length": "5050",
+               "width": "2002",
+               "height": "1948",
+               "wheelBase": "2946",
+               "wheelTrack": "1.651",
+               "cargoVolume": "2936",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "GMC Yukon XL",
+         "firstYearProduction": "1999",
+         "engineType": "Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "GMC Yukon XL",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "10-speed automatic",
+               "length": "5720",
+               "width": "2057",
+               "height": "1943",
+               "wheelBase": "3406",
+               "wheelTrack": "1.740",
+               "cargoVolume": "1175",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Yukon XL",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "2020",
+               "topSpeed": "182",
+               "drive type": "All Wheel Drive",
+               "gearBox": "Hydra-Matic 6L80 6-speed auto",
+               "length": "5697",
+               "width": "2045",
+               "height": "1900",
+               "wheelBase": "3302",
+               "wheelTrack": "1.745",
+               "cargoVolume": "2163",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Yukon XL",
+               "firstYearProduction": "2008",
+               "lastYearProduction": "2013",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "4-speed automatic",
+               "length": "5131",
+               "width": "2009",
+               "height": "1951",
+               "wheelBase": "2946",
+               "wheelTrack": "1.732",
+               "cargoVolume": "1297",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Yukon XL",
+               "firstYearProduction": "1999",
+               "lastYearProduction": "2006",
+               "topSpeed": "160",
+               "acceleration": "8.8",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "4-Speed automatic",
+               "length": "5070",
+               "width": "2004",
+               "height": "1869",
+               "wheelBase": "3302",
+               "wheelTrack": "1.651",
+               "cargoVolume": "3693",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "GMC Acadia",
+         "firstYearProduction": "2007",
+         "engineType": "Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "GMC Acadia",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Present",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "9-Speed automatic Hydra-Matic 9T65",
+               "length": "4917",
+               "width": "1915",
+               "height": "1676",
+               "wheelBase": "2858",
+               "wheelTrack": "1.638",
+               "cargoVolume": "362",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Acadia",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "2019",
+               "drive type": "All Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "4917",
+               "width": "1915",
+               "height": "1745",
+               "wheelBase": "2858",
+               "wheelTrack": "1.638",
+               "cargoVolume": "362",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Acadia",
+               "firstYearProduction": "2012",
+               "lastYearProduction": "2016",
+               "drive type": "All Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "5100",
+               "width": "2004",
+               "height": "1844",
+               "wheelBase": "3020",
+               "wheelTrack": "1.709",
+               "cargoVolume": "682",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Acadia",
+               "firstYearProduction": "2007",
+               "lastYearProduction": "2012",
+               "topSpeed": "172",
+               "acceleration": "9.1",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "5108",
+               "width": "2004",
+               "height": "1775",
+               "wheelBase": "3020",
+               "wheelTrack": "1.709",
+               "cargoVolume": "3285",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "GMC Savana",
+         "firstYearProduction": "1995",
+         "engineType": "Gasoline, Diesel, Natural gas",
+         "style": "Van",
+         "generations": [
+            {
+               "fullName": "GMC Savana 1500",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "2015",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "4-speed automatic",
+               "length": "5692",
+               "width": "2012",
+               "height": "2098",
+               "wheelBase": "3429",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Savana 2500",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "5692",
+               "width": "2012",
+               "height": "2149",
+               "wheelBase": "3429",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Savana 3500",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "5692",
+               "width": "2012",
+               "height": "2149",
+               "wheelBase": "3429",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Savana",
+               "firstYearProduction": "2003",
+               "lastYearProduction": "2007",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "Automatic, 4 Speed",
+               "length": "6200",
+               "width": "2017",
+               "height": "2083",
+               "wheelBase": "3937",
+               "wheelTrack": "1.722",
+               "cargoVolume": "6711",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Savana",
+               "firstYearProduction": "1995",
+               "lastYearProduction": "2002",
+               "drive type": "All Wheel Drive",
+               "gearBox": "Automatic, 4 Speed",
+               "length": "5692",
+               "width": "2017",
+               "height": "2073",
+               "wheelBase": "3429",
+               "cargoVolume": "5777",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "GMC Canyon Crew Cab",
+         "firstYearProduction": "2004",
+         "engineType": "Gasoline, Diesel",
+         "style": "Truck",
+         "generations": [
+            {
+               "fullName": "GMC Canyon Crew Cab",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "5395",
+               "width": "1887",
+               "height": "1793",
+               "wheelBase": "3259",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Canyon Crew Cab",
+               "firstYearProduction": "2004",
+               "lastYearProduction": "2013",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "5260",
+               "width": "1717",
+               "height": "1646",
+               "wheelBase": "3200",
+               "wheelTrack": "1.461",
+               "cargoVolume": "1048",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "GMC Sierra 3500HD",
+         "firstYearProduction": "2008",
+         "engineType": "Gasoline, Diesel",
+         "style": "Truck",
+         "generations": [
+            {
+               "fullName": "GMC Sierra 3500HD Regular Cab",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "5715",
+               "width": "2436",
+               "height": "1966",
+               "wheelBase": "3396",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Sierra 3500HD Crew Cab",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "6101",
+               "width": "2032",
+               "height": "1966",
+               "wheelBase": "3904",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Sierra 3500HD Regular Cab",
+               "firstYearProduction": "2008",
+               "lastYearProduction": "2013",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "5715",
+               "width": "2436",
+               "height": "1956",
+               "wheelBase": "3378",
+               "wheelTrack": "1.742",
+               "cargoVolume": "2169",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Sierra 3500HD Extended Cab",
+               "firstYearProduction": "2008",
+               "lastYearProduction": "2013",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "6330",
+               "width": "2436",
+               "height": "1930",
+               "wheelBase": "4001",
+               "wheelTrack": "1.742",
+               "cargoVolume": "2169",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Sierra 3500HD Crew Cab",
+               "firstYearProduction": "2008",
+               "lastYearProduction": "2013",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "6571",
+               "width": "2436",
+               "height": "1930",
+               "wheelBase": "4242",
+               "wheelTrack": "1.742",
+               "cargoVolume": "2169",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "GMC Sierra 2500HD",
+         "firstYearProduction": "2008",
+         "engineType": ", Gasoline, Diesel, Hybrid",
+         "style": "Truck",
+         "generations": [
+            {
+               "fullName": "GMC Sierra 2500HD",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Present"
+            },
+            {
+               "fullName": "GMC Sierra 2500HD Regular Cab",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "5715",
+               "width": "2032",
+               "height": "1969",
+               "wheelBase": "3396",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Sierra 2500HD Crew Cab",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "6101",
+               "width": "2032",
+               "height": "1984",
+               "wheelBase": "3904",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Sierra 2500HD Regular Cab",
+               "firstYearProduction": "2008",
+               "lastYearProduction": "2013",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "5707",
+               "width": "2032",
+               "height": "1938",
+               "wheelBase": "3378",
+               "wheelTrack": "1.742",
+               "cargoVolume": "2138",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Sierra 2500HD Extended Cab",
+               "firstYearProduction": "2008",
+               "lastYearProduction": "2013",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "5850",
+               "width": "2032",
+               "height": "1938",
+               "wheelBase": "3645",
+               "wheelTrack": "1.742",
+               "cargoVolume": "1719",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GMC Sierra 2500HD Crew Cab",
+               "firstYearProduction": "2008",
+               "lastYearProduction": "2013",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "6096",
+               "width": "2032",
+               "height": "1958",
+               "wheelBase": "3886",
+               "wheelTrack": "1.742",
+               "cargoVolume": "1719",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "GMC Hummer EV",
+         "firstYearProduction": "2021",
+         "engineType": "Gasoline",
+         "style": "Truck",
+         "generations": [
+            {
+               "fullName": "GMC Hummer EV",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Present",
+               "drive type": "All Wheel Drive",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

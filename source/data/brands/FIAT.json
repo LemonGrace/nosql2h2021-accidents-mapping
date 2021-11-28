@@ -10,7 +10,7 @@
             {
                "fullName": "FIAT F595 Abarth",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "217",
                "acceleration": "7.3",
                "drive type": "Front Wheel Drive",
@@ -52,7 +52,7 @@
             {
                "fullName": "FIAT 695 Abarth Biposto",
                "firstYearProduction": "2014",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "230",
                "acceleration": "5.9",
                "drive type": "Front Wheel Drive",
@@ -99,7 +99,7 @@
             {
                "fullName": "FIAT 500C Abarth",
                "firstYearProduction": "2012",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "209",
                "acceleration": "7.6",
                "drive type": "Front Wheel Drive",
@@ -115,7 +115,7 @@
             {
                "fullName": "FIAT 500C Abarth esseesse",
                "firstYearProduction": "2010",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "209",
                "acceleration": "7.6",
                "drive type": "Front Wheel Drive",
@@ -131,7 +131,7 @@
             {
                "fullName": "FIAT 500 Abarth esseesse",
                "firstYearProduction": "2009",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "211",
                "acceleration": "7.4",
                "drive type": "Front Wheel Drive",
@@ -147,7 +147,7 @@
             {
                "fullName": "FIAT 500 Abarth 695 Tributo Ferrari",
                "firstYearProduction": "2009",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "225",
                "acceleration": "6.9",
                "drive type": "Front Wheel Drive",
@@ -163,7 +163,7 @@
             {
                "fullName": "FIAT 500 Abarth",
                "firstYearProduction": "2008",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "209",
                "acceleration": "7.6",
                "drive type": "Front Wheel Drive",
@@ -187,7 +187,7 @@
             {
                "fullName": "FIAT 500 X",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "188",
                "acceleration": "10.9",
                "drive type": "Front Wheel Drive",
@@ -226,7 +226,7 @@
             {
                "fullName": "FIAT 500e",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "All Wheel Drive",
                "length": "3632",
                "width": "1689",
@@ -236,7 +236,7 @@
             {
                "fullName": "FIAT 500",
                "firstYearProduction": "2015",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "172",
                "acceleration": "11",
                "drive type": "Front Wheel Drive",
@@ -252,7 +252,7 @@
             {
                "fullName": "FIAT 500 C",
                "firstYearProduction": "2015",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "172",
                "acceleration": "11",
                "drive type": "Front Wheel Drive",
@@ -381,7 +381,7 @@
             {
                "fullName": "FIAT Doblo",
                "firstYearProduction": "2015",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "161",
                "acceleration": "15.4",
                "drive type": "Front Wheel Drive",
@@ -452,7 +452,7 @@
             {
                "fullName": "FIAT Panda 4x4",
                "firstYearProduction": "2012",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "166",
                "acceleration": "12.1",
                "drive type": "All Wheel Drive",
@@ -508,7 +508,7 @@
             {
                "fullName": "FIAT Panda",
                "firstYearProduction": "2011",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "177",
                "acceleration": "11.2",
                "drive type": "Front Wheel Drive",
@@ -595,7 +595,7 @@
             {
                "fullName": "FIAT Tipo 5 Doors",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "185",
                "acceleration": "10.1",
                "drive type": "Front Wheel Drive",
@@ -651,7 +651,7 @@
             {
                "fullName": "FIAT 124 GT Abarth",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "232",
                "acceleration": "7",
                "gearBox": "6-Speed automatic",
@@ -660,7 +660,7 @@
             {
                "fullName": "FIAT 124 Abarth Spider",
                "firstYearProduction": "2017",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "229",
                "acceleration": "6.9",
                "drive type": "Rear Wheel Drive",
@@ -676,7 +676,7 @@
             {
                "fullName": "FIAT 124 Spider",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "214",
                "acceleration": "7.6",
                "drive type": "Rear Wheel Drive",
@@ -748,7 +748,7 @@
             {
                "fullName": "FIAT 500 3+1",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "acceleration": "9.5",
                "drive type": "Front Wheel Drive",
                "fuel": "Electric"
@@ -764,7 +764,7 @@
             {
                "fullName": "FIAT 500L Trekking",
                "firstYearProduction": "2013",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "172",
                "acceleration": "12.6",
                "drive type": "Front Wheel Drive",
@@ -788,7 +788,7 @@
             {
                "fullName": "FIAT Panda Cross",
                "firstYearProduction": "2014",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "167",
                "acceleration": "12",
                "drive type": "All Wheel Drive",
@@ -812,7 +812,7 @@
             {
                "fullName": "FIAT Tipo Station Wagon",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "18",
                "acceleration": "12.3",
                "drive type": "Front Wheel Drive",
@@ -836,7 +836,7 @@
             {
                "fullName": "FIAT 500L",
                "firstYearProduction": "2017",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "180",
                "acceleration": "12.3",
                "drive type": "Front Wheel Drive",
@@ -860,7 +860,7 @@
             {
                "fullName": "FIAT Panda City Cross",
                "firstYearProduction": "2017",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "154",
                "acceleration": "102",
                "drive type": "Front Wheel Drive",
@@ -878,7 +878,7 @@
             {
                "fullName": "FIAT Fullback Extended Cab",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "179",
                "acceleration": "13",
                "drive type": "All Wheel Drive",
@@ -893,7 +893,7 @@
             {
                "fullName": "FIAT Fullback Cross",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "179",
                "acceleration": "13",
                "drive type": "All Wheel Drive",
@@ -908,7 +908,7 @@
             {
                "fullName": "FIAT Fullback Double Cab",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "179",
                "acceleration": "13",
                "drive type": "All Wheel Drive",
@@ -930,7 +930,7 @@
             {
                "fullName": "FIAT Tipo / Egea",
                "firstYearProduction": "2015",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "185",
                "acceleration": "11.5",
                "drive type": "Front Wheel Drive",
@@ -954,7 +954,7 @@
             {
                "fullName": "FIAT 500e",
                "firstYearProduction": "2013",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "137",
                "drive type": "Front Wheel Drive",
                "length": "3617",
@@ -976,7 +976,7 @@
             {
                "fullName": "FIAT Tipo Cross",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "fuel": "Gasoline"
             }
@@ -991,7 +991,7 @@
             {
                "fullName": "FIAT 500L Living",
                "firstYearProduction": "2013",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "180",
                "acceleration": "12.5",
                "drive type": "Front Wheel Drive",
@@ -1015,7 +1015,7 @@
             {
                "fullName": "FIAT Uno",
                "firstYearProduction": "2010",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "151",
                "acceleration": "15.1",
                "drive type": "Front Wheel Drive",

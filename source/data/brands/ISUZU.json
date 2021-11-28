@@ -1,0 +1,82 @@
+{
+   "brand": "ISUZU",
+   "models": [
+      {
+         "modelName": "ISUZU Rodeo / D-Max",
+         "firstYearProduction": "2002",
+         "engineType": "Diesel, Gasoline",
+         "style": "Truck",
+         "generations": [
+            {
+               "fullName": "ISUZU D-Max Arctic Trucks AT35",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "Present",
+               "drive type": "All Wheel Drive",
+               "gearBox": "5-speed automatic",
+               "length": "5296",
+               "width": "1999",
+               "height": "1930",
+               "wheelBase": "3096",
+               "fuel": "Diesel"
+            },
+            {
+               "fullName": "ISUZU D-Max Double Cab",
+               "firstYearProduction": "2015",
+               "lastYearProduction": "Present",
+               "topSpeed": "180",
+               "drive type": "All Wheel Drive",
+               "gearBox": "5-speed automatic",
+               "length": "5296",
+               "width": "1864",
+               "height": "1786",
+               "wheelBase": "3096",
+               "fuel": "Diesel"
+            },
+            {
+               "fullName": "ISUZU D-Max Double Cab",
+               "firstYearProduction": "2012",
+               "lastYearProduction": "2015",
+               "topSpeed": "171",
+               "drive type": "All Wheel Drive",
+               "gearBox": "5-speed manual",
+               "length": "5296",
+               "width": "1880",
+               "height": "1786",
+               "wheelBase": "3096",
+               "wheelTrack": "1.570",
+               "fuel": "Diesel"
+            },
+            {
+               "fullName": "ISUZU Rodeo Single Cab",
+               "firstYearProduction": "2002",
+               "lastYearProduction": "2011",
+               "topSpeed": "174",
+               "acceleration": "10.2",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "5154",
+               "width": "1720",
+               "height": "1633",
+               "wheelBase": "3048",
+               "wheelTrack": "1.458",
+               "fuel": "Diesel"
+            },
+            {
+               "fullName": "ISUZU Rodeo Crew Cab",
+               "firstYearProduction": "2002",
+               "lastYearProduction": "2011",
+               "topSpeed": "180",
+               "acceleration": "12.8",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "4-Speed automatic",
+               "length": "4488",
+               "width": "1788",
+               "height": "1725",
+               "wheelBase": "3048",
+               "wheelTrack": "1.519",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

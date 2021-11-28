@@ -1,0 +1,71 @@
+{
+   "brand": "KTM",
+   "models": [
+      {
+         "modelName": "KTM X-Bow",
+         "firstYearProduction": "2008",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "KTM X-Bow GT",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "Present",
+               "topSpeed": "232",
+               "acceleration": "4.1",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "3739",
+               "width": "1915",
+               "height": "1201",
+               "wheelBase": "2431",
+               "wheelTrack": "1.671",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "KTM X-Bow RR",
+               "firstYearProduction": "2012",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "3739",
+               "width": "1915",
+               "height": "1201",
+               "wheelBase": "2431",
+               "wheelTrack": "1.671",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "KTM X-Bow R",
+               "firstYearProduction": "2011",
+               "lastYearProduction": "Present",
+               "topSpeed": "232",
+               "acceleration": "3.9",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "3739",
+               "width": "1915",
+               "height": "1201",
+               "wheelBase": "2431",
+               "wheelTrack": "1.671",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "KTM X-Bow",
+               "firstYearProduction": "2008",
+               "lastYearProduction": "Present",
+               "topSpeed": "220",
+               "acceleration": "3.9",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "3670",
+               "width": "1869",
+               "height": "1161",
+               "wheelBase": "2431",
+               "wheelTrack": "1.643",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

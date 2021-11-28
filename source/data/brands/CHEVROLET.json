@@ -10,7 +10,7 @@
             {
                "fullName": "CHEVROLET Bolt EV",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "All Wheel Drive",
                "length": "4145",
                "width": "1765",
@@ -23,7 +23,7 @@
             {
                "fullName": "CHEVROLET Bolt EUV",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "All Wheel Drive",
                "length": "4305",
                "width": "1770",
@@ -59,7 +59,7 @@
             {
                "fullName": "CHEVROLET Equinox",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "200",
                "acceleration": "8.8",
                "drive type": "Front Wheel Drive",
@@ -125,7 +125,7 @@
             {
                "fullName": "CHEVROLET Tahoe",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "All Wheel Drive",
                "gearBox": "10-Speed automatic",
                "length": "5352",
@@ -221,7 +221,7 @@
             {
                "fullName": "CHEVROLET Traverse",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "9-speed automatic ",
                "length": "5189",
@@ -287,7 +287,7 @@
             {
                "fullName": "CHEVROLET Suburban",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "All Wheel Drive",
                "gearBox": "10-Speed automatic",
                "length": "5700",
@@ -301,7 +301,7 @@
             {
                "fullName": "CHEVROLET RST Performance Package",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Rear Wheel Drive",
                "gearBox": "Hydra-Matic 6L80 10-speed auto",
                "length": "5179",
@@ -366,7 +366,7 @@
             {
                "fullName": "CHEVROLET Corvette Stingray C8",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "312",
                "drive type": "Rear Wheel Drive",
                "gearBox": "8-speed automatic",
@@ -537,7 +537,7 @@
             {
                "fullName": "CHEVROLET Malibu",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "CVT",
                "length": "4923",
@@ -664,7 +664,7 @@
             {
                "fullName": "CHEVROLET Spark",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "5-speed manual",
                "length": "3635",
@@ -748,7 +748,7 @@
             {
                "fullName": "CHEVROLET Camaro Convertible",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Rear Wheel Drive",
                "gearBox": "6-speed manual",
                "length": "4783",
@@ -778,7 +778,7 @@
             {
                "fullName": "CHEVROLET Camaro ZL1 Convertible",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "acceleration": "3.8",
                "drive type": "Rear Wheel Drive",
                "gearBox": "10-speed automatic",
@@ -861,7 +861,7 @@
             {
                "fullName": "CHEVROLET Camaro",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "acceleration": "5.6",
                "drive type": "Rear Wheel Drive",
                "gearBox": "6-Speed manual",
@@ -876,7 +876,7 @@
             {
                "fullName": "CHEVROLET Camaro ZL1",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "319",
                "acceleration": "3.6",
                "drive type": "Rear Wheel Drive",
@@ -922,7 +922,7 @@
             {
                "fullName": "CHEVROLET Camaro Z28",
                "firstYearProduction": "2013",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Rear Wheel Drive",
                "gearBox": "6 speed manual",
                "length": "4884",
@@ -952,7 +952,7 @@
             {
                "fullName": "CHEVROLET Camaro ZL1",
                "firstYearProduction": "2012",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "296",
                "acceleration": "4",
                "drive type": "Rear Wheel Drive",
@@ -1193,7 +1193,7 @@
             {
                "fullName": "CHEVROLET Silverado 2500 Double Cab",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Rear Wheel Drive",
                "gearBox": "6-speed automatic",
                "length": "6106",
@@ -1293,7 +1293,7 @@
             {
                "fullName": "CHEVROLET Silverado 3500 HD Crew Cab",
                "firstYearProduction": "2013",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Rear Wheel Drive",
                "gearBox": "6-speed automatic heavy duty",
                "length": "5575",
@@ -1305,7 +1305,7 @@
             {
                "fullName": "CHEVROLET Silverado 1500 Crew Cab",
                "firstYearProduction": "2013",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Rear Wheel Drive",
                "gearBox": "6-speed automatic",
                "length": "6085",
@@ -1366,7 +1366,7 @@
             {
                "fullName": "CHEVROLET Cruze",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "6-speed automatic",
                "length": "4666",
@@ -1418,7 +1418,7 @@
             {
                "fullName": "CHEVROLET Cruze Hatchback",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "6-speed automatic",
                "length": "4666",
@@ -1446,7 +1446,7 @@
             {
                "fullName": "CHEVROLET Cruze HB5",
                "firstYearProduction": "2011",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "195",
                "acceleration": "9.3",
                "drive type": "Front Wheel Drive",
@@ -1469,7 +1469,7 @@
             {
                "fullName": "CHEVROLET Sonic",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "5-speed manual",
                "length": "4417",
@@ -1507,13 +1507,13 @@
             {
                "fullName": "CHEVROLET Corvette Z06",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "fuel": "Gasoline"
             },
             {
                "fullName": "CHEVROLET Corvette Z06",
                "firstYearProduction": "2014",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "315",
                "acceleration": "3.8",
                "drive type": "Rear Wheel Drive",
@@ -1553,7 +1553,7 @@
             {
                "fullName": "CHEVROLET Corvette Stingray Convertible C7",
                "firstYearProduction": "2013",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "306",
                "acceleration": "4",
                "drive type": "Rear Wheel Drive",
@@ -1717,7 +1717,7 @@
             {
                "fullName": "CHEVROLET Corvette ZR1",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Rear Wheel Drive",
                "gearBox": "7-speed manual",
                "fuel": "Gasoline"
@@ -1749,7 +1749,7 @@
             {
                "fullName": "CHEVROLET Trailblazer",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "CVT",
                "length": "4407",
@@ -1763,7 +1763,7 @@
             {
                "fullName": "CHEVROLET Trailblazer",
                "firstYearProduction": "2012",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "180",
                "acceleration": "9.1",
                "drive type": "All Wheel Drive",
@@ -1850,7 +1850,7 @@
             {
                "fullName": "CHEVROLET Impala",
                "firstYearProduction": "2013",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Rear Wheel Drive",
                "gearBox": "6-speed automatic",
                "length": "5113",
@@ -1939,7 +1939,7 @@
             {
                "fullName": "CHEVROLET Colorado Extended Cab",
                "firstYearProduction": "2015",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Rear Wheel Drive",
                "gearBox": "6-speed automatic",
                "length": "5403",
@@ -1988,7 +1988,7 @@
             {
                "fullName": "CHEVROLET Colorado Crew Cab",
                "firstYearProduction": "2015",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Rear Wheel Drive",
                "gearBox": "6-speed automatic",
                "length": "5403",
@@ -2038,7 +2038,7 @@
             {
                "fullName": "CHEVROLET Captiva",
                "firstYearProduction": "2011",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "175",
                "acceleration": "11.08",
                "drive type": "All Wheel Drive",
@@ -2077,7 +2077,7 @@
             {
                "fullName": "CHEVROLET Cobalt",
                "firstYearProduction": "2011",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "171",
                "acceleration": "11.5",
                "drive type": "Front Wheel Drive",
@@ -2148,7 +2148,7 @@
             {
                "fullName": "CHEVROLET Nubira/Lacetti",
                "firstYearProduction": "2004",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "175",
                "acceleration": "11.6",
                "drive type": "Front Wheel Drive",
@@ -2204,7 +2204,7 @@
             {
                "fullName": "CHEVROLET Express",
                "firstYearProduction": "2008",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "180",
                "acceleration": "12.5",
                "drive type": "Rear Wheel Drive",
@@ -2280,7 +2280,7 @@
             {
                "fullName": "CHEVROLET Blazer",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "9-speed automatic ",
                "length": "4862",
@@ -2334,7 +2334,7 @@
             {
                "fullName": "CHEVROLET Tracker",
                "firstYearProduction": "2013",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "All Wheel Drive",
                "gearBox": "6 speed automatic",
                "length": "4247",
@@ -2382,7 +2382,7 @@
             {
                "fullName": "CHEVROLET Prisma",
                "firstYearProduction": "2013",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "5 speed manual",
                "length": "4275",
@@ -2402,7 +2402,7 @@
             {
                "fullName": "CHEVROLET Sonic RS",
                "firstYearProduction": "2012",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "acceleration": "11",
                "drive type": "Front Wheel Drive",
                "gearBox": "six-speed manual transmission",
@@ -2425,7 +2425,7 @@
             {
                "fullName": "CHEVROLET Cruze Wagon",
                "firstYearProduction": "2012",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "200",
                "acceleration": "9.5",
                "drive type": "Front Wheel Drive",
@@ -2449,7 +2449,7 @@
             {
                "fullName": "CHEVROLET Spin",
                "firstYearProduction": "2012",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "172",
                "acceleration": "11.1",
                "drive type": "Front Wheel Drive",
@@ -2473,7 +2473,7 @@
             {
                "fullName": "CHEVROLET Onix",
                "firstYearProduction": "2012",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "171",
                "acceleration": "12.7",
                "drive type": "Front Wheel Drive",
@@ -2497,7 +2497,7 @@
             {
                "fullName": "CHEVROLET Corvette Z06 Convertible",
                "firstYearProduction": "2014",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "acceleration": "3.2",
                "drive type": "Rear Wheel Drive",
                "gearBox": "7-speed automatic",

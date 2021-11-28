@@ -1,0 +1,334 @@
+{
+   "brand": "HOLDEN",
+   "models": [
+      {
+         "modelName": "HOLDEN Commodore Sedan",
+         "firstYearProduction": "1997",
+         "engineType": "Diesel, Gasoline, Natural gas",
+         "generations": [
+            {
+               "fullName": "HOLDEN Commodore",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Present",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "9-Speed automatic",
+               "length": "4897",
+               "width": "1862",
+               "height": "1455",
+               "wheelBase": "2830",
+               "wheelTrack": "1.600",
+               "cargoVolume": "490",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "HOLDEN Commodore Sedan",
+               "firstYearProduction": "2015",
+               "lastYearProduction": "2017",
+               "topSpeed": "237",
+               "acceleration": "7.2",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "4948",
+               "width": "1897",
+               "height": "1471",
+               "wheelBase": "2916",
+               "wheelTrack": "1.603",
+               "cargoVolume": "496",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "HOLDEN Commodore Sedan",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "2015",
+               "topSpeed": "240",
+               "acceleration": "7.3",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "4948",
+               "width": "1897",
+               "height": "1471",
+               "wheelBase": "2916",
+               "wheelTrack": "1.603",
+               "cargoVolume": "496",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "HOLDEN Commodore Sedan",
+               "firstYearProduction": "2006",
+               "lastYearProduction": "Prese",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6 speed automatic",
+               "length": "4895",
+               "width": "1842",
+               "height": "1440",
+               "wheelBase": "2916",
+               "wheelTrack": "1.593",
+               "cargoVolume": "246",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "HOLDEN Commodore Sedan",
+               "firstYearProduction": "2004",
+               "lastYearProduction": "2006",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "4-speed automatic",
+               "length": "4895",
+               "width": "1842",
+               "height": "1440",
+               "wheelBase": "2789",
+               "wheelTrack": "1.570",
+               "cargoVolume": "462",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "HOLDEN Commodore Sedan",
+               "firstYearProduction": "1997",
+               "lastYearProduction": "2002",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "4892",
+               "width": "1842",
+               "height": "1450",
+               "wheelBase": "2789",
+               "cargoVolume": "470",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "HOLDEN Trax",
+         "firstYearProduction": "2013",
+         "engineType": "Diesel, Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "HOLDEN Trax",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "Prese",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "4247",
+               "width": "1765",
+               "height": "1674",
+               "wheelBase": "2555",
+               "wheelTrack": "1.539",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "HOLDEN Trax",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "2016",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "4277",
+               "width": "1775",
+               "height": "1674",
+               "wheelBase": "2555",
+               "wheelTrack": "1.539",
+               "cargoVolume": "357",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "HOLDEN Caprice/Statesman",
+         "firstYearProduction": "1999",
+         "engineType": "Gasoline, Natural gas",
+         "generations": [
+            {
+               "fullName": "HOLDEN Caprice",
+               "firstYearProduction": "2010",
+               "lastYearProduction": "Prese",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6 speed automatic",
+               "length": "5159",
+               "width": "1897",
+               "height": "1471",
+               "wheelTrack": "1.593",
+               "cargoVolume": "532",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "HOLDEN Caprice/Satesman",
+               "firstYearProduction": "2006",
+               "lastYearProduction": "2010",
+               "topSpeed": "220",
+               "acceleration": "6",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "Automatic, 5 Speed",
+               "length": "5159",
+               "width": "1900",
+               "height": "1481",
+               "wheelBase": "3010",
+               "wheelTrack": "1.593",
+               "cargoVolume": "530",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "HOLDEN Caprice/Statesman",
+               "firstYearProduction": "2003",
+               "lastYearProduction": "2006",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "5-speed automatic",
+               "length": "5192",
+               "width": "1847",
+               "height": "1445",
+               "wheelBase": "2939",
+               "wheelTrack": "1.560",
+               "cargoVolume": "515",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "HOLDEN Caprice/Satesman",
+               "firstYearProduction": "1999",
+               "lastYearProduction": "2003",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "4-speed automatic",
+               "length": "5237",
+               "width": "1847",
+               "height": "1458",
+               "wheelBase": "2939",
+               "wheelTrack": "1.600",
+               "cargoVolume": "535",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "HOLDEN Rodeo",
+         "firstYearProduction": "1996",
+         "engineType": "Diesel, Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "HOLDEN Rodeo Space Cab",
+               "firstYearProduction": "2003",
+               "lastYearProduction": "2007",
+               "topSpeed": "150",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "5019",
+               "width": "1720",
+               "height": "1636",
+               "wheelBase": "3051",
+               "wheelTrack": "1.461",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "HOLDEN Rodeo Double Cab",
+               "firstYearProduction": "2003",
+               "lastYearProduction": "Prese",
+               "topSpeed": "150",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "4900",
+               "width": "1720",
+               "height": "1641",
+               "wheelBase": "3051",
+               "wheelTrack": "1.461",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "HOLDEN Rodeo Double Cab",
+               "firstYearProduction": "1996",
+               "lastYearProduction": "2002",
+               "topSpeed": "145",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "4981",
+               "width": "1689",
+               "height": "1626",
+               "wheelBase": "3025",
+               "wheelTrack": "1.425",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "HOLDEN Combo",
+         "firstYearProduction": "2002",
+         "engineType": "Gasoline",
+         "style": "Van",
+         "generations": [
+            {
+               "fullName": "HOLDEN Combo",
+               "firstYearProduction": "2002",
+               "lastYearProduction": "Prese",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "4323",
+               "width": "1892",
+               "height": "1801",
+               "cargoVolume": "2299",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "HOLDEN Malibu",
+         "firstYearProduction": "2013",
+         "engineType": "Diesel, Gasoline",
+         "generations": [
+            {
+               "fullName": "HOLDEN Malibu",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "Prese",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6 speed automatic",
+               "length": "4864",
+               "width": "1455",
+               "height": "1854",
+               "wheelBase": "2738",
+               "wheelTrack": "1.582",
+               "cargoVolume": "544",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "HOLDEN Barina RS",
+         "firstYearProduction": "2014",
+         "engineType": "Gasoline",
+         "style": "Hatchback",
+         "generations": [
+            {
+               "fullName": "HOLDEN Barina RS",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "Prese",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-Speed, Manual",
+               "length": "4039",
+               "width": "1735",
+               "height": "1511",
+               "wheelBase": "2525",
+               "wheelTrack": "1.494",
+               "cargoVolume": "289",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "HOLDEN Cruze Mk II",
+         "firstYearProduction": "2008",
+         "engineType": "Gasoline, Diesel",
+         "generations": [
+            {
+               "fullName": "HOLDEN Cruze",
+               "firstYearProduction": "2008",
+               "lastYearProduction": "Prese",
+               "topSpeed": "204",
+               "acceleration": "10.4",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "4597",
+               "width": "1788",
+               "height": "1476",
+               "wheelBase": "2685",
+               "wheelTrack": "1.542",
+               "cargoVolume": "399",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

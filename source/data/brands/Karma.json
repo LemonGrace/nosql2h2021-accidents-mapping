@@ -1,0 +1,47 @@
+{
+   "brand": "Karma",
+   "models": [
+      {
+         "modelName": "KARMA Revero GT",
+         "firstYearProduction": "2019",
+         "engineType": "Hybrid",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "Karma Revero GT",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Present",
+               "topSpeed": "201",
+               "acceleration": "5.6",
+               "drive type": "Rear Wheel Drive",
+               "length": "4999",
+               "width": "2134",
+               "height": "1331",
+               "wheelBase": "3160",
+               "fuel": "Hybrid"
+            }
+         ]
+      },
+      {
+         "modelName": "KARMA Revero GTS",
+         "firstYearProduction": "2019",
+         "engineType": "Electric",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "Karma Revero GTS",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Present",
+               "topSpeed": "209",
+               "acceleration": "4",
+               "drive type": "All Wheel Drive",
+               "length": "4999",
+               "width": "2134",
+               "height": "1331",
+               "wheelBase": "3160",
+               "fuel": "Electric"
+            }
+         ]
+      }
+   ]
+}

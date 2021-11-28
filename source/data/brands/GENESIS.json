@@ -1,0 +1,161 @@
+{
+   "brand": "GENESIS",
+   "models": [
+      {
+         "modelName": "GENESIS G70",
+         "firstYearProduction": "2017",
+         "engineType": "Gasoline, Diesel",
+         "generations": [
+            {
+               "fullName": "GENESIS G70",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "length": "4684",
+               "width": "1849",
+               "height": "1400",
+               "wheelBase": "2835",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GENESIS G70",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "2021",
+               "topSpeed": "270",
+               "acceleration": "6.2",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4684",
+               "width": "1849",
+               "height": "1400",
+               "wheelBase": "2835",
+               "wheelTrack": "1.595",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "GENESIS G80",
+         "firstYearProduction": "2016",
+         "engineType": "Diesel, Gasoline, Electric",
+         "generations": [
+            {
+               "fullName": "GENESIS G80",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Present",
+               "acceleration": "5.1",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4996",
+               "width": "1925",
+               "height": "1466",
+               "wheelBase": "3010",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GENESIS G80",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "2019",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4991",
+               "width": "1890",
+               "height": "1481",
+               "wheelBase": "3010",
+               "wheelTrack": "1.628",
+               "cargoVolume": "493",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "GENESIS G90",
+         "firstYearProduction": "2016",
+         "engineType": "Gasoline",
+         "generations": [
+            {
+               "fullName": "GENESIS G90",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "5204",
+               "width": "1915",
+               "height": "1496",
+               "wheelBase": "3160",
+               "wheelTrack": "1.641",
+               "cargoVolume": "445",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GENESIS G90",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "2019",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "5204",
+               "width": "1915",
+               "height": "1496",
+               "wheelBase": "3160",
+               "wheelTrack": "1.641",
+               "cargoVolume": "445",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "GENESIS G70 Shooting Brake",
+         "firstYearProduction": "2021",
+         "style": "Wagon (station wagon, estate, combi, touring)",
+         "generations": [
+            {
+               "fullName": "GENESIS G70 Shooting Brake",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Present"
+            }
+         ]
+      },
+      {
+         "modelName": "GENESIS GV70",
+         "firstYearProduction": "2020",
+         "engineType": "Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "GENESIS GV70",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Present",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4714",
+               "width": "1910",
+               "height": "1631",
+               "wheelBase": "2875",
+               "wheelTrack": "1.641",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "GENESIS GV80",
+         "firstYearProduction": "2020",
+         "engineType": "Diesel",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "GENESIS GV80",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4945",
+               "width": "1976",
+               "height": "1715",
+               "wheelBase": "2995",
+               "wheelTrack": "1.674",
+               "fuel": "Diesel"
+            }
+         ]
+      }
+   ]
+}

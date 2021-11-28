@@ -1,0 +1,298 @@
+{
+   "brand": "MCLAREN",
+   "models": [
+      {
+         "modelName": "MCLAREN 765LT",
+         "firstYearProduction": "2020",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "MCLAREN 765LT",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Present",
+               "topSpeed": "330",
+               "acceleration": "2.8",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic ",
+               "length": "4600",
+               "width": "2060",
+               "height": "1158",
+               "wheelBase": "2670",
+               "wheelTrack": "1.656",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "MCLAREN 570GT",
+         "firstYearProduction": "2016",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "MCLAREN 570GT",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "Present",
+               "topSpeed": "328",
+               "acceleration": "3.4",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic (SSG)",
+               "length": "4529",
+               "width": "2096",
+               "height": "1201",
+               "wheelBase": "2670",
+               "cargoVolume": "371",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "MCLAREN Senna",
+         "firstYearProduction": "2018",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "MCLAREN Senna",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Present",
+               "topSpeed": "340",
+               "acceleration": "2.8",
+               "drive type": "Rear Wheel Drive",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "MCLAREN 570S",
+         "firstYearProduction": "2016",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "MCLAREN 570S",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "Present",
+               "topSpeed": "328",
+               "acceleration": "3.2",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic (SSG)",
+               "length": "4529",
+               "width": "2096",
+               "height": "1201",
+               "cargoVolume": "150",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "MCLAREN Elva",
+         "firstYearProduction": "2020",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "MCLAREN Elva",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Present",
+               "topSpeed": "200",
+               "acceleration": "6.7",
+               "gearBox": "7-speed automatic ",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "MCLAREN 570S Spider",
+         "firstYearProduction": "2017",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "MCLAREN 570S Spider",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Present",
+               "topSpeed": "328",
+               "acceleration": "3.2",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic (SSG)",
+               "length": "4529",
+               "width": "2045",
+               "height": "1201",
+               "wheelBase": "2670",
+               "wheelTrack": "1.674",
+               "cargoVolume": "150",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "MCLAREN 540C",
+         "firstYearProduction": "2015",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "MCLAREN 540C",
+               "firstYearProduction": "2015",
+               "lastYearProduction": "Present",
+               "topSpeed": "320",
+               "acceleration": "3.5",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic (SSG)",
+               "length": "4529",
+               "width": "2096",
+               "height": "1201",
+               "wheelBase": "2670",
+               "cargoVolume": "150",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "MCLAREN 600LT",
+         "firstYearProduction": "2018",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "MCLAREN 600LT",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Present",
+               "topSpeed": "333",
+               "acceleration": "3.2",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic ",
+               "length": "4580",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "MCLAREN Artura",
+         "firstYearProduction": "2021",
+         "engineType": "Hybrid gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "MCLAREN Artura",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Present",
+               "topSpeed": "330",
+               "acceleration": "3.1",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4539",
+               "width": "1976",
+               "height": "1194",
+               "wheelBase": "2639",
+               "wheelTrack": "1.651",
+               "cargoVolume": "161",
+               "fuel": "Hybrid Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "MCLAREN 620R",
+         "firstYearProduction": "2019",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "MCLAREN 620R",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Present",
+               "topSpeed": "322",
+               "acceleration": "2.9",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic ",
+               "length": "4557",
+               "width": "2045",
+               "height": "1194",
+               "wheelBase": "2670",
+               "wheelTrack": "1.679",
+               "cargoVolume": "119",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "MCLAREN GT",
+         "firstYearProduction": "2019",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "MCLAREN GT",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Present",
+               "topSpeed": "327",
+               "acceleration": "3.2",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic ",
+               "length": "4684",
+               "width": "2096",
+               "height": "1214",
+               "wheelBase": "2675",
+               "wheelTrack": "1.671",
+               "cargoVolume": "569",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "MCLAREN 720S",
+         "firstYearProduction": "2017",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "MCLAREN 720S Spider",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Present",
+               "topSpeed": "341",
+               "acceleration": "2.9",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic SSG",
+               "length": "4544",
+               "width": "2162",
+               "height": "1196",
+               "wheelBase": "2670",
+               "wheelTrack": "1.674",
+               "cargoVolume": "150",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "MCLAREN 720S",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Present",
+               "topSpeed": "341",
+               "acceleration": "2.9",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic (SSG)",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "MCLAREN Speedtail",
+         "firstYearProduction": "2018",
+         "engineType": "Hybrid",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "MCLAREN Speedtail",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Present",
+               "topSpeed": "402",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic (SSG)",
+               "length": "5136",
+               "height": "1120",
+               "fuel": "Hybrid"
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,412 @@
+{
+   "brand": "LAMBORGHINI",
+   "models": [
+      {
+         "modelName": "LAMBORGHINI Huracan Spyder",
+         "firstYearProduction": "2015",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "LAMBORGHINI Huracan Evo Spyder",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Present",
+               "topSpeed": "325",
+               "acceleration": "3.1",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic ",
+               "length": "4521",
+               "width": "1933",
+               "height": "1181",
+               "wheelBase": "2619",
+               "wheelTrack": "1.669",
+               "cargoVolume": "99",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "LAMBORGHINI Huracan Performance Spyder",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Present",
+               "topSpeed": "325",
+               "acceleration": "3.1",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic (DSG)",
+               "length": "4506",
+               "width": "1923",
+               "height": "1166",
+               "wheelBase": "2619",
+               "wheelTrack": "1.669",
+               "cargoVolume": "99",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "LAMBORGHINI Huracan LP 580-2 Spyder (RWD)",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "Present",
+               "topSpeed": "319",
+               "acceleration": "3.6",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4460",
+               "width": "193",
+               "height": "1181",
+               "wheelBase": "2619",
+               "wheelTrack": "1.669",
+               "cargoVolume": "99",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "LAMBORGHINI Huracan LP610-4 Spyder",
+               "firstYearProduction": "2015",
+               "lastYearProduction": "2019",
+               "topSpeed": "323",
+               "acceleration": "3.4",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic (LDF)",
+               "length": "4460",
+               "width": "1923",
+               "height": "1181",
+               "wheelBase": "2619",
+               "wheelTrack": "1.669",
+               "cargoVolume": "99",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "LAMBORGHINI Huracan",
+         "firstYearProduction": "2014",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "LAMBORGHINI Huracan STO",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Present",
+               "topSpeed": "311",
+               "acceleration": "3",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-automatic speed LDF dual clutch",
+               "length": "4549",
+               "width": "1946",
+               "height": "1219",
+               "wheelBase": "2619",
+               "wheelTrack": "1.689",
+               "cargoVolume": "37",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "LAMBORGHINI Huracan Evo RWD",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Present",
+               "topSpeed": "325",
+               "acceleration": "3.3",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic ",
+               "length": "4521",
+               "width": "1933",
+               "height": "1166",
+               "wheelBase": "2619",
+               "wheelTrack": "1.669",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "LAMBORGHINI Huracan Evo",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Present",
+               "topSpeed": "325",
+               "acceleration": "2.9",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-Speed automatic DCT",
+               "length": "4521",
+               "width": "2235",
+               "height": "1166",
+               "wheelBase": "2619",
+               "wheelTrack": "1.669",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "LAMBORGHINI Huracan Performante",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "2019",
+               "topSpeed": "325",
+               "acceleration": "2.9",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic (DSG)",
+               "length": "4506",
+               "width": "1923",
+               "height": "1166",
+               "wheelBase": "2619",
+               "wheelTrack": "1.669",
+               "cargoVolume": "99",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "LAMBORGHINI Huracan LP 580-2 (RWD)",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "2019",
+               "topSpeed": "319",
+               "acceleration": "3.6",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4460",
+               "width": "1923",
+               "height": "1181",
+               "wheelBase": "2619",
+               "wheelTrack": "1.669",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "LAMBORGHINI Huracan LP 610-4",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "2019",
+               "topSpeed": "325",
+               "acceleration": "3.2",
+               "drive type": "All Wheel Drive",
+               "gearBox": " 7-speed dual-clutch transmission",
+               "length": "4460",
+               "width": "1923",
+               "height": "1166",
+               "wheelBase": "2619",
+               "wheelTrack": "1.669",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "LAMBORGHINI Aventador",
+         "firstYearProduction": "2011",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "LAMBORGHINI Aventador SVJ",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Present",
+               "topSpeed": "349",
+               "acceleration": "2.8",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic ",
+               "length": "4943",
+               "width": "2273",
+               "height": "1135",
+               "wheelBase": "2700",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "LAMBORGHINI Aventador S",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Present",
+               "topSpeed": "349",
+               "acceleration": "2.9",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4798",
+               "width": "2029",
+               "height": "1135",
+               "wheelBase": "2700",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "LAMBORGHINI Aventador LP750-4 SV",
+               "firstYearProduction": "2015",
+               "lastYearProduction": "Present",
+               "topSpeed": "349",
+               "acceleration": "2.8",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4836",
+               "width": "2029",
+               "height": "1135",
+               "wheelBase": "2700",
+               "wheelTrack": "1.720",
+               "cargoVolume": "150",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "LAMBORGHINI Aventador LP 700-4",
+               "firstYearProduction": "2011",
+               "lastYearProduction": "2016",
+               "topSpeed": "349",
+               "acceleration": "2.9",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7 speed semi-automatic",
+               "length": "4780",
+               "width": "2029",
+               "height": "1135",
+               "wheelBase": "2700",
+               "wheelTrack": "1.720",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "LAMBORGHINI Centenario Roadster",
+         "firstYearProduction": "2016",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "LAMBORGHINI Centenario Roadster",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "Present",
+               "topSpeed": "349",
+               "acceleration": "2.9",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic ",
+               "length": "4925",
+               "width": "2060",
+               "height": "1158",
+               "wheelBase": "2700",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "LAMBORGHINI Urus",
+         "firstYearProduction": "2018",
+         "engineType": "Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "LAMBORGHINI Urus",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Present",
+               "topSpeed": "306",
+               "acceleration": "3.6",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "5113",
+               "width": "2017",
+               "height": "1638",
+               "wheelBase": "3002",
+               "wheelTrack": "1.694",
+               "cargoVolume": "617",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "LAMBORGHINI Aventador Roadster",
+         "firstYearProduction": "2012",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "LAMBORGHINI Aventador SVJ Roadster",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Present",
+               "topSpeed": "349",
+               "acceleration": "2.9",
+               "drive type": "All Wheel Drive",
+               "gearBox": "9-Speed automatic ",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "LAMBORGHINI Aventador S Roadster",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Present",
+               "topSpeed": "349",
+               "acceleration": "3",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4798",
+               "width": "2029",
+               "height": "1135",
+               "wheelBase": "2700",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "LAMBORGHINI Aventador LP750-4 SV Roadster",
+               "firstYearProduction": "2015",
+               "lastYearProduction": "Present",
+               "topSpeed": "349",
+               "acceleration": "2.9",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic (LDF)",
+               "length": "4836",
+               "width": "2029",
+               "height": "1135",
+               "wheelBase": "2700",
+               "wheelTrack": "1.720",
+               "cargoVolume": "150",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "LAMBORGHINI Aventador LP 700-4 Roadster",
+               "firstYearProduction": "2012",
+               "lastYearProduction": "Present",
+               "topSpeed": "349",
+               "acceleration": "3",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7 speed ISR, shifting characteristic depending on drive select mode",
+               "length": "4780",
+               "width": "2029",
+               "height": "1135",
+               "wheelBase": "2700",
+               "wheelTrack": "1.720",
+               "cargoVolume": "150",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "LAMBORGHINI Sian Roadster",
+         "firstYearProduction": "2020",
+         "engineType": "Hybrid gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "LAMBORGHINI Sian Roadster",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Present",
+               "topSpeed": "349",
+               "acceleration": "2.9",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic ",
+               "fuel": "Hybrid Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "LAMBORGHINI Sian",
+         "firstYearProduction": "2019",
+         "engineType": "Hybrid gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "LAMBORGHINI Sian",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Present",
+               "topSpeed": "349",
+               "acceleration": "2.8",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic ",
+               "length": "4981",
+               "width": "2101",
+               "height": "1133",
+               "wheelBase": "2700",
+               "fuel": "Hybrid Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "LAMBORGHINI Veneno Roadster",
+         "firstYearProduction": "2014",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "LAMBORGHINI Veneno Roadster",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "Present",
+               "topSpeed": "356",
+               "acceleration": "2.9",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-Speed Semi-Automatic ISR Transmission",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

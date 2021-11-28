@@ -1,0 +1,114 @@
+{
+   "brand": "NIO",
+   "models": [
+      {
+         "modelName": "NIO ES8",
+         "firstYearProduction": "2018",
+         "engineType": "Electric",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "NIO ES8",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Present",
+               "acceleration": "4.9",
+               "drive type": "All Wheel Drive",
+               "gearBox": "1-Speed automatic",
+               "length": "5022",
+               "width": "1961",
+               "height": "1755",
+               "wheelBase": "3010",
+               "wheelTrack": "1.669",
+               "cargoVolume": "309",
+               "fuel": "Electric"
+            }
+         ]
+      },
+      {
+         "modelName": "NIO EP9",
+         "firstYearProduction": "2016",
+         "engineType": "Electric",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "NIO EP9",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "Present",
+               "acceleration": "2.7",
+               "drive type": "All Wheel Drive",
+               "length": "4887",
+               "width": "2230",
+               "height": "1151",
+               "fuel": "Electric"
+            }
+         ]
+      },
+      {
+         "modelName": "NIO EC6",
+         "firstYearProduction": "2020",
+         "engineType": "Electric",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "NIO EC6",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Present",
+               "acceleration": "5.4",
+               "drive type": "All Wheel Drive",
+               "gearBox": "1-Speed automatic",
+               "length": "4849",
+               "width": "1966",
+               "height": "1715",
+               "wheelBase": "2901",
+               "wheelTrack": "1.669",
+               "cargoVolume": "510",
+               "fuel": "Electric"
+            }
+         ]
+      },
+      {
+         "modelName": "NIO ES6",
+         "firstYearProduction": "2018",
+         "engineType": "Electric",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "NIO ES6",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Present",
+               "acceleration": "5.6",
+               "drive type": "All Wheel Drive",
+               "gearBox": "1-Speed automatic",
+               "length": "4849",
+               "width": "1966",
+               "height": "1730",
+               "wheelBase": "2901",
+               "wheelTrack": "1.669",
+               "cargoVolume": "583",
+               "fuel": "Electric"
+            }
+         ]
+      },
+      {
+         "modelName": "NIO ET7",
+         "firstYearProduction": "2020",
+         "engineType": "Electric",
+         "generations": [
+            {
+               "fullName": "NIO ET7",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Present",
+               "acceleration": "3.9",
+               "drive type": "All Wheel Drive",
+               "gearBox": "1-Speed automatic",
+               "length": "5098",
+               "width": "1986",
+               "height": "1506",
+               "wheelBase": "3061",
+               "wheelTrack": "1.669",
+               "fuel": "Electric"
+            }
+         ]
+      }
+   ]
+}

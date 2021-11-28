@@ -1,0 +1,98 @@
+{
+   "brand": "PAGANI",
+   "models": [
+      {
+         "modelName": "PAGANI Huayra Roadster",
+         "firstYearProduction": "2017",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "PAGANI Huayra Roadster BC",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic ",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "PAGANI Huayra Roadster",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "2019",
+               "topSpeed": "370",
+               "acceleration": "3",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4605",
+               "width": "2037",
+               "height": "1168",
+               "wheelBase": "2794",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "PAGANI Huayra",
+         "firstYearProduction": "2012",
+         "engineType": "Gasoline",
+         "generations": [
+            {
+               "fullName": "PAGANI Huayra",
+               "firstYearProduction": "2012",
+               "lastYearProduction": "Present",
+               "topSpeed": "360",
+               "acceleration": "3.3",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4651",
+               "width": "2037",
+               "height": "1168",
+               "wheelBase": "2794",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "PAGANI Imola",
+         "firstYearProduction": "2020",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "PAGANI Imola",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic ",
+               "length": "4854",
+               "width": "2035",
+               "height": "1270",
+               "wheelBase": "2794",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "PAGANI Zonda F",
+         "firstYearProduction": "2005",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "PAGANI Zonda F",
+               "firstYearProduction": "2005",
+               "lastYearProduction": "Present",
+               "topSpeed": "344",
+               "acceleration": "3.6",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "Manual, 6 Speed",
+               "length": "4435",
+               "width": "2055",
+               "height": "1140",
+               "wheelBase": "2731",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

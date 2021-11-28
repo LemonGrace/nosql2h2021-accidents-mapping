@@ -10,7 +10,7 @@
             {
                "fullName": "BUGATTI Divo",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "380",
                "acceleration": "2.3",
                "drive type": "All Wheel Drive",
@@ -32,7 +32,7 @@
             {
                "fullName": "BUGATTI Centodieci",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "380",
                "acceleration": "2.4",
                "drive type": "Rear Wheel Drive",
@@ -50,7 +50,7 @@
             {
                "fullName": "BUGATTI Chiron Super Sport 300+",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "420",
                "acceleration": "2.3",
                "drive type": "All Wheel Drive",
@@ -64,7 +64,7 @@
             {
                "fullName": "BUGATTI Chiron Pur Sport",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "349",
                "acceleration": "2.4",
                "drive type": "All Wheel Drive",
@@ -81,7 +81,7 @@
             {
                "fullName": "BUGATTI Chiron Sport",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "420",
                "acceleration": "2.3",
                "drive type": "All Wheel Drive",
@@ -95,7 +95,7 @@
             {
                "fullName": "BUGATTI Chiron",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "420",
                "acceleration": "2.3",
                "drive type": "All Wheel Drive",
@@ -118,7 +118,7 @@
             {
                "fullName": "BUGATTI La Voiture Noire",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "fuel": "Gasoline"
             }
          ]

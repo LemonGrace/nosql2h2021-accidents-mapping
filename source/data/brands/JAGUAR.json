@@ -1,0 +1,650 @@
+{
+   "brand": "JAGUAR",
+   "models": [
+      {
+         "modelName": "JAGUAR F-Pace SVR",
+         "firstYearProduction": "2018",
+         "engineType": "Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "JAGUAR F-Pace SVR",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Present",
+               "topSpeed": "286",
+               "acceleration": "3.8",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "JAGUAR F-Pace SVR",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "2020",
+               "topSpeed": "283",
+               "acceleration": "4.2",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic  Quickshift",
+               "wheelBase": "2873",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "JAGUAR F-Pace",
+         "firstYearProduction": "2015",
+         "engineType": "Mild hybrid diesel, Gasoline, Hybrid, Diesel, Mild hybrid",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "JAGUAR F-Pace",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Present",
+               "topSpeed": "230",
+               "acceleration": "6.4",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4747",
+               "width": "2070",
+               "height": "1643",
+               "wheelBase": "2873",
+               "wheelTrack": "1.641",
+               "cargoVolume": "793",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "JAGUAR F-Pace",
+               "firstYearProduction": "2015",
+               "lastYearProduction": "2020",
+               "topSpeed": "217",
+               "acceleration": "6.8",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4732",
+               "width": "1935",
+               "height": "1651",
+               "wheelBase": "2873",
+               "wheelTrack": "1.641",
+               "cargoVolume": "651",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "JAGUAR F-Type Convertible",
+         "firstYearProduction": "2012",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "JAGUAR F-Type Convertible",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Present",
+               "topSpeed": "249",
+               "acceleration": "5.7",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic Quickshift",
+               "length": "4470",
+               "width": "1923",
+               "height": "1308",
+               "wheelBase": "2621",
+               "wheelTrack": "1.595",
+               "cargoVolume": "232",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "JAGUAR F-Type Convertible",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "2020",
+               "topSpeed": "249",
+               "acceleration": "5.4",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4483",
+               "width": "1923",
+               "height": "1308",
+               "wheelBase": "2621",
+               "wheelTrack": "1.598",
+               "cargoVolume": "309",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "JAGUAR F-Type Convertible",
+               "firstYearProduction": "2012",
+               "lastYearProduction": "2017",
+               "topSpeed": "261",
+               "acceleration": "5.7",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "4470",
+               "width": "1923",
+               "height": "1295",
+               "wheelBase": "2621",
+               "wheelTrack": "1.585",
+               "cargoVolume": "201",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "JAGUAR F-Type Coupe",
+         "firstYearProduction": "2014",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "JAGUAR F-Type Coupe",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Present",
+               "topSpeed": "249",
+               "acceleration": "5.7",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4483",
+               "width": "1923",
+               "height": "1311",
+               "wheelBase": "2621",
+               "wheelTrack": "1.598",
+               "cargoVolume": "309",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "JAGUAR F-Type 400 Coupe",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "2020",
+               "topSpeed": "275",
+               "acceleration": "5",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4483",
+               "width": "1923",
+               "height": "1311",
+               "wheelBase": "2621",
+               "wheelTrack": "1.585",
+               "cargoVolume": "309",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "JAGUAR F-Type Coupe",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "2020",
+               "topSpeed": "249",
+               "acceleration": "5.4",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4483",
+               "width": "1923",
+               "height": "1311",
+               "wheelBase": "2621",
+               "wheelTrack": "1.598",
+               "cargoVolume": "309",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "JAGUAR F-Type Coupe",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "2017",
+               "topSpeed": "261",
+               "acceleration": "5.7",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "4470",
+               "width": "1923",
+               "height": "1308",
+               "wheelBase": "2621",
+               "wheelTrack": "1.598",
+               "cargoVolume": "314",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "JAGUAR XF Sportbrake",
+         "firstYearProduction": "2012",
+         "engineType": "Mild hybrid diesel, Gasoline, Diesel",
+         "style": "Wagon (station wagon, estate, combi, touring)",
+         "generations": [
+            {
+               "fullName": "JAGUAR XF Sportbrake (X260)",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "JAGUAR XF Sportbrake",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "2020",
+               "topSpeed": "241",
+               "acceleration": "7.1",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4956",
+               "width": "1986",
+               "height": "1496",
+               "wheelBase": "2959",
+               "wheelTrack": "1.598",
+               "cargoVolume": "566",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "JAGUAR XF Sportbrake (X250)",
+               "firstYearProduction": "2012",
+               "lastYearProduction": "2015",
+               "topSpeed": "200",
+               "acceleration": "10.9",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4966",
+               "width": "1877",
+               "height": "1481",
+               "wheelBase": "2908",
+               "wheelTrack": "1.560",
+               "cargoVolume": "549",
+               "fuel": "Diesel"
+            }
+         ]
+      },
+      {
+         "modelName": "JAGUAR XE",
+         "firstYearProduction": "2015",
+         "engineType": "Diesel, Gasoline",
+         "generations": [
+            {
+               "fullName": "JAGUAR XE",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Present",
+               "topSpeed": "249",
+               "acceleration": "6.5",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-Speed automatic ",
+               "length": "4679",
+               "width": "2075",
+               "height": "1415",
+               "wheelBase": "2835",
+               "wheelTrack": "1.001",
+               "cargoVolume": "411",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "JAGUAR XE 300 Sport",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Present",
+               "topSpeed": "249",
+               "acceleration": "5.5",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4671",
+               "width": "1849",
+               "height": "1415",
+               "wheelBase": "2835",
+               "wheelTrack": "1.603",
+               "cargoVolume": "450",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "JAGUAR XE",
+               "firstYearProduction": "2015",
+               "lastYearProduction": "2019",
+               "topSpeed": "237",
+               "acceleration": "7.7",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4671",
+               "width": "1849",
+               "height": "1415",
+               "wheelBase": "2835",
+               "wheelTrack": "1.603",
+               "cargoVolume": "450",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "JAGUAR F-Type SVR",
+         "firstYearProduction": "2016",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "JAGUAR F-Type SVR",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Present",
+               "topSpeed": "314",
+               "acceleration": "3.7",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4475",
+               "width": "1923",
+               "height": "1308",
+               "wheelBase": "2621",
+               "wheelTrack": "1.585",
+               "cargoVolume": "309",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "JAGUAR F-Type SVR",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "2017",
+               "topSpeed": "314",
+               "acceleration": "3.6",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4475",
+               "width": "1923",
+               "height": "1308",
+               "wheelBase": "2621",
+               "wheelTrack": "1.585",
+               "cargoVolume": "207",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "JAGUAR F-Type SVR Coupe",
+         "firstYearProduction": "2016",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "JAGUAR F-Type SVR Coupe",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Present",
+               "topSpeed": "322",
+               "acceleration": "3.6",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4475",
+               "width": "1923",
+               "height": "1311",
+               "wheelBase": "2621",
+               "wheelTrack": "1.585",
+               "cargoVolume": "309",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "JAGUAR F-Type SVR Coupe",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "2017",
+               "topSpeed": "322",
+               "acceleration": "3.6",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4475",
+               "width": "1923",
+               "height": "1311",
+               "wheelBase": "2621",
+               "wheelTrack": "1.585",
+               "cargoVolume": "309",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "JAGUAR XJR",
+         "firstYearProduction": "1990",
+         "engineType": ", Gasoline",
+         "generations": [
+            {
+               "fullName": "JAGUAR XJR575",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Present",
+               "topSpeed": "299",
+               "acceleration": "4.4",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "5131",
+               "width": "1951",
+               "height": "1461",
+               "wheelBase": "3033",
+               "wheelTrack": "1.626",
+               "cargoVolume": "479"
+            },
+            {
+               "fullName": "JAGUAR XJR",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "2017",
+               "topSpeed": "280",
+               "acceleration": "4.6",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic transmission",
+               "length": "5253",
+               "width": "1900",
+               "height": "1458",
+               "wheelBase": "3157",
+               "wheelTrack": "1.626",
+               "cargoVolume": "521",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "JAGUAR XJR",
+               "firstYearProduction": "2007",
+               "lastYearProduction": "2010",
+               "topSpeed": "250",
+               "acceleration": "5.3",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-automatic speed",
+               "length": "5090",
+               "width": "1859",
+               "height": "1448",
+               "wheelBase": "3033",
+               "wheelTrack": "1.557",
+               "cargoVolume": "470",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "JAGUAR XJR",
+               "firstYearProduction": "2003",
+               "lastYearProduction": "2007",
+               "topSpeed": "250",
+               "acceleration": "5.3",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-automatic speed",
+               "length": "5090",
+               "width": "1859",
+               "height": "1448",
+               "wheelBase": "3033",
+               "wheelTrack": "1.557",
+               "cargoVolume": "470",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "JAGUAR XJR",
+               "firstYearProduction": "1997",
+               "lastYearProduction": "2003",
+               "topSpeed": "250",
+               "acceleration": "5.6",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "5-automatic speed",
+               "length": "5019",
+               "width": "1801",
+               "height": "1300",
+               "wheelBase": "2870",
+               "wheelTrack": "1.501",
+               "cargoVolume": "411",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "JAGUAR XJR",
+               "firstYearProduction": "1994",
+               "lastYearProduction": "1997",
+               "topSpeed": "250",
+               "acceleration": "6.3",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "4-automatic speed",
+               "length": "5019",
+               "width": "1801",
+               "height": "1300",
+               "wheelBase": "2870",
+               "wheelTrack": "1.501",
+               "cargoVolume": "411",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "JAGUAR XJR15",
+               "firstYearProduction": "1990",
+               "lastYearProduction": "1992",
+               "topSpeed": "298",
+               "acceleration": "3.3",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "4801",
+               "width": "1900",
+               "height": "1100",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "JAGUAR XF",
+         "firstYearProduction": "2008",
+         "engineType": "Mild hybrid diesel, Gasoline, Diesel",
+         "generations": [
+            {
+               "fullName": "JAGUAR XF (X260)",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Present",
+               "acceleration": "6.9",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "JAGUAR XF",
+               "firstYearProduction": "2015",
+               "lastYearProduction": "Present",
+               "topSpeed": "235",
+               "acceleration": "7.5",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4953",
+               "width": "1880",
+               "height": "1458",
+               "wheelBase": "2959",
+               "wheelTrack": "1.605",
+               "cargoVolume": "541",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "JAGUAR XF (X250)",
+               "firstYearProduction": "2012",
+               "lastYearProduction": "2015",
+               "topSpeed": "209",
+               "acceleration": "7.9",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4961",
+               "width": "1877",
+               "height": "1461",
+               "wheelBase": "2908",
+               "wheelTrack": "1.600",
+               "cargoVolume": "501",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "JAGUAR XFR",
+               "firstYearProduction": "2011",
+               "lastYearProduction": "2015",
+               "topSpeed": "249",
+               "acceleration": "5.7",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "4961",
+               "width": "1877",
+               "height": "1461",
+               "wheelBase": "2908",
+               "wheelTrack": "1.560",
+               "cargoVolume": "923",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "JAGUAR XF (X250)",
+               "firstYearProduction": "2008",
+               "lastYearProduction": "2012",
+               "topSpeed": "237",
+               "acceleration": "8.3",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "4961",
+               "width": "1880",
+               "height": "1461",
+               "wheelBase": "2911",
+               "wheelTrack": "1.560",
+               "cargoVolume": "541",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "JAGUAR I-Pace",
+         "firstYearProduction": "2018",
+         "engineType": "Electric",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "JAGUAR I-PACE",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Present",
+               "topSpeed": "200",
+               "acceleration": "4.6",
+               "drive type": "All Wheel Drive",
+               "gearBox": "Automatic",
+               "length": "4681",
+               "width": "2139",
+               "height": "1557",
+               "wheelBase": "2990",
+               "wheelTrack": "1643",
+               "cargoVolume": "491",
+               "fuel": "Electric"
+            }
+         ]
+      },
+      {
+         "modelName": "JAGUAR E-Pace",
+         "firstYearProduction": "2017",
+         "engineType": "Diesel, Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "JAGUAR E-Pace",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Present",
+               "topSpeed": "216",
+               "acceleration": "8.2",
+               "drive type": "All Wheel Drive",
+               "gearBox": "9-speed automatic",
+               "length": "4412",
+               "width": "1984",
+               "height": "1648",
+               "wheelBase": "2682",
+               "wheelTrack": "1.626",
+               "cargoVolume": "578",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "JAGUAR XE SV",
+         "firstYearProduction": "2017",
+         "engineType": "Gasoline",
+         "generations": [
+            {
+               "fullName": "JAGUAR XE SV Project 8",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Present",
+               "topSpeed": "322",
+               "acceleration": "3.4",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4714",
+               "width": "2078",
+               "height": "1435",
+               "wheelBase": "2835",
+               "cargoVolume": "450",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

@@ -10,7 +10,7 @@
             {
                "fullName": "ALFA ROMEO Giulietta",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "195",
                "acceleration": "9.4",
                "drive type": "Front Wheel Drive",
@@ -93,7 +93,7 @@
             {
                "fullName": "ALFA ROMEO Giulia",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "235",
                "acceleration": "6.6",
                "drive type": "Rear Wheel Drive",
@@ -108,7 +108,7 @@
             {
                "fullName": "ALFA ROMEO Giulia Coupe 1300 GTA Junior",
                "firstYearProduction": "1965",
-               "lastYearProduction": "1972",
+               "lastYearProduction": "Present",
                "topSpeed": "210",
                "drive type": "Rear Wheel Drive",
                "gearBox": "5-Speed manual",
@@ -146,7 +146,7 @@
             {
                "fullName": "ALFA ROMEO 4C",
                "firstYearProduction": "2013",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "257",
                "acceleration": "4.5",
                "drive type": "Rear Wheel Drive",
@@ -170,7 +170,7 @@
             {
                "fullName": "ALFA ROMEO 4C Spider",
                "firstYearProduction": "2015",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "257",
                "acceleration": "4.5",
                "drive type": "Rear Wheel Drive",
@@ -194,7 +194,7 @@
             {
                "fullName": "ALFA ROMEO Stelvio",
                "firstYearProduction": "2017",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "216",
                "acceleration": "7.2",
                "drive type": "All Wheel Drive",
@@ -216,7 +216,7 @@
             {
                "fullName": "ALFA ROMEO Giulia Veloce",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "240",
                "acceleration": "4.9",
                "drive type": "All Wheel Drive",
@@ -238,7 +238,7 @@
             {
                "fullName": "ALFA ROMEO Giulia GTA",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Rear Wheel Drive",
                "gearBox": "8-speed automatic",
                "wheelTrack": "1.600",
@@ -255,7 +255,7 @@
             {
                "fullName": "ALFA ROMEO Giulia Quadrifoglio",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "307",
                "acceleration": "3.9",
                "drive type": "Rear Wheel Drive",
@@ -279,7 +279,7 @@
             {
                "fullName": "ALFA ROMEO Stelvio Quadrifoglio",
                "firstYearProduction": "2017",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "285",
                "acceleration": "3.8",
                "drive type": "All Wheel Drive",

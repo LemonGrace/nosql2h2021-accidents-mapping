@@ -1,0 +1,179 @@
+{
+   "brand": "MG",
+   "models": [
+      {
+         "modelName": "MG ZS",
+         "firstYearProduction": "2017",
+         "engineType": "Electric, Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "MG ZS EV",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Present",
+               "fuel": "Electric"
+            },
+            {
+               "fullName": "MG ZS",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "2021",
+               "topSpeed": "180",
+               "acceleration": "12.5",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "4313",
+               "width": "2047",
+               "height": "1610",
+               "wheelBase": "2586",
+               "wheelTrack": "1.529",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "MG MG5",
+         "firstYearProduction": "2021",
+         "engineType": "Electric",
+         "style": "Wagon (station wagon, estate, combi, touring)",
+         "generations": [
+            {
+               "fullName": "MG MG5",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Present",
+               "drive type": "Front Wheel Drive",
+               "cargoVolume": "479",
+               "fuel": "Electric"
+            }
+         ]
+      },
+      {
+         "modelName": "MG HS",
+         "firstYearProduction": "2019",
+         "engineType": "Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "MG HS",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Present",
+               "topSpeed": "190",
+               "acceleration": "9.9",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6-Speed manual",
+               "length": "4575",
+               "width": "1877",
+               "height": "1664",
+               "wheelBase": "2720",
+               "wheelTrack": "1.572",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "MG GS",
+         "firstYearProduction": "2015",
+         "engineType": "Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "MG GS (AS21)",
+               "firstYearProduction": "2015",
+               "lastYearProduction": "Present",
+               "topSpeed": "190",
+               "acceleration": "9.9",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6-Speed manual",
+               "length": "4501",
+               "width": "2080",
+               "height": "1666",
+               "wheelBase": "2649",
+               "wheelTrack": "1.575",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "MG Marvel R",
+         "firstYearProduction": "2021",
+         "engineType": "Electric",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "MG Marvel R",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Present",
+               "acceleration": "7.9",
+               "length": "4674",
+               "width": "1920",
+               "height": "1613",
+               "wheelBase": "2804",
+               "cargoVolume": "357",
+               "fuel": "Electric"
+            }
+         ]
+      },
+      {
+         "modelName": "MG MG6",
+         "firstYearProduction": "2011",
+         "engineType": "Gasoline, Diesel",
+         "generations": [
+            {
+               "fullName": "MG MG6 GT",
+               "firstYearProduction": "2011",
+               "lastYearProduction": "Present",
+               "topSpeed": "193",
+               "acceleration": "8.4",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5 speed manual",
+               "length": "4651",
+               "width": "1826",
+               "height": "1473",
+               "wheelBase": "2705",
+               "wheelTrack": "1.557",
+               "cargoVolume": "498",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "MG MG6 Magnette",
+               "firstYearProduction": "2011",
+               "lastYearProduction": "Present",
+               "topSpeed": "193",
+               "acceleration": "8.4",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-speed manual",
+               "length": "4651",
+               "width": "1826",
+               "height": "1473",
+               "wheelBase": "2705",
+               "wheelTrack": "1.557",
+               "cargoVolume": "473",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "MG MG3",
+         "firstYearProduction": "2013",
+         "engineType": "Gasoline",
+         "style": "Hatchback",
+         "generations": [
+            {
+               "fullName": "MG MG3",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "Present",
+               "topSpeed": "172",
+               "acceleration": "10.9",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-speed semi-automatic (e-shift)",
+               "length": "4016",
+               "width": "1727",
+               "height": "1519",
+               "wheelBase": "2520",
+               "wheelTrack": "1.506",
+               "cargoVolume": "286",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

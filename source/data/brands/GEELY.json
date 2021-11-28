@@ -1,0 +1,81 @@
+{
+   "brand": "GEELY",
+   "models": [
+      {
+         "modelName": "GEELY CK",
+         "firstYearProduction": "2005",
+         "engineType": "Gasoline",
+         "generations": [
+            {
+               "fullName": "GEELY CK",
+               "firstYearProduction": "2005",
+               "lastYearProduction": "Present",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-speed manual",
+               "length": "4153",
+               "width": "1679",
+               "height": "1440",
+               "wheelBase": "2433",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "GEELY Emgrand EC7",
+         "firstYearProduction": "2009",
+         "engineType": "Gasoline",
+         "generations": [
+            {
+               "fullName": "GEELY Emgrand EC718",
+               "firstYearProduction": "2009",
+               "lastYearProduction": "Present",
+               "topSpeed": "185",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "4636",
+               "width": "1788",
+               "height": "1471",
+               "wheelBase": "2649",
+               "cargoVolume": "680",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "GEELY LC",
+         "firstYearProduction": "2009",
+         "engineType": "Gasoline",
+         "style": "Hatchback",
+         "generations": [
+            {
+               "fullName": "GEELY LC Crossover",
+               "firstYearProduction": "2011",
+               "lastYearProduction": "Present",
+               "topSpeed": "155",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "3599",
+               "width": "1631",
+               "height": "1435",
+               "wheelBase": "2339",
+               "wheelTrack": "1.420",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "GEELY LC (Panda)",
+               "firstYearProduction": "2009",
+               "lastYearProduction": "Present",
+               "topSpeed": "155",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "3599",
+               "width": "1631",
+               "height": "1435",
+               "wheelBase": "2339",
+               "wheelTrack": "1.420",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}
