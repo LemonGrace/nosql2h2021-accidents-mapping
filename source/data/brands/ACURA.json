@@ -10,7 +10,7 @@
             {
                "fullName": "ACURA RDX",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "10-speed automatic",
                "length": "4760",
@@ -84,7 +84,7 @@
             {
                "fullName": "ACURA MDX",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "10-speed automatic",
                "length": "5039",
@@ -98,7 +98,7 @@
             {
                "fullName": "ACURA MDX A-Spec",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "All Wheel Drive",
                "gearBox": "9-Speed automatic ",
                "length": "4983",
@@ -210,7 +210,7 @@
             {
                "fullName": "ACURA TLX",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Rear Wheel Drive",
                "gearBox": "10-speed automatic",
                "length": "4943",
@@ -247,7 +247,7 @@
             {
                "fullName": "ACURA ILX",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "222",
                "acceleration": "6.4",
                "drive type": "Front Wheel Drive",
@@ -314,7 +314,7 @@
             {
                "fullName": "ACURA RLX",
                "firstYearProduction": "2017",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "10-speed automatic",
                "length": "5032",
@@ -352,7 +352,7 @@
             {
                "fullName": "ACURA NSX",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "307",
                "acceleration": "3.6",
                "drive type": "All Wheel Drive",

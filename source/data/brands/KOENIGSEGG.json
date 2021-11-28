@@ -1,0 +1,70 @@
+{
+   "brand": "KOENIGSEGG",
+   "models": [
+      {
+         "modelName": "KOENIGSEGG Gemera",
+         "firstYearProduction": "2020",
+         "engineType": "Ethanol",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "KOENIGSEGG Gemera",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Present",
+               "topSpeed": "401",
+               "acceleration": "1.9",
+               "drive type": "All Wheel Drive",
+               "gearBox": "Hydracopu Direct Drive",
+               "length": "4976",
+               "width": "1989",
+               "height": "1295",
+               "wheelBase": "3000",
+               "cargoVolume": "201",
+               "fuel": "Ethanol"
+            }
+         ]
+      },
+      {
+         "modelName": "KOENIGSEGG Jesko",
+         "firstYearProduction": "2019",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "KOENIGSEGG Jesko",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Present",
+               "drive type": "All Wheel Drive",
+               "gearBox": "9-Speed automatic Light Speed Transmission (LST)",
+               "length": "4610",
+               "width": "2029",
+               "height": "1209",
+               "wheelBase": "2700",
+               "cargoVolume": "150",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "KOENIGSEGG Regera",
+         "firstYearProduction": "2015",
+         "engineType": "Hybrid",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "KOENIGSEGG Regera",
+               "firstYearProduction": "2015",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "single gear (Koenigsegg Direct Drive)",
+               "length": "4559",
+               "width": "2050",
+               "height": "1110",
+               "wheelBase": "2662",
+               "cargoVolume": "150",
+               "fuel": "Hybrid"
+            }
+         ]
+      }
+   ]
+}

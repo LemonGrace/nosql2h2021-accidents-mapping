@@ -10,7 +10,7 @@
             {
                "fullName": "CADILLAC Escalade",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "10-Speed automatic",
                "length": "5382",
@@ -76,7 +76,7 @@
             {
                "fullName": "CADILLAC Escalade ESV",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "10-speed automatic",
                "length": "5766",
@@ -144,7 +144,7 @@
             {
                "fullName": "CADILLAC XT5",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "9-speed automatic ",
                "length": "4816",
@@ -179,7 +179,7 @@
             {
                "fullName": "CADILLAC XTS",
                "firstYearProduction": "2017",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "6-speed automatic",
                "length": "5103",
@@ -216,7 +216,7 @@
             {
                "fullName": "CADILLAC CT6 V-Sport",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "gearBox": "10-Sped automatic",
                "length": "5182",
                "width": "1880",
@@ -227,7 +227,7 @@
             {
                "fullName": "CADILLAC CT6",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Rear Wheel Drive",
                "gearBox": "8-speed automatic",
                "length": "5182",
@@ -247,7 +247,7 @@
             {
                "fullName": "CADILLAC CT4-V Blackwing",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "304",
                "acceleration": "3.9",
                "drive type": "Rear Wheel Drive",
@@ -257,7 +257,7 @@
             {
                "fullName": "CADILLAC CT4-V",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Rear Wheel Drive",
                "gearBox": "10-automatic speed",
                "length": "4755",
@@ -278,7 +278,7 @@
             {
                "fullName": "CADILLAC XT4",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "9-Speed automatic Hydra-Matic 9T50",
                "length": "4597",
@@ -299,7 +299,7 @@
             {
                "fullName": "CADILLAC CT5-V Blackwing",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "322",
                "acceleration": "3.8",
                "drive type": "Rear Wheel Drive",
@@ -309,7 +309,7 @@
             {
                "fullName": "CADILLAC CT5-V",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Rear Wheel Drive",
                "gearBox": "10-automatic speed",
                "length": "4925",
@@ -330,7 +330,7 @@
             {
                "fullName": "CADILLAC XT6",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese"
+               "lastYearProduction": "Present"
             }
          ]
       },
@@ -342,7 +342,7 @@
             {
                "fullName": "CADILLAC CT5",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Rear Wheel Drive",
                "gearBox": "10-Speed automatic",
                "length": "4925",

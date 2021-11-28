@@ -1,0 +1,87 @@
+{
+   "brand": "Mahindra",
+   "models": [
+      {
+         "modelName": "MAHINDRA Thar",
+         "firstYearProduction": "2010",
+         "engineType": "Diesel",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "Mahindra Thar",
+               "firstYearProduction": "2010",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "5-speed manual",
+               "length": "3759",
+               "width": "1641",
+               "height": "1905",
+               "wheelBase": "2431",
+               "wheelTrack": "1.313",
+               "cargoVolume": "385",
+               "fuel": "Diesel"
+            }
+         ]
+      },
+      {
+         "modelName": "MAHINDRA Bolero",
+         "firstYearProduction": "2011",
+         "engineType": "Diesel",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "Mahindra Bolero",
+               "firstYearProduction": "2011",
+               "lastYearProduction": "Present",
+               "drive type": "All Wheel Drive",
+               "gearBox": "5-speed manual",
+               "length": "4107",
+               "width": "1745",
+               "height": "1880",
+               "wheelBase": "2680",
+               "fuel": "Diesel"
+            }
+         ]
+      },
+      {
+         "modelName": "MAHINDRA Scorpio / GOA",
+         "firstYearProduction": "2002",
+         "engineType": "Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "Mahindra Scorpio / Goa",
+               "firstYearProduction": "2002",
+               "lastYearProduction": "Present",
+               "drive type": "All Wheel Drive",
+               "gearBox": "5 speed manual",
+               "length": "4430",
+               "width": "1816",
+               "height": "1976",
+               "wheelBase": "2680",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "MAHINDRA Verito",
+         "firstYearProduction": "2012",
+         "engineType": "Gasoline, Diesel",
+         "generations": [
+            {
+               "fullName": "Mahindra Verito",
+               "firstYearProduction": "2012",
+               "lastYearProduction": "Present",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5 speed manual",
+               "length": "4277",
+               "width": "1740",
+               "height": "1539",
+               "wheelBase": "2629",
+               "cargoVolume": "510",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

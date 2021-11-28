@@ -1,0 +1,418 @@
+{
+   "brand": "INFINITI",
+   "models": [
+      {
+         "modelName": "INFINITI QX60",
+         "firstYearProduction": "2013",
+         "engineType": "Gasoline, Hybrid",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "INFINITI QX60",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Present",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "9-speed Automatic Transmission with Paddle Shifters and Shift by Wire gear selector",
+               "length": "5034",
+               "width": "2184",
+               "height": "1770",
+               "wheelBase": "2901",
+               "wheelTrack": "1.699",
+               "cargoVolume": "411",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "INFINITI QX60",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "2021",
+               "topSpeed": "193",
+               "acceleration": "8.5",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "CVT D-Step Logic",
+               "length": "4989",
+               "width": "1961",
+               "height": "1742",
+               "wheelBase": "2901",
+               "wheelTrack": "1.669",
+               "cargoVolume": "447",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "INFINITI QX60",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "2016",
+               "topSpeed": "190",
+               "acceleration": "8",
+               "drive type": "All Wheel Drive",
+               "gearBox": "CVT",
+               "length": "4989",
+               "width": "1961",
+               "height": "1742",
+               "wheelBase": "2901",
+               "wheelTrack": "1.750",
+               "cargoVolume": "447",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "INFINITI QX80",
+         "firstYearProduction": "2014",
+         "engineType": "Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "INFINITI QX80",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic ",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "INFINITI QX80",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "2021",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "5283",
+               "width": "2029",
+               "height": "1925",
+               "wheelBase": "3076",
+               "wheelTrack": "1.715",
+               "cargoVolume": "4718",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "INFINITI QX80",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "2017",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "5291",
+               "width": "2029",
+               "height": "1925",
+               "wheelBase": "3076",
+               "wheelTrack": "1.715",
+               "cargoVolume": "1405",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "INFINITI QX50",
+         "firstYearProduction": "2013",
+         "engineType": "Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "INFINITI QX50",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Present",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "CVT Xtronic",
+               "length": "4691",
+               "width": "1902",
+               "height": "1676",
+               "wheelBase": "2799",
+               "wheelTrack": "1636",
+               "cargoVolume": "889",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "INFINITI QX50",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "2020",
+               "topSpeed": "230",
+               "acceleration": "6.7",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "CVT",
+               "length": "4691",
+               "width": "1902",
+               "height": "1676",
+               "wheelBase": "2799",
+               "wheelTrack": "1.636",
+               "cargoVolume": "889",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "INFINITI QX50",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "Present",
+               "topSpeed": "225",
+               "acceleration": "6.7",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4745",
+               "width": "1803",
+               "height": "1593",
+               "wheelBase": "2870",
+               "wheelTrack": "1.534",
+               "cargoVolume": "527",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "INFINITI QX50",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "2016",
+               "topSpeed": "209",
+               "acceleration": "9.4",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4630",
+               "width": "1803",
+               "height": "1572",
+               "wheelBase": "2799",
+               "wheelTrack": "1.593",
+               "cargoVolume": "527",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "INFINITI Q70",
+         "firstYearProduction": "2013",
+         "engineType": "Hybrid, Diesel, Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "INFINITI Q70",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Present",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4981",
+               "width": "1844",
+               "height": "1501",
+               "wheelBase": "2901",
+               "wheelTrack": "1.575",
+               "cargoVolume": "422",
+               "fuel": "Hybrid"
+            },
+            {
+               "fullName": "INFINITI Q70",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "2018",
+               "topSpeed": "220",
+               "acceleration": "6.2",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4945",
+               "width": "1844",
+               "height": "1501",
+               "wheelBase": "2901",
+               "wheelTrack": "0",
+               "cargoVolume": "422",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "INFINITI Q50",
+         "firstYearProduction": "2013",
+         "engineType": "Gasoline, Hybrid, Diesel",
+         "generations": [
+            {
+               "fullName": "INFINITI Q50",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4816",
+               "width": "1824",
+               "height": "1453",
+               "wheelBase": "2850",
+               "wheelTrack": "1.544",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "INFINITI Q50",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "2018",
+               "topSpeed": "249",
+               "acceleration": "8.9",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4803",
+               "width": "1824",
+               "height": "1443",
+               "wheelBase": "2850",
+               "wheelTrack": "1.539",
+               "cargoVolume": "374",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "INFINITI Q50",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "2016",
+               "topSpeed": "230",
+               "acceleration": "8.5",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4783",
+               "width": "1824",
+               "height": "1443",
+               "wheelBase": "2850",
+               "wheelTrack": "1.519",
+               "cargoVolume": "399",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "INFINITI Q60",
+         "firstYearProduction": "2013",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "INFINITI Q60",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4684",
+               "width": "1849",
+               "height": "1394",
+               "wheelBase": "2850",
+               "wheelTrack": "1.554",
+               "cargoVolume": "246",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "INFINITI Q60",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "2018",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4684",
+               "width": "1849",
+               "height": "1394",
+               "wheelBase": "2850",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "INFINITI Q60",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "2016",
+               "topSpeed": "249",
+               "acceleration": "5.4",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "4651",
+               "width": "1824",
+               "height": "1392",
+               "wheelBase": "2850",
+               "wheelTrack": "1.544",
+               "cargoVolume": "210",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "INFINITI Q60 IPL",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "Present",
+               "topSpeed": "249",
+               "acceleration": "5",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "4651",
+               "width": "1824",
+               "height": "1392",
+               "wheelBase": "2850",
+               "wheelTrack": "1.544",
+               "cargoVolume": "210",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "INFINITI QX30",
+         "firstYearProduction": "2015",
+         "engineType": "Gasoline, Diesel",
+         "style": "Hatchback",
+         "generations": [
+            {
+               "fullName": "INFINITI QX30",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4425",
+               "width": "1806",
+               "height": "1496",
+               "wheelBase": "2700",
+               "wheelTrack": "1.572",
+               "cargoVolume": "368",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "INFINITI Q30",
+               "firstYearProduction": "2015",
+               "lastYearProduction": "2017",
+               "topSpeed": "200",
+               "acceleration": "9.4",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "4425",
+               "width": "1806",
+               "height": "1496",
+               "wheelBase": "2700",
+               "wheelTrack": "1.572",
+               "cargoVolume": "368",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "INFINITI QX70",
+         "firstYearProduction": "2013",
+         "engineType": "Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "INFINITI QX70",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Present",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4859",
+               "width": "1928",
+               "height": "1651",
+               "wheelBase": "2885",
+               "wheelTrack": "1.636",
+               "cargoVolume": "702",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "INFINITI QX70",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "2017",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4859",
+               "width": "1928",
+               "height": "1679",
+               "wheelBase": "2885",
+               "wheelTrack": "1.636",
+               "cargoVolume": "702",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "INFINITI QX55",
+         "firstYearProduction": "2021",
+         "engineType": "Gasoline",
+         "generations": [
+            {
+               "fullName": "INFINITI QX55",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Present",
+               "drive type": "All Wheel Drive",
+               "gearBox": "CVT",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

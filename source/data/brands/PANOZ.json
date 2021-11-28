@@ -1,0 +1,44 @@
+{
+   "brand": "PANOZ",
+   "models": [
+      {
+         "modelName": "PANOZ Avezzano",
+         "firstYearProduction": "2017",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "PANOZ Avezzano",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-Speed manual",
+               "length": "4600",
+               "width": "2014",
+               "height": "1321",
+               "wheelBase": "2692",
+               "wheelTrack": "1.615",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "PANOZ Roadster",
+         "firstYearProduction": "2015",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "PANOZ Roadster",
+               "firstYearProduction": "2015",
+               "lastYearProduction": "Present",
+               "topSpeed": "225",
+               "acceleration": "4.4",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

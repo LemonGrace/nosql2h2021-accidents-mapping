@@ -1,0 +1,179 @@
+{
+   "brand": "PERODUA",
+   "models": [
+      {
+         "modelName": "PERODUA Axia",
+         "firstYearProduction": "2014",
+         "engineType": "Gasoline",
+         "style": "Hatchback",
+         "generations": [
+            {
+               "fullName": "PERODUA Axia",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Present",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "4-Speed automatic",
+               "length": "3645",
+               "width": "1621",
+               "height": "1509",
+               "wheelBase": "2456",
+               "wheelTrack": "1.410",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "PERODUA Axia",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "2019",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "4-Speed automatic",
+               "length": "3640",
+               "width": "1621",
+               "height": "1509",
+               "wheelBase": "2456",
+               "wheelTrack": "409",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "PERODUA Axia",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "2017",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "4-speed automatic",
+               "length": "3640",
+               "width": "1621",
+               "height": "1509",
+               "wheelBase": "2456",
+               "wheelTrack": "1.410",
+               "cargoVolume": "261",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "PERODUA Bezza",
+         "firstYearProduction": "2016",
+         "engineType": "Gasoline",
+         "generations": [
+            {
+               "fullName": "PERODUA Bezza AV",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Present",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "4-Speed automatic",
+               "length": "4171",
+               "width": "1621",
+               "height": "1524",
+               "wheelBase": "2456",
+               "wheelTrack": "1.410",
+               "cargoVolume": "507",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "PERODUA Bezza",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "2019",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "4-Speed automatic",
+               "length": "4150",
+               "width": "1621",
+               "height": "1509",
+               "wheelBase": "2456",
+               "wheelTrack": "1.410",
+               "cargoVolume": "507",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "PERODUA Alza",
+         "firstYearProduction": "2009",
+         "engineType": "Gasoline",
+         "style": "Van",
+         "generations": [
+            {
+               "fullName": "PERODUA Alza",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Present",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "4-Speed automatic",
+               "length": "4270",
+               "width": "1694",
+               "height": "1621",
+               "wheelBase": "2751",
+               "wheelTrack": "1.476",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "PERODUA Alza",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "2018",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "4-speed automatic",
+               "length": "4270",
+               "width": "1694",
+               "height": "1621",
+               "wheelBase": "2751",
+               "wheelTrack": "1.476",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "PERODUA Alza",
+               "firstYearProduction": "2009",
+               "lastYearProduction": "2014",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "4-Speed automatic",
+               "length": "4206",
+               "width": "1694",
+               "height": "1621",
+               "wheelBase": "2751",
+               "wheelTrack": "1.476",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "PERODUA Aruz",
+         "firstYearProduction": "2019",
+         "engineType": "Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "PERODUA Aruz",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "4-Speed automatic",
+               "length": "4435",
+               "width": "1694",
+               "height": "1740",
+               "wheelBase": "2685",
+               "wheelTrack": "1.445",
+               "cargoVolume": "212",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "PERODUA Myvi",
+         "firstYearProduction": "2015",
+         "engineType": "Gasoline",
+         "style": "Hatchback",
+         "generations": [
+            {
+               "fullName": "PERODUA Myvi",
+               "firstYearProduction": "2015",
+               "lastYearProduction": "Present",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "4-speed automatic",
+               "length": "3696",
+               "width": "1666",
+               "height": "1570",
+               "wheelBase": "2441",
+               "wheelTrack": "1.455",
+               "cargoVolume": "215",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

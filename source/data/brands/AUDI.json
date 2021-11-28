@@ -9,7 +9,7 @@
             {
                "fullName": "AUDI S8",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "acceleration": "3.8",
                "drive type": "All Wheel Drive",
                "fuel": "Gasoline"
@@ -121,7 +121,7 @@
             {
                "fullName": "AUDI A3 Sportback",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "224",
                "acceleration": "8.4",
                "drive type": "Front Wheel Drive",
@@ -153,7 +153,7 @@
             {
                "fullName": "AUDI A3 Sportback e-tron",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "222",
                "acceleration": "7.6",
                "drive type": "Front Wheel Drive",
@@ -272,7 +272,7 @@
             {
                "fullName": "AUDI A3 Sedan",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "232",
                "acceleration": "8.4",
                "drive type": "Front Wheel Drive",
@@ -327,7 +327,7 @@
             {
                "fullName": "AUDI RS 3 Sedan",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "3.8",
                "drive type": "All Wheel Drive",
@@ -367,7 +367,7 @@
             {
                "fullName": "AUDI SQ5",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "5.1",
                "length": "4681",
@@ -420,7 +420,7 @@
             {
                "fullName": "AUDI S5 Sportback",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "5.7",
                "drive type": "All Wheel Drive",
@@ -492,7 +492,7 @@
             {
                "fullName": "AUDI Q5",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "222",
                "acceleration": "7.6",
                "drive type": "All Wheel Drive",
@@ -580,7 +580,7 @@
             {
                "fullName": "AUDI SQ2",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.9",
                "drive type": "Front Wheel Drive",
@@ -620,7 +620,7 @@
             {
                "fullName": "AUDI Q2",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "6-speed manual",
                "length": "4209",
@@ -656,7 +656,7 @@
             {
                "fullName": "AUDI S5 Cabriolet",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.9",
                "drive type": "All Wheel Drive",
@@ -728,7 +728,7 @@
             {
                "fullName": "AUDI S3 Sportback",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.8",
                "drive type": "All Wheel Drive",
@@ -800,7 +800,7 @@
             {
                "fullName": "AUDI S3 Sedan",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.8",
                "drive type": "All Wheel Drive",
@@ -856,7 +856,7 @@
             {
                "fullName": "AUDI A4 Avant",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "220",
                "acceleration": "9.2",
                "drive type": "Front Wheel Drive",
@@ -992,7 +992,7 @@
             {
                "fullName": "AUDI A5 Sportback",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "209",
                "acceleration": "8.8",
                "drive type": "Front Wheel Drive",
@@ -1024,7 +1024,7 @@
             {
                "fullName": "AUDI A5 Sportback",
                "firstYearProduction": "2011",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "220",
                "acceleration": "9.3",
                "drive type": "Front Wheel Drive",
@@ -1064,7 +1064,7 @@
             {
                "fullName": "AUDI A6 allroad quattro",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "6.7",
                "drive type": "All Wheel Drive",
@@ -1136,7 +1136,7 @@
             {
                "fullName": "AUDI RS4 Avant (B10)",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.1",
                "drive type": "All Wheel Drive",
@@ -1224,7 +1224,7 @@
             {
                "fullName": "AUDI TT RS Coupe",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "3.7",
                "drive type": "All Wheel Drive",
@@ -1296,7 +1296,7 @@
             {
                "fullName": "AUDI TT RS Roadster",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "3.9",
                "drive type": "All Wheel Drive",
@@ -1368,7 +1368,7 @@
             {
                "fullName": "AUDI RS7 Sportback",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "3.6",
                "drive type": "All Wheel Drive",
@@ -1408,7 +1408,7 @@
             {
                "fullName": "AUDI S6 Avant",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "5.1",
                "drive type": "All Wheel Drive",
@@ -1528,7 +1528,7 @@
             {
                "fullName": "AUDI Q7",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "209",
                "acceleration": "7.3",
                "drive type": "All Wheel Drive",
@@ -1599,7 +1599,7 @@
             {
                "fullName": "AUDI S4 TDI",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.8",
                "drive type": "All Wheel Drive",
@@ -1719,7 +1719,7 @@
             {
                "fullName": "AUDI RS5 Coupe",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "3.9",
                "drive type": "All Wheel Drive",
@@ -1775,7 +1775,7 @@
             {
                "fullName": "AUDI SQ7",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.1",
                "drive type": "All Wheel Drive",
@@ -1814,7 +1814,7 @@
             {
                "fullName": "AUDI RS5 Sportback",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "3/9",
                "drive type": "All Wheel Drive",
@@ -1853,7 +1853,7 @@
             {
                "fullName": "AUDI S6 Sedan",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "5",
                "drive type": "All Wheel Drive",
@@ -1973,7 +1973,7 @@
             {
                "fullName": "AUDI S4 Avant TDI",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.9",
                "drive type": "All Wheel Drive",
@@ -2093,7 +2093,7 @@
             {
                "fullName": "AUDI RS6 Avant",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "3.6",
                "drive type": "All Wheel Drive",
@@ -2180,7 +2180,7 @@
             {
                "fullName": "AUDI A4",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "224",
                "acceleration": "8.6",
                "drive type": "Front Wheel Drive",
@@ -2332,7 +2332,7 @@
             {
                "fullName": "AUDI R8 Coupe",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "323",
                "acceleration": "3.4",
                "drive type": "All Wheel Drive",
@@ -2348,7 +2348,7 @@
             {
                "fullName": "AUDI R8 V10 RWS",
                "firstYearProduction": "2017",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "320",
                "acceleration": "3.7",
                "drive type": "Rear Wheel Drive",
@@ -2452,7 +2452,7 @@
             {
                "fullName": "AUDI TTS Coupe Competition Plus",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.5",
                "drive type": "All Wheel Drive",
@@ -2462,7 +2462,7 @@
             {
                "fullName": "AUDI TTS Coupe",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.5",
                "drive type": "All Wheel Drive",
@@ -2478,7 +2478,7 @@
             {
                "fullName": "AUDI TT Coupe",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Rear Wheel Drive",
                "gearBox": "6-Speed manual",
                "length": "4191",
@@ -2591,7 +2591,7 @@
             {
                "fullName": "AUDI A1 citycarver",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "203",
                "acceleration": "9.5",
                "drive type": "Front Wheel Drive",
@@ -2607,7 +2607,7 @@
             {
                "fullName": "AUDI A1 Sportback",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "192",
                "acceleration": "10.8",
                "drive type": "Front Wheel Drive",
@@ -2663,7 +2663,7 @@
             {
                "fullName": "AUDI TTS Roadster Competition Plus",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.8",
                "drive type": "All Wheel Drive",
@@ -2673,7 +2673,7 @@
             {
                "fullName": "AUDI TTS Roadster",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.8",
                "drive type": "All Wheel Drive",
@@ -2689,7 +2689,7 @@
             {
                "fullName": "AUDI TT Roadster",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Rear Wheel Drive",
                "gearBox": "5-Speed manual",
                "length": "4191",
@@ -2787,7 +2787,7 @@
             {
                "fullName": "AUDI Q3",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "211",
                "acceleration": "9.6",
                "drive type": "Front Wheel Drive",
@@ -2858,7 +2858,7 @@
             {
                "fullName": "AUDI R8 Spyder",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "322",
                "acceleration": "3.5",
                "drive type": "All Wheel Drive",
@@ -2874,7 +2874,7 @@
             {
                "fullName": "AUDI R8 V10 Spyder Plus",
                "firstYearProduction": "2017",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "328",
                "acceleration": "3.3",
                "drive type": "All Wheel Drive",
@@ -2887,7 +2887,7 @@
             {
                "fullName": "AUDI R8 V10 RWS Spyder",
                "firstYearProduction": "2017",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "319",
                "acceleration": "3.7",
                "drive type": "Rear Wheel Drive",
@@ -2957,7 +2957,7 @@
             {
                "fullName": "AUDI A6",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "6.8",
                "drive type": "All Wheel Drive",
@@ -3093,7 +3093,7 @@
             {
                "fullName": "AUDI A6 Avant (C8)",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "225",
                "acceleration": "8.2",
                "drive type": "Front Wheel Drive",
@@ -3228,7 +3228,7 @@
             {
                "fullName": "AUDI S7 Sportback",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "5.1",
                "drive type": "Rear Wheel Drive",
@@ -3283,7 +3283,7 @@
             {
                "fullName": "AUDI A8",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "acceleration": "5.6",
                "drive type": "All Wheel Drive",
                "fuel": "Gasoline"
@@ -3291,7 +3291,7 @@
             {
                "fullName": "AUDI A8",
                "firstYearProduction": "2017",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "5.9",
                "drive type": "All Wheel Drive",
@@ -3307,7 +3307,7 @@
             {
                "fullName": "AUDI A8 L",
                "firstYearProduction": "2017",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "5.7",
                "drive type": "All Wheel Drive",
@@ -3442,7 +3442,7 @@
             {
                "fullName": "AUDI A7 Sportback",
                "firstYearProduction": "2017",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "6.2",
                "drive type": "All Wheel Drive",
@@ -3498,7 +3498,7 @@
             {
                "fullName": "AUDI RS 3 Sportback",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "3.8",
                "drive type": "All Wheel Drive",
@@ -3514,7 +3514,7 @@
             {
                "fullName": "AUDI RS 3 Sportback",
                "firstYearProduction": "2017",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.1",
                "drive type": "All Wheel Drive",
@@ -3570,7 +3570,7 @@
             {
                "fullName": "AUDI S3 Cabriolet",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "5.1",
                "drive type": "All Wheel Drive",
@@ -3610,7 +3610,7 @@
             {
                "fullName": "AUDI S3",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "5.2",
                "drive type": "All Wheel Drive",
@@ -3714,7 +3714,7 @@
             {
                "fullName": "AUDI A5",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "7.2",
                "drive type": "Front Wheel Drive",
@@ -3770,7 +3770,7 @@
             {
                "fullName": "AUDI A4 Allroad quattro",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "246",
                "acceleration": "6.1",
                "drive type": "All Wheel Drive",
@@ -3826,7 +3826,7 @@
             {
                "fullName": "AUDI S5",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.7",
                "drive type": "All Wheel Drive",
@@ -3882,7 +3882,7 @@
             {
                "fullName": "AUDI A3 Cabriolet",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "203",
                "acceleration": "10.6",
                "drive type": "Front Wheel Drive",
@@ -3938,7 +3938,7 @@
             {
                "fullName": "AUDI A5 Cabriolet",
                "firstYearProduction": "2012",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "222",
                "acceleration": "8.7",
                "drive type": "Front Wheel Drive",
@@ -3978,7 +3978,7 @@
             {
                "fullName": "AUDI Q4 e-tron",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "acceleration": "6.2",
                "drive type": "Rear Wheel Drive",
                "length": "4587",
@@ -4000,7 +4000,7 @@
             {
                "fullName": "AUDI Q8",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "5.9",
                "drive type": "All Wheel Drive",
@@ -4024,7 +4024,7 @@
             {
                "fullName": "AUDI Sportback e-tron",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "acceleration": "6.2",
                "drive type": "Rear Wheel Drive",
                "length": "4587",
@@ -4046,7 +4046,7 @@
             {
                "fullName": "AUDI e-tron",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "190",
                "acceleration": "7",
                "drive type": "All Wheel Drive",
@@ -4070,7 +4070,7 @@
             {
                "fullName": "AUDI Q5 Sportback",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "drive type": "Front Wheel Drive",
                "gearBox": "7-automatic speed dual clutch",
                "fuel": "Mild Hybrid"
@@ -4086,7 +4086,7 @@
             {
                "fullName": "AUDI RS Q8",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "3.8",
                "drive type": "All Wheel Drive",
@@ -4109,7 +4109,7 @@
             {
                "fullName": "AUDI SQ8",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.1",
                "drive type": "All Wheel Drive",
@@ -4133,7 +4133,7 @@
             {
                "fullName": "AUDI SQ5 Sportback",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "5.1",
                "drive type": "Front Wheel Drive",
@@ -4156,7 +4156,7 @@
             {
                "fullName": "AUDI Q3 Sportback",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "204",
                "acceleration": "9.6",
                "drive type": "All Wheel Drive",
@@ -4179,7 +4179,7 @@
             {
                "fullName": "AUDI e-tron GT quattro",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "acceleration": "4.1",
                "drive type": "All Wheel Drive",
                "gearBox": "2-Speed automatic",
@@ -4194,7 +4194,7 @@
             {
                "fullName": "AUDI RS e-tron GT",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "acceleration": "3.3",
                "drive type": "All Wheel Drive",
                "gearBox": "2-speed  automatic",
@@ -4217,7 +4217,7 @@
             {
                "fullName": "AUDI e-tron Sportback",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "190",
                "acceleration": "6.8",
                "drive type": "All Wheel Drive",

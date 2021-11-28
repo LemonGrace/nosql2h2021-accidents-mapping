@@ -10,7 +10,7 @@
             {
                "fullName": "BMW 2 Series Active Tourer",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "214",
                "acceleration": "9",
                "drive type": "Front Wheel Drive",
@@ -66,7 +66,7 @@
             {
                "fullName": "BMW X4",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.9",
                "drive type": "All Wheel Drive",
@@ -122,7 +122,7 @@
             {
                "fullName": "BMW X3",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.9",
                "drive type": "All Wheel Drive",
@@ -226,7 +226,7 @@
             {
                "fullName": "BMW 2 Series Coupe (G42)",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "237",
                "acceleration": "7.5",
                "drive type": "Rear Wheel Drive",
@@ -282,7 +282,7 @@
             {
                "fullName": "BMW 4 Series Gran Coupe (G26)",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "235",
                "acceleration": "7.9",
                "drive type": "Rear Wheel Drive",
@@ -377,7 +377,7 @@
             {
                "fullName": "BMW 4-Series Convertible (G23)",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "237",
                "acceleration": "8.2",
                "drive type": "Rear Wheel Drive",
@@ -432,7 +432,7 @@
             {
                "fullName": "BMW M5 CS",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "306",
                "acceleration": "3",
                "drive type": "All Wheel Drive",
@@ -448,7 +448,7 @@
             {
                "fullName": "BMW M5 Competition (F90 LCI)",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "3.3",
                "drive type": "All Wheel Drive",
@@ -615,7 +615,7 @@
             {
                "fullName": "BMW M4 Competition Convertible M xDrive",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "3.7",
                "drive type": "All Wheel Drive",
@@ -655,7 +655,7 @@
             {
                "fullName": "BMW 6 Series Gran Turismo (G32 LCI)",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "220",
                "acceleration": "7.9",
                "drive type": "Rear Wheel Drive",
@@ -695,7 +695,7 @@
             {
                "fullName": "BMW 5 Series Touring (G31 LCI)",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "225",
                "acceleration": "7.6",
                "drive type": "Rear Wheel Drive",
@@ -831,7 +831,7 @@
             {
                "fullName": "BMW M4 Coupe (G82)",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.2",
                "drive type": "Rear Wheel Drive",
@@ -870,7 +870,7 @@
             {
                "fullName": "BMW 5 Series (G30 LCI)",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "3.8",
                "drive type": "All Wheel Drive",
@@ -1054,7 +1054,7 @@
             {
                "fullName": "BMW 4 Series Coupe (G22)",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "240",
                "acceleration": "7.5",
                "drive type": "Rear Wheel Drive",
@@ -1110,7 +1110,7 @@
             {
                "fullName": "BMW 3 Series Touring",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "230",
                "acceleration": "7.5",
                "drive type": "Front Wheel Drive",
@@ -1246,7 +1246,7 @@
             {
                "fullName": "BMW 1 Series (F40)",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "212",
                "acceleration": "8.5",
                "drive type": "Front Wheel Drive",
@@ -1350,7 +1350,7 @@
             {
                "fullName": "BMW X6",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.3",
                "drive type": "All Wheel Drive",
@@ -1421,7 +1421,7 @@
             {
                "fullName": "BMW 7 Series (G11) LCI",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4",
                "drive type": "Rear Wheel Drive",
@@ -1605,7 +1605,7 @@
             {
                "fullName": "BMW X1",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "224",
                "acceleration": "7.9",
                "drive type": "All Wheel Drive",
@@ -1661,7 +1661,7 @@
             {
                "fullName": "BMW 2 Series Gran Tourer (F46)",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "188",
                "acceleration": "11.7",
                "drive type": "Front Wheel Drive",
@@ -1700,7 +1700,7 @@
             {
                "fullName": "BMW 3 Series Sedan (G20)",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "230",
                "acceleration": "7.2",
                "drive type": "All Wheel Drive",
@@ -1852,7 +1852,7 @@
             {
                "fullName": "BMW X6 M (G06)",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "3.9",
                "drive type": "All Wheel Drive",
@@ -1908,7 +1908,7 @@
             {
                "fullName": "BMW X5 M (G05)",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "3.9",
                "drive type": "All Wheel Drive",
@@ -1964,7 +1964,7 @@
             {
                "fullName": "BMW M2 CS",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "280",
                "acceleration": "4.2",
                "drive type": "Rear Wheel Drive",
@@ -1980,7 +1980,7 @@
             {
                "fullName": "BMW M2 Competition",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.4",
                "drive type": "Rear Wheel Drive",
@@ -2020,7 +2020,7 @@
             {
                "fullName": "BMW X5 (G05)",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "243",
                "acceleration": "4.3",
                "drive type": "Rear Wheel Drive",
@@ -2123,7 +2123,7 @@
             {
                "fullName": "BMW M3 Sedan (G80)",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.2",
                "drive type": "Rear Wheel Drive",
@@ -2210,7 +2210,7 @@
             {
                "fullName": "BMW 2 Series Convertible (F23) LCI",
                "firstYearProduction": "2017",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "208",
                "acceleration": "9.4",
                "drive type": "Rear Wheel Drive",
@@ -2250,7 +2250,7 @@
             {
                "fullName": "BMW i3",
                "firstYearProduction": "2017",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "150",
                "acceleration": "8.1",
                "drive type": "Front Wheel Drive",
@@ -2265,7 +2265,7 @@
             {
                "fullName": "BMW i3s",
                "firstYearProduction": "2017",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "159",
                "acceleration": "7.7",
                "drive type": "Front Wheel Drive",
@@ -2304,7 +2304,7 @@
             {
                "fullName": "BMW 1 Series 3 doors (F20) LCI",
                "firstYearProduction": "2017",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "195",
                "acceleration": "10.9",
                "drive type": "Rear Wheel Drive",
@@ -2376,7 +2376,7 @@
             {
                "fullName": "BMW Z4 (G29)",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.5",
                "drive type": "Rear Wheel Drive",
@@ -2479,7 +2479,7 @@
             {
                "fullName": "BMW 3 Series Gran Turismo LCI (F34)",
                "firstYearProduction": "2016",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "230",
                "acceleration": "8",
                "drive type": "Rear Wheel Drive",
@@ -2519,7 +2519,7 @@
             {
                "fullName": "BMW iX",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "acceleration": "5",
                "fuel": "Electric"
             }
@@ -2534,7 +2534,7 @@
             {
                "fullName": "BMW M8 Convertible (F91)",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "3.4",
                "drive type": "All Wheel Drive",
@@ -2557,7 +2557,7 @@
             {
                "fullName": "BMW 1 Series Sedan (F52)",
                "firstYearProduction": "2017",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "212",
                "acceleration": "9.4",
                "drive type": "Rear Wheel Drive",
@@ -2578,7 +2578,7 @@
             {
                "fullName": "BMW 8 Series Gran Coupe (G16)",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "5.2",
                "drive type": "Front Wheel Drive",
@@ -2602,7 +2602,7 @@
             {
                "fullName": "BMW X2 (F39)",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "5",
                "drive type": "All Wheel Drive",
@@ -2626,7 +2626,7 @@
             {
                "fullName": "BMW 8-Series Convertible (G14)",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "5.3",
                "drive type": "Rear Wheel Drive",
@@ -2650,7 +2650,7 @@
             {
                "fullName": "BMW X3 M (F97)",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "3.8",
                "drive type": "All Wheel Drive",
@@ -2666,7 +2666,7 @@
             {
                "fullName": "BMW X3 M (F97)",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.2",
                "drive type": "All Wheel Drive",
@@ -2690,7 +2690,7 @@
             {
                "fullName": "BMW iX3 (G08)",
                "firstYearProduction": "2020",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "180",
                "acceleration": "6.8",
                "drive type": "Rear Wheel Drive",
@@ -2713,7 +2713,7 @@
             {
                "fullName": "BMW X4 M (F98)",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "3.8",
                "drive type": "All Wheel Drive",
@@ -2729,7 +2729,7 @@
             {
                "fullName": "BMW X4 M (F98)",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.2",
                "drive type": "All Wheel Drive",
@@ -2753,7 +2753,7 @@
             {
                "fullName": "BMW M8 Coupe (F92)",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "3.3",
                "drive type": "All Wheel Drive",
@@ -2777,7 +2777,7 @@
             {
                "fullName": "BMW 8 Series Coupe (G15)",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "5",
                "drive type": "Rear Wheel Drive",
@@ -2801,7 +2801,7 @@
             {
                "fullName": "BMW 2 Series Gran Coupe (F44)",
                "firstYearProduction": "2019",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "216",
                "acceleration": "8.7",
                "drive type": "Front Wheel Drive",
@@ -2825,7 +2825,7 @@
             {
                "fullName": "BMW M4 CS (F82)",
                "firstYearProduction": "2017",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "280",
                "acceleration": "3.9",
                "drive type": "Rear Wheel Drive",
@@ -2849,7 +2849,7 @@
             {
                "fullName": "BMW X7 (G07)",
                "firstYearProduction": "2018",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "topSpeed": "249",
                "acceleration": "4.7",
                "drive type": "Rear Wheel Drive",
@@ -2873,7 +2873,7 @@
             {
                "fullName": "BMW i4",
                "firstYearProduction": "2021",
-               "lastYearProduction": "Prese",
+               "lastYearProduction": "Present",
                "acceleration": "5.7",
                "drive type": "All Wheel Drive",
                "gearBox": "1-Speed automatic",

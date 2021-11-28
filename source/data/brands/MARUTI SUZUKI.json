@@ -1,0 +1,94 @@
+{
+   "brand": "MARUTI SUZUKI",
+   "models": [
+      {
+         "modelName": "MARUTI SUZUKI Swift",
+         "firstYearProduction": "2006",
+         "engineType": "Gasoline, Diesel",
+         "style": "Hatchback",
+         "generations": [
+            {
+               "fullName": "MARUTI SUZUKI Swift",
+               "firstYearProduction": "2006",
+               "lastYearProduction": "Present",
+               "topSpeed": "160",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "Manual, 5 Speed",
+               "length": "3696",
+               "width": "1689",
+               "height": "1529",
+               "wheelBase": "2410",
+               "wheelTrack": "1.471",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "MARUTI SUZUKI 800",
+         "firstYearProduction": "2000",
+         "engineType": "Gasoline",
+         "style": "Hatchback",
+         "generations": [
+            {
+               "fullName": "MARUTI SUZUKI 800",
+               "firstYearProduction": "2000",
+               "lastYearProduction": "Present",
+               "topSpeed": "138",
+               "acceleration": "22.3",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "4-Speed manual",
+               "length": "3335",
+               "width": "1440",
+               "height": "1405",
+               "wheelBase": "2174",
+               "wheelTrack": "1.471",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "MARUTI SUZUKI Gipsy",
+         "firstYearProduction": "1985",
+         "engineType": "Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "MARUTI SUZUKI Gypsy",
+               "firstYearProduction": "1985",
+               "lastYearProduction": "Present",
+               "acceleration": "29.1",
+               "drive type": "All Wheel Drive",
+               "gearBox": "Manual, 4 Speed",
+               "length": "4011",
+               "width": "1539",
+               "height": "1875",
+               "wheelBase": "2375",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "MARUTI SUZUKI Wagon R",
+         "firstYearProduction": "2005",
+         "engineType": "Gasoline",
+         "style": "Hatchback",
+         "generations": [
+            {
+               "fullName": "MARUTI SUZUKI Wagon R",
+               "firstYearProduction": "2005",
+               "lastYearProduction": "Present",
+               "topSpeed": "185",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "3520",
+               "width": "1491",
+               "height": "1661",
+               "wheelBase": "2360",
+               "wheelTrack": "1.295",
+               "cargoVolume": "218",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

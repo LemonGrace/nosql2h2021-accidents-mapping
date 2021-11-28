@@ -1,0 +1,46 @@
+{
+   "brand": "HINDUSTAN",
+   "models": [
+      {
+         "modelName": "HINDUSTAN Pushpak/Trekker",
+         "firstYearProduction": "1999",
+         "engineType": "Diesel",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "HINDUSTAN Pushpak/Trekker",
+               "firstYearProduction": "1999",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "Manual, 5 Speed",
+               "length": "3833",
+               "width": "1648",
+               "wheelBase": "2311",
+               "wheelTrack": "1.412",
+               "fuel": "Diesel"
+            }
+         ]
+      },
+      {
+         "modelName": "HINDUSTAN RTV/Ranger",
+         "firstYearProduction": "1998",
+         "engineType": "Hybrid, Diesel",
+         "style": "Van",
+         "generations": [
+            {
+               "fullName": "HINDUSTAN RTV/Ranger",
+               "firstYearProduction": "1998",
+               "lastYearProduction": "Present",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "Manual, 5 Speed",
+               "length": "4625",
+               "width": "1699",
+               "height": "2479",
+               "wheelBase": "2550",
+               "wheelTrack": "1.425",
+               "fuel": "Diesel"
+            }
+         ]
+      }
+   ]
+}

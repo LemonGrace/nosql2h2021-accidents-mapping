@@ -1,0 +1,51 @@
+{
+   "brand": "LADA",
+   "models": [
+      {
+         "modelName": "LADA Kalina Sedan",
+         "firstYearProduction": "2006",
+         "engineType": "Gasoline",
+         "generations": [
+            {
+               "fullName": "LADA Kalina Sedan",
+               "firstYearProduction": "2006",
+               "lastYearProduction": "Present",
+               "topSpeed": "165",
+               "acceleration": "13",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "4039",
+               "width": "1699",
+               "height": "1499",
+               "wheelBase": "2469",
+               "wheelTrack": "1.430",
+               "cargoVolume": "399",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "LADA Niva",
+         "firstYearProduction": "1976",
+         "engineType": "Gasoline, Diesel",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "LADA NIVA",
+               "firstYearProduction": "1976",
+               "lastYearProduction": "Present",
+               "topSpeed": "132",
+               "acceleration": "23",
+               "drive type": "All Wheel Drive",
+               "gearBox": "5-manual speed",
+               "length": "3739",
+               "width": "1679",
+               "height": "1641",
+               "wheelBase": "2200",
+               "wheelTrack": "1.430",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,47 @@
+{
+   "brand": "MARUSSIA",
+   "models": [
+      {
+         "modelName": "MARUSSIA B1",
+         "firstYearProduction": "2010",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "MARUSSIA B1",
+               "firstYearProduction": "2010",
+               "lastYearProduction": "Present",
+               "topSpeed": "249",
+               "acceleration": "3.8",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6 speed automatic",
+               "length": "4636",
+               "width": "1999",
+               "height": "1100",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "MARUSSIA B2",
+         "firstYearProduction": "2010",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "MARUSSIA B2",
+               "firstYearProduction": "2010",
+               "lastYearProduction": "Present",
+               "topSpeed": "249",
+               "acceleration": "3.8",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6 speed automatic",
+               "length": "4636",
+               "width": "1999",
+               "height": "1100",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}
