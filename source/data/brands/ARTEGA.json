@@ -1,0 +1,27 @@
+{
+   "brand": "ARTEGA",
+   "models": [
+      {
+         "modelName": "ARTEGA Scalo",
+         "firstYearProduction": "2015",
+         "engineType": "Electric",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "ARTEGA Scalo",
+               "firstYearProduction": "2015",
+               "lastYearProduction": "Prese",
+               "acceleration": "3.6",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "1-Speed automatic",
+               "length": "4008",
+               "width": "1880",
+               "height": "1194",
+               "wheelBase": "2464",
+               "cargoVolume": "249",
+               "fuel": "Electric"
+            }
+         ]
+      }
+   ]
+}

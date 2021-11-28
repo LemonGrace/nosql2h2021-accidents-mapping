@@ -1,0 +1,440 @@
+{
+   "brand": "BENTLEY",
+   "models": [
+      {
+         "modelName": "BENTLEY Bentayga",
+         "firstYearProduction": "2015",
+         "engineType": "Gasoline, Hybrid, Diesel",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "BENTLEY Bentayga S",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Prese",
+               "topSpeed": "290",
+               "acceleration": "4.5",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "BENTLEY Bentayga",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "topSpeed": "290",
+               "acceleration": "4.5",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "5126",
+               "width": "1999",
+               "height": "1742",
+               "wheelBase": "2995",
+               "wheelTrack": "1.689",
+               "cargoVolume": "391",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "BENTLEY BENTAYGA HYBRID",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Prese",
+               "topSpeed": "254",
+               "acceleration": "5.5",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "5141",
+               "width": "1999",
+               "height": "1727",
+               "wheelBase": "2995",
+               "wheelTrack": "1.689",
+               "cargoVolume": "428",
+               "fuel": "Hybrid"
+            },
+            {
+               "fullName": "BENTLEY Bentayga",
+               "firstYearProduction": "2015",
+               "lastYearProduction": "2020",
+               "topSpeed": "290",
+               "acceleration": "4.5",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "5141",
+               "width": "1999",
+               "height": "1742",
+               "wheelBase": "2992",
+               "cargoVolume": "430",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "BENTLEY Bentayga Speed",
+         "firstYearProduction": "2019",
+         "engineType": "Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "BENTLEY Bentayga Speed",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "topSpeed": "306",
+               "acceleration": "3.9",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "5144",
+               "width": "1999",
+               "height": "1742",
+               "wheelBase": "2995",
+               "wheelTrack": "1.689",
+               "cargoVolume": "391",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "BENTLEY Bentayga Speed",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "2020",
+               "topSpeed": "306",
+               "acceleration": "3.9",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "8-Speed automatic ",
+               "length": "5141",
+               "width": "2223",
+               "height": "1742",
+               "wheelBase": "2992",
+               "wheelTrack": "1.689",
+               "cargoVolume": "447",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "BENTLEY Flying Spur",
+         "firstYearProduction": "2014",
+         "engineType": "Gasoline",
+         "generations": [
+            {
+               "fullName": "BENTLEY Flying Spur",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Prese",
+               "topSpeed": "333",
+               "acceleration": "3.7",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "5316",
+               "width": "1979",
+               "height": "1483",
+               "wheelBase": "3193",
+               "wheelTrack": "1.643",
+               "cargoVolume": "419",
+               "aerodynamics": "2.44",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "BENTLEY Flying Spur",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "2019",
+               "topSpeed": "295",
+               "acceleration": "5.2",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "5298",
+               "width": "2207",
+               "height": "1488",
+               "wheelBase": "3066",
+               "wheelTrack": "1.643",
+               "cargoVolume": "470",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "BENTLEY Continental GTC",
+         "firstYearProduction": "2006",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "BENTLEY Continental GTC",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Prese",
+               "topSpeed": "333",
+               "acceleration": "3.8",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-Speed automatic",
+               "length": "4849",
+               "width": "2187",
+               "height": "1400",
+               "wheelBase": "2850",
+               "wheelTrack": "1.671",
+               "cargoVolume": "357",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "BENTLEY Continental GTC Supersports",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Prese",
+               "topSpeed": "330",
+               "acceleration": "3.9",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "BENTLEY Continental GTC",
+               "firstYearProduction": "2015",
+               "lastYearProduction": "2018",
+               "topSpeed": "301",
+               "acceleration": "5",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4808",
+               "width": "1948",
+               "height": "1389",
+               "wheelBase": "2746",
+               "wheelTrack": "1.666",
+               "cargoVolume": "261",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "BENTLEY Continental GTC",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "2015",
+               "topSpeed": "314",
+               "acceleration": "4.7",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4806",
+               "width": "1943",
+               "height": "1402",
+               "wheelBase": "2746",
+               "wheelTrack": "1.664",
+               "cargoVolume": "261",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "BENTLEY Continental GTC",
+               "firstYearProduction": "2011",
+               "lastYearProduction": "2013",
+               "topSpeed": "301",
+               "acceleration": "5",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4806",
+               "width": "1943",
+               "height": "1402",
+               "wheelBase": "2746",
+               "wheelTrack": "1.664",
+               "cargoVolume": "261",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "BENTLEY Continental GTC Speed",
+               "firstYearProduction": "2009",
+               "lastYearProduction": "2013",
+               "topSpeed": "322",
+               "acceleration": "4.8",
+               "drive type": "All Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "4803",
+               "width": "1918",
+               "height": "1397",
+               "wheelBase": "2746",
+               "wheelTrack": "1.623",
+               "cargoVolume": "235",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "BENTLEY Continental GTC",
+               "firstYearProduction": "2006",
+               "lastYearProduction": "2009",
+               "topSpeed": "312",
+               "acceleration": "5.1",
+               "drive type": "All Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "4808",
+               "width": "1918",
+               "height": "1397",
+               "wheelBase": "2746",
+               "wheelTrack": "1.623",
+               "cargoVolume": "261",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "BENTLEY Continental GT",
+         "firstYearProduction": "2011",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "BENTLEY Continental GT Speed",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Prese",
+               "topSpeed": "335",
+               "acceleration": "3.6",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "BENTLEY Continental GT Speed Convertible",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Prese",
+               "topSpeed": "335",
+               "acceleration": "3.7",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "BENTLEY Continental GT V8",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Prese",
+               "topSpeed": "319",
+               "acceleration": "4",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-Speed automatic ",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "BENTLEY Continental GT V8 Convertible",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Prese",
+               "topSpeed": "319",
+               "acceleration": "4.1",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-Speed automatic ",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "BENTLEY Continental GT",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Prese",
+               "topSpeed": "333",
+               "acceleration": "3.7",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "BENTLEY Continental GT Supersports",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Prese",
+               "topSpeed": "336",
+               "acceleration": "3.5",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4806",
+               "width": "1943",
+               "height": "1394",
+               "wheelBase": "2746",
+               "cargoVolume": "357",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "BENTLEY Continental GT",
+               "firstYearProduction": "2015",
+               "lastYearProduction": "2017",
+               "topSpeed": "306",
+               "acceleration": "4.8",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4808",
+               "width": "1948",
+               "height": "1402",
+               "wheelBase": "2746",
+               "wheelTrack": "1.666",
+               "cargoVolume": "357",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "BENTLEY Continental GT",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "2015",
+               "topSpeed": "317",
+               "acceleration": "4.5",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4806",
+               "width": "2228",
+               "height": "1405",
+               "wheelBase": "2746",
+               "wheelTrack": "1.664",
+               "cargoVolume": "357",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "BENTLEY Continental GT",
+               "firstYearProduction": "2011",
+               "lastYearProduction": "2013",
+               "topSpeed": "303",
+               "acceleration": "4.8",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4806",
+               "width": "1943",
+               "height": "1405",
+               "wheelBase": "2746",
+               "wheelTrack": "1.664",
+               "cargoVolume": "385",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "BENTLEY Mulsanne",
+         "firstYearProduction": "2009",
+         "engineType": "Gasoline",
+         "generations": [
+            {
+               "fullName": "BENTLEY Mulsanne",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "Prese",
+               "topSpeed": "296",
+               "acceleration": "5.3",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "5575",
+               "width": "1925",
+               "height": "1521",
+               "wheelBase": "3266",
+               "wheelTrack": "1.605",
+               "cargoVolume": "442",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "BENTLEY Mulsanne",
+               "firstYearProduction": "2009",
+               "lastYearProduction": "2016",
+               "topSpeed": "296",
+               "acceleration": "5.3",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "5575",
+               "width": "2207",
+               "height": "1521",
+               "wheelBase": "3266",
+               "wheelTrack": "1.615",
+               "cargoVolume": "442",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "BENTLEY Mulliner Bacalar",
+         "firstYearProduction": "2020",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "BENTLEY Mulliner Bacalar",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "drive type": "All Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

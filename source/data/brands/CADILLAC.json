@@ -1,0 +1,359 @@
+{
+   "brand": "CADILLAC",
+   "models": [
+      {
+         "modelName": "CADILLAC Escalade",
+         "firstYearProduction": "2000",
+         "engineType": "Diesel, Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "CADILLAC Escalade",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "10-Speed automatic",
+               "length": "5382",
+               "width": "2060",
+               "height": "1984",
+               "wheelBase": "32070",
+               "wheelTrack": "1.737",
+               "cargoVolume": "722",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "CADILLAC Escalade",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "2020",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "5179",
+               "width": "2045",
+               "height": "1890",
+               "wheelBase": "2946",
+               "wheelTrack": "1.745",
+               "cargoVolume": "1461",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "CADILLAC Escalade",
+               "firstYearProduction": "2006",
+               "lastYearProduction": "2013",
+               "drive type": "All Wheel Drive",
+               "gearBox": "6-Speed automatic",
+               "length": "5144",
+               "width": "2007",
+               "height": "1887",
+               "wheelBase": "2946",
+               "wheelTrack": "1.730",
+               "cargoVolume": "3055",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "CADILLAC Escalade",
+               "firstYearProduction": "2000",
+               "lastYearProduction": "2006",
+               "topSpeed": "177",
+               "acceleration": "9.5",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "4-Speed automatic",
+               "length": "5052",
+               "width": "2004",
+               "height": "1885",
+               "wheelBase": "2946",
+               "wheelTrack": "1.651",
+               "cargoVolume": "3036",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "CADILLAC Escalade ESV",
+         "firstYearProduction": "2002",
+         "engineType": "Diesel, Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "CADILLAC Escalade ESV",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "10-speed automatic",
+               "length": "5766",
+               "width": "2060",
+               "height": "1943",
+               "wheelBase": "3406",
+               "wheelTrack": "1.737",
+               "cargoVolume": "1215",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "CADILLAC Escalade ESV",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "2020",
+               "topSpeed": "180",
+               "acceleration": "6.9",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "Hydra-Matic 6L80 8-speed automatic",
+               "length": "5697",
+               "width": "2045",
+               "height": "1880",
+               "wheelBase": "3302",
+               "wheelTrack": "1.745",
+               "cargoVolume": "2166",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "CADILLAC Escalade ESV",
+               "firstYearProduction": "2006",
+               "lastYearProduction": "2013",
+               "acceleration": "7.2",
+               "drive type": "All Wheel Drive",
+               "gearBox": "Automatic, 6 Speed",
+               "length": "5659",
+               "width": "2009",
+               "height": "1915",
+               "wheelBase": "3302",
+               "wheelTrack": "1.730",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "CADILLAC Escalade ESV",
+               "firstYearProduction": "2002",
+               "lastYearProduction": "2006",
+               "topSpeed": "171",
+               "acceleration": "8.4",
+               "drive type": "All Wheel Drive",
+               "gearBox": "4-Speed automatic",
+               "length": "5570",
+               "width": "2019",
+               "height": "1923",
+               "wheelBase": "3302",
+               "wheelTrack": "1.651",
+               "cargoVolume": "3036",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "CADILLAC XT5",
+         "firstYearProduction": "2016",
+         "engineType": "Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "CADILLAC XT5",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Prese",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "9-speed automatic ",
+               "length": "4816",
+               "width": "1905",
+               "height": "1679",
+               "wheelBase": "2858",
+               "wheelTrack": "1.646",
+               "cargoVolume": "852",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "CADILLAC XT5",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "2019",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4813",
+               "width": "1905",
+               "height": "1676",
+               "wheelBase": "2858",
+               "wheelTrack": "1.626",
+               "cargoVolume": "850",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "CADILLAC XTS",
+         "firstYearProduction": "2013",
+         "engineType": "Gasoline",
+         "generations": [
+            {
+               "fullName": "CADILLAC XTS",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Prese",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "5103",
+               "width": "1852",
+               "height": "1509",
+               "wheelBase": "2837",
+               "wheelTrack": "1.567",
+               "cargoVolume": "510",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "CADILLAC XTS",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "2017",
+               "topSpeed": "219",
+               "acceleration": "6.9",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "5131",
+               "width": "1852",
+               "height": "1501",
+               "wheelBase": "2837",
+               "wheelTrack": "1.567",
+               "cargoVolume": "510",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "CADILLAC CT6",
+         "firstYearProduction": "2016",
+         "engineType": "Gasoline, Hybrid gasoline",
+         "generations": [
+            {
+               "fullName": "CADILLAC CT6 V-Sport",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Prese",
+               "gearBox": "10-Sped automatic",
+               "length": "5182",
+               "width": "1880",
+               "height": "1473",
+               "wheelBase": "3109",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "CADILLAC CT6",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "Prese",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "5182",
+               "width": "1880",
+               "height": "1473",
+               "wheelBase": "3106",
+               "cargoVolume": "433",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "CADILLAC CT4-V",
+         "firstYearProduction": "2019",
+         "engineType": "Gasoline",
+         "generations": [
+            {
+               "fullName": "CADILLAC CT4-V Blackwing",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Prese",
+               "topSpeed": "304",
+               "acceleration": "3.9",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "10-speed automatic",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "CADILLAC CT4-V",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Prese",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "10-automatic speed",
+               "length": "4755",
+               "width": "1974",
+               "height": "1422",
+               "wheelBase": "2776",
+               "wheelTrack": "1.532",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "CADILLAC XT4",
+         "firstYearProduction": "2018",
+         "engineType": "Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "CADILLAC XT4",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Prese",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "9-Speed automatic Hydra-Matic 9T50",
+               "length": "4597",
+               "width": "1882",
+               "height": "1628",
+               "wheelBase": "2779",
+               "wheelTrack": "1.605",
+               "cargoVolume": "637",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "CADILLAC CT5-V",
+         "firstYearProduction": "2019",
+         "engineType": "Gasoline",
+         "generations": [
+            {
+               "fullName": "CADILLAC CT5-V Blackwing",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Prese",
+               "topSpeed": "322",
+               "acceleration": "3.8",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "10-speed automatic",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "CADILLAC CT5-V",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Prese",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "10-automatic speed",
+               "length": "4925",
+               "width": "2040",
+               "height": "1453",
+               "wheelBase": "2946",
+               "wheelTrack": "1.595",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "CADILLAC XT6",
+         "firstYearProduction": "2019",
+         "engineType": "",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "CADILLAC XT6",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Prese"
+            }
+         ]
+      },
+      {
+         "modelName": "CADILLAC CT5",
+         "firstYearProduction": "2019",
+         "engineType": "Gasoline",
+         "generations": [
+            {
+               "fullName": "CADILLAC CT5",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Prese",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "10-Speed automatic",
+               "length": "4925",
+               "width": "1882",
+               "height": "1453",
+               "wheelBase": "2946",
+               "wheelTrack": "1.595",
+               "cargoVolume": "337",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

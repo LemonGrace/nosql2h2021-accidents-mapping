@@ -1,0 +1,110 @@
+{
+   "brand": "CUPRA",
+   "models": [
+      {
+         "modelName": "CUPRA Leon",
+         "firstYearProduction": "2020",
+         "engineType": "Hybrid, Gasoline",
+         "style": "Hatchback",
+         "generations": [
+            {
+               "fullName": "CUPRA Leon 5 doors",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "drive type": "Front Wheel Drive",
+               "length": "4369",
+               "width": "1801",
+               "height": "1455",
+               "wheelBase": "2685",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "CUPRA Born",
+         "firstYearProduction": "2021",
+         "engineType": "Electric",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "CUPRA Born",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Prese",
+               "acceleration": "8.9",
+               "drive type": "All Wheel Drive",
+               "gearBox": "1-Speed automatic",
+               "length": "4260",
+               "width": "1811",
+               "height": "1549",
+               "fuel": "Electric"
+            }
+         ]
+      },
+      {
+         "modelName": "CUPRA Ateca",
+         "firstYearProduction": "2018",
+         "engineType": "Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "CUPRA Ateca",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Prese",
+               "topSpeed": "246",
+               "acceleration": "5.2",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-Speed automatic DSG",
+               "length": "4376",
+               "width": "1842",
+               "height": "1610",
+               "wheelBase": "2631",
+               "wheelTrack": "1.572",
+               "cargoVolume": "484",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "CUPRA Formentor",
+         "firstYearProduction": "2020",
+         "engineType": "Hybrid, Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "CUPRA Formentor",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "topSpeed": "249",
+               "acceleration": "4.2",
+               "drive type": "All Wheel Drive",
+               "gearBox": "7-speed automatic DSG",
+               "length": "4450",
+               "width": "1839",
+               "height": "1511",
+               "wheelBase": "2680",
+               "wheelTrack": "1.585",
+               "cargoVolume": "450",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "CUPRA Leon Sportstourer",
+         "firstYearProduction": "2020",
+         "engineType": "Gasoline, Diesel",
+         "style": "Hatchback",
+         "generations": [
+            {
+               "fullName": "CUPRA Leon Sportstourer",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "topSpeed": "196",
+               "acceleration": "10.1",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6-Speed manual",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

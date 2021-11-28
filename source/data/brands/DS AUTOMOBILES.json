@@ -1,0 +1,155 @@
+{
+   "brand": "DS AUTOMOBILES",
+   "models": [
+      {
+         "modelName": "DS AUTOMOBILES DS 3",
+         "firstYearProduction": "2014",
+         "engineType": "Gasoline, Diesel",
+         "generations": [
+            {
+               "fullName": "DS AUTOMOBILES DS 3",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "Prese",
+               "topSpeed": "175",
+               "acceleration": "14.4",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-speed automatic",
+               "length": "3955",
+               "width": "1715",
+               "height": "1458",
+               "wheelBase": "2464",
+               "wheelTrack": "1.466",
+               "cargoVolume": "286",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "DS AUTOMOBILES DS 3",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "2016",
+               "topSpeed": "174",
+               "acceleration": "14.2",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "5-speed manual",
+               "length": "3947",
+               "width": "1715",
+               "height": "1458",
+               "wheelBase": "2451",
+               "wheelTrack": "1.468",
+               "cargoVolume": "283",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "DS AUTOMOBILES DS 7",
+         "firstYearProduction": "2017",
+         "engineType": "Gasoline, Diesel, Hybrid gasoline",
+         "generations": [
+            {
+               "fullName": "DS AUTOMOBILES DS 7 Crossback",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Prese",
+               "topSpeed": "195",
+               "acceleration": "11.2",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6-Speed manual",
+               "length": "4572",
+               "width": "1890",
+               "height": "1626",
+               "wheelBase": "2738",
+               "wheelTrack": "1.621",
+               "cargoVolume": "555",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "DS AUTOMOBILES DS 3 Crossback",
+         "firstYearProduction": "2018",
+         "engineType": "Gasoline, Diesel, Electric",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "DS AUTOMOBILES DS 3 Crossback",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Prese",
+               "topSpeed": "185",
+               "acceleration": "10.9",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4117",
+               "width": "1791",
+               "height": "1534",
+               "wheelBase": "2558",
+               "wheelTrack": "1.547",
+               "cargoVolume": "351",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "DS AUTOMOBILES DS 5",
+         "firstYearProduction": "2016",
+         "engineType": "Diesel, Gasoline, Hybrid diesel",
+         "generations": [
+            {
+               "fullName": "DS AUTOMOBILES DS 5",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "Prese",
+               "topSpeed": "203",
+               "acceleration": "9.7",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "4529",
+               "width": "1872",
+               "height": "1506",
+               "wheelBase": "2728",
+               "wheelTrack": "1.575",
+               "cargoVolume": "467",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "DS AUTOMOBILES DS 4",
+         "firstYearProduction": "2021",
+         "engineType": "Gasoline, Diesel, Hybrid gasoline",
+         "generations": [
+            {
+               "fullName": "DS AUTOMOBILES DS 4",
+               "firstYearProduction": "2021",
+               "lastYearProduction": "Prese",
+               "topSpeed": "209",
+               "acceleration": "8",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4399",
+               "width": "1867",
+               "height": "1491",
+               "wheelBase": "2675",
+               "wheelTrack": "1.600",
+               "cargoVolume": "430",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "DS AUTOMOBILES DS 9",
+         "firstYearProduction": "2020",
+         "engineType": "Hybrid, Gasoline",
+         "generations": [
+            {
+               "fullName": "DS AUTOMOBILES DS 9",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "drive type": "Front Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4930",
+               "width": "1849",
+               "wheelBase": "2901",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

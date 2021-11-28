@@ -1,0 +1,96 @@
+{
+   "brand": "ARIEL",
+   "models": [
+      {
+         "modelName": "ARIEL Atom",
+         "firstYearProduction": "1999",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "ARIEL Atom 500 V8",
+               "firstYearProduction": "2011",
+               "lastYearProduction": "Prese",
+               "topSpeed": "322",
+               "acceleration": "2.5",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "Quaife 6-speed pneumatically controlled paddle shift sequential gearbox",
+               "length": "3696",
+               "width": "1849",
+               "height": "1194",
+               "wheelBase": "2344",
+               "wheelTrack": "1.600",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ARIEL Atom 3",
+               "firstYearProduction": "2008",
+               "lastYearProduction": "Prese",
+               "topSpeed": "225",
+               "acceleration": "2.7",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "3404",
+               "width": "1798",
+               "height": "1194",
+               "wheelBase": "2344",
+               "wheelTrack": "1.600",
+               "cargoVolume": "14",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ARIEL Atom 2",
+               "firstYearProduction": "2003",
+               "lastYearProduction": "2008",
+               "topSpeed": "225",
+               "acceleration": "3.5",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "3411",
+               "width": "1798",
+               "height": "1194",
+               "wheelBase": "2344",
+               "wheelTrack": "1.600",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ARIEL Atom 1",
+               "firstYearProduction": "1999",
+               "lastYearProduction": "2002",
+               "topSpeed": "209",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "5-speed manual",
+               "length": "3411",
+               "width": "1798",
+               "height": "1194",
+               "wheelBase": "2344",
+               "wheelTrack": "1.600",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ARIEL Nomad",
+         "firstYearProduction": "2015",
+         "engineType": "Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "ARIEL Nomad",
+               "firstYearProduction": "2015",
+               "lastYearProduction": "Prese",
+               "topSpeed": "201",
+               "acceleration": "3.4",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "3216",
+               "width": "1849",
+               "height": "1425",
+               "wheelBase": "2347",
+               "wheelTrack": "1.585",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

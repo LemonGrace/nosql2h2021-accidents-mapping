@@ -1,0 +1,607 @@
+{
+   "brand": "ASTON MARTIN",
+   "models": [
+      {
+         "modelName": "ASTON MARTIN V12 Vantage",
+         "firstYearProduction": "2009",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "ASTON MARTIN V12 Vantage V600",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Prese",
+               "topSpeed": "314",
+               "acceleration": "4",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-Speed manual",
+               "length": "4465",
+               "width": "1943",
+               "height": "1273",
+               "wheelBase": "2705",
+               "wheelTrack": "1.570",
+               "cargoVolume": "255",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ASTON MARTIN V12 Vantage S",
+               "firstYearProduction": "2013",
+               "lastYearProduction": "2018",
+               "topSpeed": "327",
+               "acceleration": "3.7",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed Sportshift III automatic transmission",
+               "length": "4384",
+               "width": "2022",
+               "height": "1250",
+               "wheelBase": "2601",
+               "cargoVolume": "300",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ASTON MARTIN V12 Vantage",
+               "firstYearProduction": "2009",
+               "lastYearProduction": "2013",
+               "topSpeed": "306",
+               "acceleration": "4.2",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "4382",
+               "width": "1867",
+               "height": "1245",
+               "wheelBase": "2741",
+               "wheelTrack": "1.570",
+               "cargoVolume": "300",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ASTON MARTIN V8 Vantage",
+         "firstYearProduction": "1973",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "ASTON MARTIN Vantage AMR",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Prese",
+               "topSpeed": "314",
+               "acceleration": "4",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic ",
+               "length": "4465",
+               "width": "2154",
+               "height": "1275",
+               "wheelBase": "2705",
+               "wheelTrack": "1.570",
+               "cargoVolume": "300",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ASTON MARTIN Vantage",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Prese",
+               "topSpeed": "314",
+               "acceleration": "3.6",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4465",
+               "width": "1943",
+               "height": "1273",
+               "wheelBase": "2705",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ASTON MARTIN V8 Vantage N430",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "Prese",
+               "topSpeed": "306",
+               "acceleration": "4.8",
+               "gearBox": "6-speed automatic",
+               "length": "4382",
+               "width": "1867",
+               "height": "1257",
+               "cargoVolume": "300",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ASTON MARTIN V8 Vantage N420",
+               "firstYearProduction": "2010",
+               "lastYearProduction": "2014",
+               "topSpeed": "290",
+               "acceleration": "4.7",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "4384",
+               "width": "2024",
+               "height": "1260",
+               "wheelBase": "2601",
+               "wheelTrack": "1.575",
+               "cargoVolume": "300",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ASTON MARTIN V8 Vantage",
+               "firstYearProduction": "2008",
+               "lastYearProduction": "Prese",
+               "topSpeed": "290",
+               "acceleration": "4.9",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed, Manual",
+               "length": "4382",
+               "width": "1867",
+               "height": "1257",
+               "wheelBase": "2604",
+               "wheelTrack": "1.575",
+               "cargoVolume": "300",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ASTON MARTIN V8 Vantage",
+               "firstYearProduction": "2005",
+               "lastYearProduction": "2008",
+               "topSpeed": "280",
+               "acceleration": "5",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "Manual, 6 Speed",
+               "length": "4384",
+               "width": "1867",
+               "height": "1255",
+               "wheelBase": "2601",
+               "wheelTrack": "1.585",
+               "cargoVolume": "297",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ASTON MARTIN V8 Vantage Le Mans (V600)",
+               "firstYearProduction": "1998",
+               "lastYearProduction": "2000",
+               "topSpeed": "322",
+               "acceleration": "4.3",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "Manual, 6 Speed",
+               "length": "4745",
+               "width": "1943",
+               "height": "1331",
+               "wheelBase": "2611",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ASTON MARTIN V8 Coupe",
+               "firstYearProduction": "1996",
+               "lastYearProduction": "2000",
+               "topSpeed": "250",
+               "acceleration": "5.9",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "Automatic, 4 Speed",
+               "length": "4750",
+               "width": "1951",
+               "height": "1331",
+               "wheelBase": "2611",
+               "wheelTrack": "1.539",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ASTON MARTIN V8 Vantage",
+               "firstYearProduction": "1993",
+               "lastYearProduction": "1998",
+               "topSpeed": "299",
+               "acceleration": "4.6",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-Speed manual",
+               "length": "4745",
+               "width": "1923",
+               "height": "1331",
+               "wheelBase": "2611",
+               "wheelTrack": "1.509",
+               "cargoVolume": "255",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ASTON MARTIN V8 Vantage",
+               "firstYearProduction": "1977",
+               "lastYearProduction": "1989",
+               "topSpeed": "274",
+               "acceleration": "5.4",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "4585",
+               "width": "1829",
+               "height": "1346",
+               "wheelBase": "2611",
+               "wheelTrack": "1.499",
+               "cargoVolume": "314",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ASTON MARTIN V8",
+               "firstYearProduction": "1973",
+               "lastYearProduction": "1978",
+               "topSpeed": "240",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "Manual, 5 Speed",
+               "length": "4623",
+               "width": "1829",
+               "height": "1326",
+               "wheelBase": "2611",
+               "wheelTrack": "1.501",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ASTON MARTIN DBS",
+         "firstYearProduction": "1967",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "ASTON MARTIN DBS Superleggera Volante",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Prese",
+               "topSpeed": "340",
+               "acceleration": "3.6",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4714",
+               "width": "2144",
+               "height": "1295",
+               "wheelBase": "2804",
+               "wheelTrack": "1.666",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ASTON MARTIN DBS Superleggera",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Prese",
+               "topSpeed": "340",
+               "acceleration": "3.4",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4712",
+               "width": "2146",
+               "height": "1280",
+               "wheelBase": "2804",
+               "wheelTrack": "1.666",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ASTON MARTIN DBS",
+               "firstYearProduction": "2008",
+               "lastYearProduction": "2012",
+               "topSpeed": "307",
+               "acceleration": "4.3",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed automatic",
+               "length": "4722",
+               "width": "1905",
+               "height": "1280",
+               "wheelBase": "2741",
+               "wheelTrack": "1.570",
+               "cargoVolume": "187",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ASTON MARTIN DBS",
+               "firstYearProduction": "1967",
+               "lastYearProduction": "1972",
+               "topSpeed": "227",
+               "acceleration": "8.5",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "5-Speed manual",
+               "length": "4585",
+               "width": "1829",
+               "height": "1328",
+               "wheelBase": "2611",
+               "wheelTrack": "1.499",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ASTON MARTIN V8 Vantage S Roadster",
+         "firstYearProduction": "2011",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "ASTON MARTIN V8 Vantage S Roadster",
+               "firstYearProduction": "2011",
+               "lastYearProduction": "Prese",
+               "topSpeed": "304",
+               "acceleration": "4.8",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4384",
+               "width": "1867",
+               "height": "1270",
+               "wheelBase": "2604",
+               "wheelTrack": "1.575",
+               "cargoVolume": "142",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ASTON MARTIN DB11 Volante",
+         "firstYearProduction": "2018",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "ASTON MARTIN DB11 Volante",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Prese",
+               "topSpeed": "322",
+               "acceleration": "4.2",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4750",
+               "width": "2060",
+               "height": "1300",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ASTON MARTIN DBX",
+         "firstYearProduction": "2020",
+         "engineType": "Gasoline",
+         "style": "SUV (Sports Utility Vehicle)",
+         "generations": [
+            {
+               "fullName": "ASTON MARTIN DBX",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "topSpeed": "291",
+               "acceleration": "4.5",
+               "drive type": "All Wheel Drive",
+               "gearBox": "9-speed automatic ",
+               "length": "5039",
+               "width": "1999",
+               "height": "1679",
+               "wheelBase": "3061",
+               "cargoVolume": "631",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ASTON MARTIN Rapide AMR",
+         "firstYearProduction": "2017",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "ASTON MARTIN Rapide AMR",
+               "firstYearProduction": "2017",
+               "lastYearProduction": "Prese",
+               "topSpeed": "330",
+               "acceleration": "4.3",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "5019",
+               "width": "1928",
+               "height": "1349",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ASTON MARTIN Vantage GT8",
+         "firstYearProduction": "2016",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "ASTON MARTIN Vantage GT8",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "Prese",
+               "topSpeed": "306",
+               "acceleration": "4.4",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-speed manual",
+               "length": "4539",
+               "width": "1923",
+               "height": "1257",
+               "wheelBase": "2601",
+               "wheelTrack": "1.590",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ASTON MARTIN Rapide E",
+         "firstYearProduction": "2019",
+         "engineType": "Electric",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "ASTON MARTIN Rapide E",
+               "firstYearProduction": "2019",
+               "lastYearProduction": "Prese",
+               "topSpeed": "249",
+               "acceleration": "4.2",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "Single speed",
+               "length": "5019",
+               "width": "2141",
+               "height": "1349",
+               "wheelBase": "2990",
+               "fuel": "Electric"
+            }
+         ]
+      },
+      {
+         "modelName": "ASTON MARTIN V12 Zagato",
+         "firstYearProduction": "2012",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "ASTON MARTIN V12 Zagato",
+               "firstYearProduction": "2012",
+               "lastYearProduction": "Prese",
+               "topSpeed": "306",
+               "acceleration": "4.2",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "6-Speed manual",
+               "length": "4384",
+               "width": "1864",
+               "height": "1250",
+               "wheelBase": "2601",
+               "wheelTrack": "1.570",
+               "cargoVolume": "300",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ASTON MARTIN V12 Speedster",
+         "firstYearProduction": "2020",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "ASTON MARTIN V12 Speedster",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "topSpeed": "299",
+               "acceleration": "3.5",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ASTON MARTIN V8 Vantage S",
+         "firstYearProduction": "2011",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "ASTON MARTIN V8 Vantage S",
+               "firstYearProduction": "2011",
+               "lastYearProduction": "Prese",
+               "topSpeed": "306",
+               "acceleration": "4.8",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic",
+               "length": "4382",
+               "width": "2022",
+               "height": "1260",
+               "wheelBase": "2601",
+               "wheelTrack": "1.575",
+               "cargoVolume": "300",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ASTON MARTIN DB11",
+         "firstYearProduction": "2016",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "ASTON MARTIN DB11 AMR",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Prese",
+               "topSpeed": "335",
+               "acceleration": "3.7",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4750",
+               "width": "2060",
+               "height": "1920",
+               "wheelBase": "2804",
+               "wheelTrack": "1.666",
+               "cargoVolume": "224",
+               "fuel": "Gasoline"
+            },
+            {
+               "fullName": "ASTON MARTIN DB11",
+               "firstYearProduction": "2016",
+               "lastYearProduction": "Prese",
+               "topSpeed": "299",
+               "acceleration": "4",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4740",
+               "width": "1941",
+               "height": "1280",
+               "wheelBase": "2804",
+               "wheelTrack": "1.666",
+               "cargoVolume": "224",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ASTON MARTIN Valhalla",
+         "firstYearProduction": "2022",
+         "engineType": "Hybrid gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "ASTON MARTIN Valhalla",
+               "firstYearProduction": "2022",
+               "lastYearProduction": "Prese",
+               "topSpeed": "330",
+               "acceleration": "2.5",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic DCT",
+               "fuel": "Hybrid Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ASTON MARTIN V12 Vantage S Roadster",
+         "firstYearProduction": "2014",
+         "engineType": "Gasoline",
+         "style": "Convertible (spider/spyder, cabrio/cabriolet, drop/open/soft top)",
+         "generations": [
+            {
+               "fullName": "ASTON MARTIN V12 Vantage S Roadster",
+               "firstYearProduction": "2014",
+               "lastYearProduction": "Prese",
+               "topSpeed": "232",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "7-speed automatic Sportshift III",
+               "length": "4384",
+               "width": "1864",
+               "height": "1260",
+               "wheelBase": "2601",
+               "wheelTrack": "1.570",
+               "cargoVolume": "144",
+               "fuel": "Gasoline"
+            }
+         ]
+      },
+      {
+         "modelName": "ASTON MARTIN Vantage Roadster",
+         "firstYearProduction": "2020",
+         "engineType": "Gasoline",
+         "style": "Coup\u00e9 (two-door)",
+         "generations": [
+            {
+               "fullName": "ASTON MARTIN Vantage Roadster",
+               "firstYearProduction": "2020",
+               "lastYearProduction": "Prese",
+               "topSpeed": "306",
+               "acceleration": "3.8",
+               "drive type": "Rear Wheel Drive",
+               "gearBox": "8-speed automatic",
+               "length": "4465",
+               "width": "1943",
+               "height": "1273",
+               "wheelBase": "2705",
+               "cargoVolume": "201",
+               "fuel": "Gasoline"
+            }
+         ]
+      }
+   ]
+}

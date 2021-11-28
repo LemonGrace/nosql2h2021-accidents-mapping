@@ -1,0 +1,40 @@
+{
+   "brand": "AURUS",
+   "models": [
+      {
+         "modelName": "AURUS Senat",
+         "firstYearProduction": "2018",
+         "engineType": "Hybrid gasoline",
+         "generations": [
+            {
+               "fullName": "AURUS Senat",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Prese",
+               "topSpeed": "249",
+               "acceleration": "6",
+               "drive type": "All Wheel Drive",
+               "gearBox": "9-speed automatic ",
+               "length": "5631",
+               "width": "2019",
+               "height": "1684",
+               "wheelBase": "3299",
+               "fuel": "Hybrid Gasoline"
+            },
+            {
+               "fullName": "AURUS Senat Limousine",
+               "firstYearProduction": "2018",
+               "lastYearProduction": "Prese",
+               "topSpeed": "159",
+               "acceleration": "9",
+               "drive type": "All Wheel Drive",
+               "gearBox": "9-speed automatic ",
+               "length": "6629",
+               "width": "2019",
+               "height": "1694",
+               "wheelBase": "4300",
+               "fuel": "Hybrid Gasoline"
+            }
+         ]
+      }
+   ]
+}
