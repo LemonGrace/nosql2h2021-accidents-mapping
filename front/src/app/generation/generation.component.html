@@ -1,0 +1,34 @@
+<div class="menu">
+  <p routerLink="">Home</p>
+  <p> > </p>
+  <p routerLink="/{{Brand}}"> {{Brand}} </p>
+  <p> > </p>
+  <p>{{getModelName()}}</p>
+</div>
+
+<div *ngFor="let generation of Generatins" class="container">
+  <p class="title">{{generation.fullName}}&nbsp; {{generation.firstYearProduction}} - {{generation.lastYearProduction}}</p>
+  <div class="mini-container">
+    <div>
+      <img src="{{generation.image}}" class="img">
+      <p style="font-weight: bold; padding-top: 10px">TRANSMISSION SPECS</p>
+      <p>DRIVE TYPE: <em>{{generation.driveType}}</em></p>
+      <p>DriveGEARBOX: <em>{{generation.gearBox}}</em></p>
+    </div>
+    <div>
+      <p style="font-weight: bold">PERFORMANCE SPECS</p>
+      <p>TOP SPEED: <em>{{generation.topSpeed}}</em></p>
+      <p>ACCELERATION 0-62 MPH (0-100 KPH): <em>{{generation.acceleration}}</em></p>
+      <p style="font-weight: bold">DIMENSIONS</p>
+      <p>LENGTH: <em>{{generation.lenght}}</em></p>
+      <p>WIDTH: <em>{{generation.width}}</em></p>
+      <p>HEIGHT: <em>{{generation.height}}</em></p>
+      <p>WHEELTRACK: <em>{{generation.wheelTrack}}</em></p>
+      <p>WHEELBASE: <em>{{generation.wheelBase}}</em></p>
+      <p>CARGO VOLUME: <em>{{generation.cargoVolume}}</em></p>
+      <p>AERODYNAMICS: <em>{{generation.aerodynamics}}</em></p>
+      <p>FUEL: <em>{{generation.fuel}}</em></p>
+    </div>
+  </div>
+
+</div>

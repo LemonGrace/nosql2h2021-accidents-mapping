@@ -1,0 +1,19 @@
+<div>
+  <img src="assets/vecher-doroga-priroda.jpg" class="imgmain">
+</div>
+<div class="search">
+  <p>Car catalog</p>
+  <div><input (keyup)="FindBrand($event)" #input></div>
+</div>
+<ng-container *ngIf="Result">
+  <div *ngFor="let res of Result" class="menu-container">
+    <p class="style" (click)="GoNext(res.brand)">{{res.brand}}</p>
+  </div>
+</ng-container>
+<div *ngIf="Init" class="container">
+  <div *ngFor="let brand of Brands" class="brand" (click)="GoNext(brand.brand)">
+    <div class="logo"><img src="{{brand.logo}}" class="brand-logo"></div>
+    <div class="name-brand">{{brand.brand}}</div>
+  </div>
+</div>
+

@@ -1,0 +1,28 @@
+<div class="menu">
+  <p routerLink="">Home</p>
+  <p> > </p>
+  <p> {{Brand}} </p>
+</div>
+<div class="search">
+  <p>Catalog brand models</p>
+  <div><input (keyup)="FindModel($event)" #input></div>
+</div>
+<ng-container *ngIf="Result">
+  <div *ngFor="let res of Result" class="menu-container">
+    <p class="style" (click)="GoToGenerations(res.modelName)">{{res.modelName}}</p>
+  </div>
+</ng-container>
+<div class="start">
+  <div class="wrapper">
+    <div><span>Model</span></div>
+    <div><span>Generation</span></div>
+    <div><span>First production year</span></div>
+    <div><span>Engines</span></div>
+  </div>
+  <div *ngFor="let model of Models" class="wrapper">
+    <div (click)="GoToGenerations(model.modelName)" class="click">{{model.modelName}}</div>
+    <div>{{model.firstYearProduction}}</div>
+    <div>{{model.engineType}}</div>
+    <div>{{model.generations_count}}</div>
+  </div>
+</div>
