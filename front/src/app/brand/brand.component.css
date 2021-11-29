@@ -1,0 +1,82 @@
+.start {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.wrapper {
+  justify-content: center;
+  display: flex;
+  flex-wrap: nowrap;
+  font-family: "Segoe UI", serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+.wrapper > div > span {
+  font-weight: bold;
+}
+
+.wrapper > div {
+  width: 23vw;
+  border: 1px solid black;
+  padding: 7px;
+  background: linear-gradient(to right, #bab8b8, #ffffff);
+
+}
+
+.click {
+  cursor: pointer;
+}
+
+.menu {
+  display: flex;
+  margin-left: 40px;
+  cursor: pointer;
+  font-family: "Segoe UI", serif;
+  font-size: 20px;
+  gap: 10px;
+  font-weight: bold;
+  color: #9e0800;
+
+}
+
+.menu > p:last-child {
+  color: black;
+}
+.search {
+  margin: auto;
+  display: flex;
+  align-content: center;
+  gap: 10px;
+  padding-left: 50px;
+}
+.search > div {
+  display: flex;
+  height: 30px;
+  padding-top: 20px;
+}
+.search > p {
+  margin-left: 40px;
+  font-family: "Segoe UI", serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+}
+
+.search > div > input {
+  width: 800px;
+}
+.menu-container {
+  margin: 0 20px;
+  border: 1px solid;
+  background: linear-gradient(to right, #b79a9a, #ffffff);
+
+}
+
+.style {
+  text-align: center;
+  color: black;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Segoe UI", serif;
+}

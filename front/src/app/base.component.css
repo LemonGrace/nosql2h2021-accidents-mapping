@@ -1,0 +1,47 @@
+.header {
+  background-color: #434343;
+  height: 20vh;
+  width: 100%;
+
+}
+.footer {
+  background-color: #434343;
+  height: 50px;
+  width: 100%;
+}
+
+.footer2 {
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #eae3e3;
+}
+
+p {
+  margin: 0;
+  color: #c9d1d9;
+  font-family: "Segoe UI", serif;
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-left: 30px;
+}
+.carfront, .carside {
+  width: 40px;
+  height: 40px;
+}
+.logo {
+  color: #c9d1d9;
+  font-family: "Segoe UI", serif;
+  font-size: 24px;
+  font-weight: bold;
+  padding-left: 30px;
+  padding-top: 20px;
+  display: flex;
+  align-content: center;
+  gap: 10px;
+}
+.label {
+  text-align: center;
+}
