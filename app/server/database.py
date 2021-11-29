@@ -78,7 +78,7 @@ async def retrieve_generations_car(brand: str, model_name: str) -> list:
         model_data = data['models'][0]
         if'generations' in model_data:
             for i, gen in enumerate(model_data['generations']):
-                model_data['generations'][i]['image'] = PurePosixPath("source", "image", "generations",
+                model_data['generations'][i]['image'] = PurePosixPath("generations",
                                                                       brand.upper(), model_name,
                                                                       str(gen['fullName']).replace(' ', '_') + '.jpg')
             return model_data['generations']

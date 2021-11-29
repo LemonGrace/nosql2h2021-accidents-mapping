@@ -1,5 +1,9 @@
+import os
+from pathlib import Path
+
 from fastapi import FastAPI
-from starlette.middleware.cors import CORSMiddleware
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 
 from app.server.routes.car import router as CarRouter
 
@@ -10,6 +14,7 @@ origins = [
     "https://domainname.com",
     "http://localhost",
     "http://localhost:8080",
+    "http://localhost:4200",
 ]
 
 app.add_middleware(
@@ -20,8 +25,9 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-app.include_router(CarRouter, tags=["Car"], prefix="/car")
 
+app.include_router(CarRouter, tags=["Car"], prefix="/car")
+app.mount("/source/image", StaticFiles(directory=Path(os.getcwd(), '..', 'source', 'image')), name="static")
 
 @app.get("/", tags=["Root"])
 async def read_root():
